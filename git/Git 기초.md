@@ -45,7 +45,6 @@ $ git add a.html		# 특정 파일
 $ git add b.html c.html # 특정 다수 파일
 $ git add blog/			# 특정 폴더
 
-
 ```
 
 ```bash
