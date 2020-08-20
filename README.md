@@ -8,7 +8,7 @@
 
 1. Git
 
-* [Git 기초](./git/Git 기초.md)
+* [Git 기초](./git/Git_기초.md)
 
 * [Git 원격 저장소 활용](./git/Git 원격 저장소 활용.md)
 
