@@ -40,7 +40,12 @@ nothing added to commit but untracked files present (use "git add" to track)
 ```
 
 ```bash
-$ git add .
+$ git add .				# 현재 디렉토리(하위 디렉토리 포함)
+$ git add a.html		# 특정 파일
+$ git add b.html c.html # 특정 다수 파일
+$ git add blog/			# 특정 폴더
+
+
 ```
 
 ```bash
