@@ -6,7 +6,7 @@
 
 ## 목록 
 
-1. Git
+##### 1. Git
 
 * [Git 기초](./git/Git_기초.md)
 
@@ -15,6 +15,6 @@
 * [Git branch](./git/branch.md)
 
   
+##### 2. Programmers
 
-2. Programmers
 
