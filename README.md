@@ -6,15 +6,21 @@
 
 ## 목록 
 
-##### 1. Git
+1. Git
 
 * [Git 기초](./git/Git_기초.md)
-
 * [Git 원격 저장소 활용](./git/Git_원격_저장소_활용.md)
-
 * [Git branch](./git/branch.md)
+* [Git ignore](./git/gitignore.md)
 
-  
-##### 2. Programmers
+
+
+2. Python
+
+* [가상환경](./python/virtual_environment.md)
+
+
+
+2. Programmers
 
 
