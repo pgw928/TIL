@@ -63,9 +63,7 @@ Changes to be committed:
 
 ```
 
-작업 공간 : working directory
-
-커밋 대상 목록 : staging area
+##  3. `commit`
 
 ```bash
 $ git commit -m 'Add markdown.md'
@@ -104,3 +102,70 @@ On branch master
 nothing to commit, working tree clean
 ```
 
+## 4. 기타 명령어
+
+### 1) `restore`
+
+작업공간(working directory)의 변경 사항을 버린다.
+
+```bash
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  # 힌트!
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   CLI.txt
+​```bash
+no changes added to commit (use "git add" and/or "git commit")
+$ git restore CLI.txt
+
+```
+
+* `--staged` 옵션을 활용하면, staging area를 취소(`add` 명령어의 반대)
+
+```bash
+ $ git status
+ On branch master
+ Changes to be committed:
+ 	(use "git restore --staged <file>..." to unstage)
+          modified:   CLI.txt
+```
+
+  ```bash
+$ git restore --staged CLI.txt
+$ git status
+On branch master
+Changes not staged for commit:
+   (use "git add <file>..." to update what will be committed)
+   (use "git restore <file>..." to discard changes in working directory)
+          modified:   CLI.txt
+  
+  no changes added to commit (use "git add" and/or "git commit -a")
+  ```
+
+### 2) `commit` 메시지 변경
+
+```bash
+$ git commit --amend
+```
+
+* vim 편집기가 실행된다.
+* `i` : 편집 모드로 변경되어서 메시지 변경 가능
+* `esc` + `:wq` : 저장하고 종료
+* **주의!!** 공개된 커밋은 절대 변경 금지.
+
+```bash
+  $ git log --oneline
+  00a6259 (HEAD -> master) TEest
+  f7dc503 First commit
+  
+  $ git commit --amend
+  [master 4d42f0f] Test
+   Date: Fri Aug 21 16:17:42 2020 +0900
+   1 file changed, 1 insertion(+)
+  
+  $ git log --oneline
+  4d42f0f (HEAD -> master) Test
+  f7dc503 First commit
+```

@@ -291,8 +291,8 @@
    5315196 Hellobranch
    7bcaf91 Init
 
-   ```
-   
+```
+
 5. master에 병합
 
    ```bash
@@ -386,7 +386,3 @@
     $ git branch -d feature/board
     ```
     
-    
-```
-
-```

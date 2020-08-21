@@ -23,7 +23,7 @@ origin  https://github.com/pgw928/TIL.git (push)
 
 
 
-## 원격 저장소에 `push`  
+## 1. 원격 저장소에 `push`  
 
 ```bash
 $git push origin master
@@ -36,7 +36,14 @@ Total 9 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/pgw928/TIL.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
-
-
 ```
 
+* 원격저장소(`origin`) 의 `mater` 브랜치로 기록된 커밋(버전)이 업데이트된다.
+
+## 3. pull
+
+```bash
+$ git pull origin master
+```
+
+* 원격저장소(`origin`)의 `master` 브랜치의 기록된 커밋(버전)이 현재 로컬 저장소로 받아온다.
