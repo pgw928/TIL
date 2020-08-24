@@ -1,4 +1,4 @@
-## TIL(Today I Learned)
+# TIL(Today I Learned)
 
  오늘 배운것을 정리합니다.
 
@@ -6,7 +6,7 @@
 
 ## 목록 
 
-1. Git
+### 1. Git
 
 * [Git 기초](./git/Git_기초.md)
 * [Git 원격 저장소 활용](./git/Git_원격_저장소_활용.md)
@@ -19,16 +19,22 @@
 
 
 
-2. Python
+
+
+### 2. Python
 
 * [가상환경](./python/virtual_environment.md)
 
 
 
-2. Algorithm
+### 3. Algorithm
 
-3. Django
+
+
+### 4. Django
 * [Datetime](./django/DateField.md)
+
+* [objects.create()](./django/objects_creates.md)
 
 
 
