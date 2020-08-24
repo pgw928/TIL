@@ -34,7 +34,7 @@
 ### 4. Django
 * [Datetime](./django/DateField.md)
 
-* [objects.create()](./django/objects_creates.md)
+* [objects.create()](./django/objects_create.md)
 
 
 
