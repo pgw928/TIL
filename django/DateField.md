@@ -21,7 +21,7 @@
 <td >{{history.date}}</td>
 ```
 
-![datefield](C:\Users\User\Desktop\GIT\TIL\markdown-images\datefield.PNG)
+![datefield](markdown-images/datefield.PNG)
 
 위의 사진에서는 **2020-08-24** 와 같은 표기법을 원하는데 구글링을 해보면 주로 `forms.py` 를 이용하는 방법이 나오는데 예제가 많이 없는만큼 따라하기 쉽지 않았다.
 
@@ -38,6 +38,6 @@
 
 
 
-결과는 다음과 같다.
+마지막으로 결과는 다음과 같다.
 
-![datefield1](C:\Users\User\Desktop\GIT\TIL\markdown-images\datefield1.PNG)
+![datefield1](markdown-images/datefield1.PNG)
