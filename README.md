@@ -30,9 +30,9 @@
 
 ### 3. Numpy
 
-* [Numpy란?](./numpy/numpy_base)
+* [Numpy란?](./numpy/numpy_base.md)
 
-* [Dimension 관한 속성 및 method](./numpy/dimension)
+* [Dimension 관한 속성 및 method](./numpy/dimension.md)
 
 ### 3. Algorithm
 
