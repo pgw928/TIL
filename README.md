@@ -24,8 +24,15 @@
 ### 2. Python
 
 * [가상환경](./python/virtual_environment.md)
-
 * [데이터 분석을 위한 파이썬 환경설정](./python/env_for_data.md)
+
+
+
+### 3. Numpy
+
+* [Numpy란?](./numpy/numpy_base)
+
+* [Dimension 관한 속성 및 method](./numpy/dimension)
 
 ### 3. Algorithm
 
