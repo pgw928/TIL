@@ -23,7 +23,7 @@
   plt.show()
   ```
 
-![정규분포](C:\Users\User\Desktop\GIT\TIL\markdown-images\정규분포.PNG)
+![정규분포](markdown-images/정규분포.PNG)
 
   * 정규분포이기 때문에  평균 근처로 갈수록 더 많은 random값들이 뽑혔다.
 
@@ -43,7 +43,7 @@
      plot.show()
      ```
 
-        				 	![표준정규분포](C:\Users\User\Desktop\GIT\TIL\markdown-images\표준정규분포.PNG)
+        				 	![표준정규분포](markdown-images/표준정규분포.PNG)
 
    
 
@@ -60,9 +60,7 @@
   plot.show()
   ```
 
-  ![rand](C:\Users\User\Desktop\GIT\TIL\markdown-images\rand.PNG)
-
-  
+  ![rand](markdown-images/rand-1599409653624.PNG)
 
 ## 4. random.randint
 
@@ -77,9 +75,7 @@
   plt.show()
   ```
 
-  ![randint](C:\Users\User\Desktop\GIT\TIL\markdown-images\randint.PNG)
-
-  
+  ![randint](markdown-images/randint-1599409682348.PNG)
 
 ## 5. random.random
 
@@ -94,7 +90,4 @@
   plt.show()
   ```
 
-  ![random](C:\Users\User\Desktop\GIT\TIL\markdown-images\random.PNG)
-
-
-
+  ![random](markdown-images/random-1599409697426.PNG)
