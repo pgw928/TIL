@@ -34,6 +34,9 @@
 
 * [Ndarray dimension에 관한 속성 및 method](./numpy/dimension.md)
 * [여러가지 ndarray-(1)](./numpy/ndarray_1.md)
+* [여러가지 ndarray-(2)](./numpy/ndarray_2.md)
+
+
 
 
 
