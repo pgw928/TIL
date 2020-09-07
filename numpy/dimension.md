@@ -234,3 +234,10 @@ print(arr)       # [[1 2 3]
 
 * `reshape`과 마찬가지로 `view`를 return 한다.
 
+
+
+## resize
+
+* `reshape` method와 유사하다.
+* `reshape` 과 달리 어떤 `shape`을 대입하든 다 `resize`되고 원소가 부족하면 `0`으로 채우고 넘치면 원소를 버린다.
+* 

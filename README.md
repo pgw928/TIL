@@ -31,13 +31,13 @@
 ### 3. Numpy
 
 * [Numpy란?](./numpy/numpy_base.md)
-
 * [Ndarray dimension에 관한 속성 및 method](./numpy/dimension.md)
 * [여러가지 ndarray-(1)](./numpy/ndarray_1.md)
 * [여러가지 ndarray-(2)](./numpy/ndarray_2.md)
 * [여러가지 ndarray-(3)](./numpy/ndarray_3.md)
+* [Indexing & Slicing](./numpy/idx_sli.md)
 
-
+* [ndarray의 연산](./numpy/operation.md)
 
 
 
@@ -49,6 +49,12 @@
 * [Datetime](./django/DateField.md)
 
 * [objects.create()](./django/objects_create.md)
+
+
+
+### 5. Markdown
+
+* [Markdown 기초](./markdown/markdown.md)
 
 
 
