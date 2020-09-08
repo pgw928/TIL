@@ -38,6 +38,9 @@
 * [Indexing & Slicing](./numpy/idx_sli.md)
 
 * [ndarray의 연산](./numpy/operation.md)
+* [집계함수](./numpy/aggregate_function.md)
+
+
 
 
 
