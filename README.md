@@ -19,8 +19,6 @@
 
 
 
-
-
 ### 2. Python
 
 * [가상환경](./python/virtual_environment.md)
@@ -42,20 +40,27 @@
 
 
 
+### 4. Pandas
+
+* [Series](./pandas/Series.md)
+* [DataFrame]()
 
 
-### 3. Algorithm
 
 
 
-### 4. Django
+### 5. Algorithm
+
+
+
+### 6. Django
 * [Datetime](./django/DateField.md)
 
 * [objects.create()](./django/objects_create.md)
 
 
 
-### 5. Markdown
+### 7. Markdown
 
 * [Markdown 기초](./markdown/markdown.md)
 
