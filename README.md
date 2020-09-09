@@ -43,6 +43,7 @@
 ### 4. Pandas
 
 * [Series](./pandas/Series.md)
+* [Series 예제](./pandas/Series_example.md)
 * [DataFrame]()
 
 

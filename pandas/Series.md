@@ -4,7 +4,8 @@
 * 1차원 구조이다.
 * `Numpy`의 `ndarray` 기반으로 되어있다.
 
-* 
+  
+
 
 ## Series 기초
 
@@ -72,11 +73,9 @@ print(s['a':'c'])
 
 * 문자 index는 숫자 index와 다르게 `stop`을 포함해서 출력한다.
 
-
-
 ### (참고)
 
-> `Series`는 `ndarray` 기반이기 때문에 `Boolean indexing`, `Fancy indexing`, 그 밖의  `numpy` 함수나 method를 그대로 사용할 수 있다. 
+**`Series`는 `ndarray` 기반이기 때문에 `Boolean indexing`, `Fancy indexing`, 그 밖의  `numpy` 함수나 method를 그대로 사용할 수 있다. **
 
 
 
