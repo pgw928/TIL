@@ -2,7 +2,7 @@
 
 > `pandas` 의 `DataFrame` 에 관한 `row`와 `column` 추출,수정등에 관한 내용에 대해서 알아본다.
 
-대대분의 예제로 다음의 `data`를 사용한다.
+대부분의 예제로 다음의 `data`를 사용한다.
 
 ```python
 import pandas as pd
@@ -90,7 +90,7 @@ display(df['학과':'학점'])   # KeyError: '학과'
 
 ## 단일 column값 수정하는 방법
 
-> column을 추출해 **단일값, array, list**를 이용해서 수정할 수 있다.
+> column을 추출해 **scalar, array, list**를 이용해서 수정할 수 있다.
 
 ![dataFrame_detail](markdown-images/dataFrame_detail.PNG)
 
@@ -129,7 +129,7 @@ display(df)
 
 ## 다수 column값 수정하는 방법
 
-> 단일 column 수정과 다르지 않다.  마찬가지로 **단일값, array, list**를 이용해서 수정할 수 있다.
+> 단일 column 수정과 다르지 않다.  마찬가지로 scalar, array, list**를 이용해서 수정할 수 있다.
 
 ![dataFrame_detail](markdown-images/dataFrame_detail.PNG)
 
@@ -167,7 +167,3 @@ display(df)
 ```
 
 ![dataFrame_detail6](markdown-images/dataFrame_detail6.PNG)
-
-
-
-#

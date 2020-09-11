@@ -47,6 +47,8 @@
 * [DataFrame]()
 
 * [기본 DataFrame coulmn-(1)](./pandas/DataFrame_detail.md)
+* [기본 DataFrame coulmn-(2)](./pandas/DataFrame_detail2.md)
+* 
 
 
 
