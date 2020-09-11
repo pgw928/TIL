@@ -46,7 +46,7 @@
 * [Series 예제](./pandas/Series_example.md)
 * [DataFrame]()
 
-
+* [기본 DataFrame coulmn-(1)](./pandas/DataFrame_detail.md)
 
 
 
