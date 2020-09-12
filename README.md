@@ -52,6 +52,8 @@
 * [DataFrame의 row와 column 기본차이 정리](./pandas/r_c_difference.md)
 * [DataFrame.loc](./pandas/DataFrame.loc.md)
 
+* [DataFrame.iloc](./pandas/DataFrame.iloc.md)
+
 
 
 ### 5. Algorithm

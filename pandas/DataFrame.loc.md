@@ -2,9 +2,9 @@
 
 > 위의 목차에서 [DataFrame의 row와 column 차이](./pandas/r_c_difference.md)를 보면 `DataFrame`의 `row`와 `column`을 다룰 때 작동하는것이 있고 작동하지 않는 방법이 있었다. 이를 해결해 주는 방법이 `pandas` `DataFrame`의 `loc`나 `iloc`를 이용하는 방법이 있다. 여기서는 `loc`에 대해서 다루기로 한다.
 
-* loc를 사용함에 있어서 가장 쉽게 생각해는 방법은 2차원으로 생각하는 방법이다.
+* `loc`를 사용함에 있어서 가장 쉽게 생각해는 방법은 2차원으로 생각하는 방법이다.
 * 일반적으로 문자로 이루어진 `columns`와 `index`를 이용한다.
-
+* `loc`를 사용하면 `Series` 또는 `DataFrame`으로 불러온다.
 * 숫자를 사용한 indexing이나 slicing은 할 수 없다.(이것은 `iloc`를 사용하면 된다.)
 * `row`와 `column` 동시에 `fancy indexing`이 가능하다.
 
@@ -37,7 +37,7 @@ display(df)
 * 기본 indexing
 
 ```python
-df.loc['three']    # Series
+print(df.loc['three'])    # Series
 # 학과     철학
 # 이름    홍길동
 # 학점    3.1
