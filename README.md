@@ -49,8 +49,8 @@
 * [기본 DataFrame coulmn-(1)](./pandas/DataFrame_detail.md)
 * [기본 DataFrame coulmn-(2)](./pandas/DataFrame_detail2.md)
 * [기본 DataFrame_row](./pandas/DataFrame_row.md)
-* [DataFrame의 row와 column 차이](./pandas/r_c_difference.md)
-* 
+* [DataFrame의 row와 column 기본차이 정리](./pandas/r_c_difference.md)
+* [DataFrame.loc](./pandas/DataFrame.loc.md)
 
 
 
