@@ -54,6 +54,10 @@
 
 * [DataFrame.iloc](./pandas/DataFrame.iloc.md)
 * [DataFrame의 분석을 위한 함수들(1)](./pandas/DataFrame_functions.md)
+* [DataFrame의 분석을 위한 함수들(2)](./pandas/DataFrame_functions2.md)
+* [DataFrame의 분석을 위한 함수들(3)]()
+
+
 
 
 
@@ -63,18 +67,18 @@
 
 
 
-### 5. Algorithm
+### 6. Algorithm
 
 
 
-### 6. Django
+### 7. Django
 * [Datetime](./django/DateField.md)
 
 * [objects.create()](./django/objects_create.md)
 
 
 
-### 7. Markdown
+### 8. Markdown
 
 * [Markdown 기초](./markdown/markdown.md)
 
