@@ -37,7 +37,7 @@ display(df)
 * 기본 indexing
 
 ```python
-print(df.loc['three'])    # Series
+print(df.loc['three'])      # Series
 # 학과     철학
 # 이름    홍길동
 # 학점    3.1
@@ -51,7 +51,7 @@ print(df.loc['three'])    # Series
 * fancy indexing
 
 ```python
-display(df.loc[['three']])
+display(df.loc[['three']])  # DataFrame
 ```
 
 ![image-20200913000920671](markdown-images/image-20200913000920671.png)

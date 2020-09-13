@@ -56,6 +56,12 @@
 
 
 
+###  5. matplotlib.pyplot
+
+* [scatter](./matplotlib/scatter)
+
+
+
 ### 5. Algorithm
 
 
