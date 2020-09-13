@@ -53,6 +53,7 @@
 * [DataFrame.loc](./pandas/DataFrame.loc.md)
 
 * [DataFrame.iloc](./pandas/DataFrame.iloc.md)
+* [DataFrame의 분석을 위한 함수들(1)](./pandas/DataFrame_functions.md)
 
 
 
