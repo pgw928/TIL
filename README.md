@@ -57,7 +57,7 @@
 * [DataFrame의 분석을 위한 함수들(2)](./pandas/DataFrame_functions2.md)
 * [DataFrame의 분석을 위한 함수들(3)](./pandas/DataFrame_functions3.md)
 
-
+* [Grouping](./pandas/grouping.md)
 
 
 
