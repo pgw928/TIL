@@ -1,6 +1,6 @@
 # DataFrame의 결합(merge)(1)
 
->두 DataFrame을 Database 결합(join)하기 위해서는 두개의 DataFrame과 기준(`on`), 방법(`how`) 옵션이 들어간다. 다음의 예제를 통해 여러가지 방법에 대해서 알아본다.
+>두 DataFrame을 Database 결합(join)하기 위해서는 두개의 DataFrame과 기준(`on`), 방법(`how`) 옵션이 들어간다. 여기서는 full outer join, full left join, full right join에 대해서 알아본다. 모든것은 아래의 예제에 대해서 설명된다.
 
 ![image-20200915024044786](markdown-images/image-20200915024044786.png)
 
@@ -27,7 +27,7 @@ display(df2)
 
 
 
-## full outer join
+## 1. full outer join
 
 > Outer join은 두 `DataFrame`의 합집합으로 생각할 수 있다. option에는 `how='outer'` 가 입력된다.
 
@@ -39,7 +39,9 @@ display(result)
 
 ![image-20200916165858323](markdown-images/image-20200916165858323.png)
 
-## Full left join
+
+
+## 2. Full left join
 
 > Left join은 두 `DataFrame` 을 `df1` , `df2` 라 하면 `df1`에 `df2-df1` 을 합집합 해준다고 생각 할 수 있다.
 
@@ -51,7 +53,9 @@ display(result1)
 
 ![image-20200916165832779](markdown-images/image-20200916165832779.png)
 
-## Full right join
+
+
+## 3. Full right join
 
 > Right join은  left join 과 마찬가지 역할로 `df1`, `df2` 순서만 변했다고 생각 할 수 있다. 대신 `df2`의 `column` 이 뒤에 붙는다.
 
@@ -73,3 +77,15 @@ display(result3)
 
 Full left join에서의  `column`  순서를 제외한 같은 결과물을 얻을 수 있다.
 
+
+
+## 4. Inner join
+
+> `merge`의 기본 default 값이고 두 `DataFrame`의 학번의 교집합을 연산을 하고 나머지 `column`을 다 가져온다.
+
+```python
+result = pd.merge(df1,df2, on='학번',how='inner')
+display(result)
+```
+
+![image-20200916215027731](markdown-images/image-20200916215027731.png)
