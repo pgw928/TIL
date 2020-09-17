@@ -58,6 +58,9 @@
 * [DataFrame의 결합(merge(1))](./pandas/merge1.md)
 * [DataFrame의 결합(merge(2))](./pandas/merge2.md)
 * [Concatenation](./pandas/Concatenation.md)
+* [결측치 다루기](./pandas/nan_value.md)
+
+###  
 
 ###  5. matplotlib.pyplot
 

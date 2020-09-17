@@ -80,7 +80,7 @@ display(result)
 
 
 
-## 3. 결측치행 추출하기 또는 제외하기
+## 4. 결측치행 추출하기 또는 제외하기
 
 > `isnull` 과 `notnull`을 사용해 boolean mask를 만든 후 `NaN`이 있는 행과 `NaN`이 없는 행 각각 추출가능하다.
 
