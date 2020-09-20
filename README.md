@@ -30,15 +30,17 @@
 
 * [Numpy란?](./numpy/numpy_base.md)
 * [Ndarray dimension에 관한 속성 및 method](./numpy/dimension.md)
-* [여러가지 ndarray-(1)](./numpy/ndarray_1.md)
-* [여러가지 ndarray-(2)](./numpy/ndarray_2.md)
-* [여러가지 ndarray-(3)](./numpy/ndarray_3.md)
+* [여러가지 ndarray-(1)(zeros, ones, fulls, empty, arange, linspace)](./numpy/ndarray_1.md)
+* [여러가지 ndarray-(2)(random 함수들1)](./numpy/ndarray_2.md)
+* [여러가지 ndarray-(3)(random 함수들2)](./numpy/ndarray_3.md)
 * [Indexing & Slicing](./numpy/idx_sli.md)
 
 * [ndarray의 연산](./numpy/operation.md)
 * [집계함수](./numpy/aggregate_function.md)
 
+* [iterator](./numpy/iterator.md)
 
+  
 
 ### 4. Pandas
 
@@ -80,7 +82,11 @@
 
 
 
-### 8. Markdown
+### 8. DBMS 
+
+* [Mysql]()
+
+### 9. Markdown
 
 * [Markdown 기초](./markdown/markdown.md)
 
