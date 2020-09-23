@@ -73,6 +73,7 @@
 
 ### 6. Machine Learning
 * [AI, ML, DL 분류](./machine_learning/definition.md)
+* [수치미분](./machine_learning/finite_difference.md)
 
 
 
