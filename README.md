@@ -71,22 +71,27 @@
 
 
 
-### 6. Algorithm
+### 6. Machine Learning
+* [AI, ML, DL 분류](./machine_learning/definition.md)
 
 
 
-### 7. Django
+### 7. Algorithm
+
+
+
+### 8. Django
 * [Datetime](./django/DateField.md)
 
 * [objects.create()](./django/objects_create.md)
 
 
 
-### 8. DBMS 
+### 9. DBMS 
 
 * [Mysql]()
 
-### 9. Markdown
+### 10. Markdown
 
 * [Markdown 기초](./markdown/markdown.md)
 
