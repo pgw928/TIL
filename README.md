@@ -74,8 +74,8 @@
 ### 6. Machine Learning
 * [AI, ML, DL 분류](./machine_learning/definition.md)
 * [수치미분](./machine_learning/FD.md)
-* [regression](./machine_learning/regression.md)
-* [regression(내방식)](./machine_learning/regression1.md)
+* [regression](./machine_learning/LinearRegression.md)
+* [regression(내방식)](./machine_learning/LinearRegression1.md)
 
 
 
