@@ -67,7 +67,7 @@
 
 ###  5. matplotlib.pyplot
 
-* [scatter](./matplotlib/scatter)
+* [scatter, plot](./matplotlib/scatter)
 
 
 
