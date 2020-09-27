@@ -77,5 +77,35 @@ model.fit(x_data, t_data)
 W = model.coef_
 b = model.intercept_
 print('W : {}, b : {}'.format(W,b))
+# W : [[2.4287033]], b : [-146.99549097]
 ```
 
+
+
+## 7. 그래프로 확인
+
+```python
+plt.scatter(x_data, t_data)
+plt.plot(x_data, np.dot(x_data,W) + b , color='r')
+plt.show()
+```
+
+![image-20200928010603728](markdown-images/image-20200928010603728.png)
+
+
+
+## 8. 예측
+
+```python
+predict_val = model.predict([[80]])  # 이중 list가 아니면 error
+print(predict_val)  
+# [[47.30077342]]
+```
+
+
+
+
+
+## 알아야 할 keyword
+
+`model = linear_model.LinearRegression`, `model.fit`, `model.coef_`, `model.intercept_`, `model.predict`
