@@ -34,7 +34,7 @@ training_data = training_data.dropna(how='any')
 display(training_data)
 ```
 
-![image-20200926031905552](markdown-images/image-20200926031905552.png)
+![s](markdown-images/image-20200926031905552.png)
 
 
 
