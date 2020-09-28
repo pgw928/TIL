@@ -1,6 +1,6 @@
 ## 이상치(Outlier) 처리-(1)(Tukey Outlier)
 
-> 이상치 처리하는데 많이 사용되는 두가지 방법 **Tukey Outlier**와 **Z-Score**에 대해서 알아본다.
+> 이상치 처리하는데 많이 사용되는 두가지 방법 **Tukey Outlier**와 **Z-Score**중 **Tukey Outlier**에 대해서 알아본다.
 
 
 
