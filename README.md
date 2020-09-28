@@ -53,12 +53,12 @@
 * [DataFrame의 row와 column 기본차이 정리](./pandas/r_c_difference.md)
 * [DataFrame.loc](./pandas/DataFrame.loc.md)
 * [DataFrame.iloc](./pandas/DataFrame.iloc.md)
-* [DataFrame의 분석을 위한 함수들(1)](./pandas/DataFrame_functions.md)
-* [DataFrame의 분석을 위한 함수들(2)](./pandas/DataFrame_functions2.md)
-* [DataFrame의 분석을 위한 함수들(3)](./pandas/DataFrame_functions3.md)
+* [DataFrame의 분석을 위한 함수들-(1)](./pandas/DataFrame_functions.md)
+* [DataFrame의 분석을 위한 함수들-(2)](./pandas/DataFrame_functions2.md)
+* [DataFrame의 분석을 위한 함수들-(3)](./pandas/DataFrame_functions3.md)
 * [Grouping](./pandas/Grouping.md)
-* [DataFrame의 결합(merge(1))](./pandas/merge1.md)
-* [DataFrame의 결합(merge(2))](./pandas/merge2.md)
+* [DataFrame의 결합(merge-(1))](./pandas/merge1.md)
+* [DataFrame의 결합(merge-(2))](./pandas/merge2.md)
 * [Concatenation](./pandas/Concatenation.md)
 * [결측치 다루기](./pandas/nan_value.md)
 * [duplication](./pandas/duplication.md)
@@ -76,6 +76,9 @@
 * [수치미분](./machine_learning/FD.md)
 * [regression](./machine_learning/LinearRegression.md)
 * [regression(내방식)](./machine_learning/LinearRegression1.md)
+* [regression(sklearn)](./machine_learning/LinearRegression2.md)
+* [outlier-(1)(Tukey Outlier)](./machine_learning/outlier.md)
+* [outlier-(2)(Z-Score)](./machine_learning/zscore.md)
 
 
 
