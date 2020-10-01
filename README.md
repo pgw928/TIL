@@ -78,7 +78,7 @@
 * [regression(내방식)](./machine_learning/LinearRegression1.md)
 * [regression(sklearn)](./machine_learning/LinearRegression2.md)
 * [outlier-(1)(Tukey Outlier)](./machine_learning/outlier.md)
-* [outlier-(2)(Z-Score)](./machine_learning/zscore.md)
+* [outlier-(2)(Z-Score)](./machine_learning/outlier2.md)
 
 
 
