@@ -80,7 +80,8 @@
 * [outlier-(1)(Tukey Outlier)](./machine_learning/outlier.md)
 * [outlier-(2)(Z-Score)](./machine_learning/outlier2.md)
 
-* [Min Max Normalization](min_max_normal.md)
+* [Min Max Normalization](./machine_learning/min_max_normal.md)
+* [Tensorflow 기초](./machine_learning/tensorflow_basic.md)
 
 ### 7. Algorithm
 
@@ -101,7 +102,7 @@
 
 * [Markdown 기초](./markdown/markdown.md)
 
-
+* Typora 수식 : `ctrl`  +  `shift` + `M` , Latex과 문법 거의 비슷
 
 ## 참고문헌
 
