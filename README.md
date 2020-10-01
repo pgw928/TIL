@@ -80,7 +80,7 @@
 * [outlier-(1)(Tukey Outlier)](./machine_learning/outlier.md)
 * [outlier-(2)(Z-Score)](./machine_learning/outlier2.md)
 
-
+* [Min Max Normalization](min_max_normal.md)
 
 ### 7. Algorithm
 
