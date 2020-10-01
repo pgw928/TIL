@@ -40,7 +40,7 @@
 
 * [iterator](./numpy/iterator.md)
 
-  
+  (추가해야할 사항) np.where, np.isin
 
 ### 4. Pandas
 
@@ -63,7 +63,7 @@
 * [결측치 다루기](./pandas/nan_value.md)
 * [duplication](./pandas/duplication.md)
 
-###  
+###### (추가해야 할 사항)  pandas.map
 
 ###  5. matplotlib.pyplot
 
