@@ -82,3 +82,47 @@ print(sess.run(node3, feed_dict={node1:10, node2:20}))
 # 30.0
 ```
 
+
+
+## Tensorflow 함수
+
+> Tensorflow의 함수들에 대해서 알아본다.
+
+
+
+#### 1. reduce_mean
+
+> 평균을 계산하는 함수이다.
+
+```python
+import tensorflow as tf
+
+node = tf.constant([[2., 3.], [4., 4.]])
+
+sess = tf.Session()
+print(sess.run(node))
+# [[2. 3.]
+#  [4. 4.]]
+
+print(sess.run(tf.reduce_mean(node)))    # 3.25
+print(sess.run(tf.reduce_mean(node, 0))) # [3.  3.5]
+print(sess.run(tf.reduce_mean(node, 1))) # [2.5 4. ]
+```
+
+
+
+#### 2. square
+
+> 성분들을 각각 제곱해준다.
+
+```python
+import tensorflow as tf
+
+node1 = tf.constant([1, 2, 3, 4]) # [1 2 3 4]
+node2 = tf.square(node1)
+
+sess = tf.Session()
+print(sess.run(node2))
+# [ 1  4  9 16]
+```
+
