@@ -71,6 +71,10 @@
 
 
 
+
+
+
+
 ### 6. Machine Learning
 * [AI, ML, DL 분류](./machine_learning/definition.md)
 * [수치미분](./machine_learning/FD.md)
@@ -82,6 +86,7 @@
 
 * [Min Max Normalization](./machine_learning/min_max_normal.md)
 * [Tensorflow 기초](./machine_learning/tensorflow_basic.md)
+* [regression(tensorflow)](./machine_learning/LinearRegression3.md)
 
 ### 7. Algorithm
 
