@@ -9,7 +9,7 @@
 > 앞에서 preprocessing DataSet을 `x_data`, `t_data`(Label)로 나눠준다.
 
 ```python
-x_data = training_data.drop(['Ozone'], axis=1).values  # numpy.dot을 이용해야 하므로 values만 가져온다.
+x_data = training_data.drop(['Ozone'], axis=1).values  
 t_data = training_data['Ozone'].values.reshape(-1,1)   # 2차원으로 만들어준다. 
 ```
 
