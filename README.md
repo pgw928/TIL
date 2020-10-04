@@ -65,13 +65,11 @@
 
 ###### (추가해야 할 사항)  pandas.map
 
+
+
 ###  5. matplotlib.pyplot
 
 * [scatter, plot](./matplotlib/scatter)
-
-
-
-
 
 
 
@@ -94,6 +92,8 @@
 * [Multiple Linear regression(3)-Sklearn](./machine_learning/Multiple_Linear_regression3.md)
 
 * [Multiple Linear regression(4)-Tensorflow](./machine_learning/Multiple_Linear_regression4.md)
+
+* [Logistic Regression 기초](./machine_learning/Logistic_Regression.md)
 
 
 

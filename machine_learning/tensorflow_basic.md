@@ -113,7 +113,7 @@ print(sess.run(tf.reduce_mean(node, 1))) # [2.5 4. ]
 
 #### 2. square
 
-> 성분들을 각각 제곱해준다.
+> 성분들을 각각 제곱 해준다.
 
 ```python
 import tensorflow as tf
@@ -124,5 +124,25 @@ node2 = tf.square(node1)
 sess = tf.Session()
 print(sess.run(node2))
 # [ 1  4  9 16]
+```
+
+
+
+#### 3. matmul
+
+> matrix 곱을 해준다.
+
+```python
+import tensorflow as tf
+
+A = tf.constant([[-1, 1],[1, 2]])
+B = tf.constant([[1, 2, 3], [4, 5, 6]])
+
+C = tf.matmul(A,B)
+
+sess = tf.Session()
+print(sess.run(C))
+# [[ 3  3  3]
+#  [ 9 12 15]]
 ```
 

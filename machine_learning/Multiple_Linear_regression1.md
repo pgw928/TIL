@@ -6,7 +6,7 @@
 >
 > **2. numpy,&pandas**
 >
-> **3. scipy**  
+> **3. sklearn**  
 >
 > **4. tensorflow** 
 
