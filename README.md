@@ -30,7 +30,7 @@
 
 * [Numpy란?](./numpy/numpy_base.md)
 * [Ndarray dimension에 관한 속성 및 method](./numpy/dimension.md)
-* [여러가지 ndarray-(1)(zeros, ones, fulls, empty, arange, linspace)](./numpy/ndarray_1.md)
+* [여러가지 ndarray-(1)(zeros, ones, full, empty, arange, linspace)](./numpy/ndarray_1.md)
 * [여러가지 ndarray-(2)(random 함수들1)](./numpy/ndarray_2.md)
 * [여러가지 ndarray-(3)(random 함수들2)](./numpy/ndarray_3.md)
 * [Indexing & Slicing](./numpy/idx_sli.md)
@@ -40,7 +40,7 @@
 
 * [iterator](./numpy/iterator.md)
 
-  (추가해야할 사항) np.where, np.isin
+  (추가해야할 사항) np.where, np.isin , np.concatenate, np.power
 
 ### 4. Pandas
 
@@ -87,6 +87,7 @@
 * [Min Max Normalization](./machine_learning/min_max_normal.md)
 * [Tensorflow 기초](./machine_learning/tensorflow_basic.md)
 * [regression(tensorflow)](./machine_learning/LinearRegression3.md)
+* [Multiple Linear regression(1)-Preprocessing](./machine_learning/Multiple_Linear_regression1.md)
 
 ### 7. Algorithm
 
