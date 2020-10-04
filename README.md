@@ -89,6 +89,10 @@
 * [regression(tensorflow)](./machine_learning/LinearRegression3.md)
 * [Multiple Linear regression(1)-Preprocessing](./machine_learning/Multiple_Linear_regression1.md)
 
+* [Multiple Linear regression(2)-Numpy&Pandas](./machine_learning/Multiple_Linear_regression1.md)
+
+
+
 ### 7. Algorithm
 
 
