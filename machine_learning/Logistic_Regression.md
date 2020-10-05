@@ -42,9 +42,7 @@
 
 > 위의 문제점 때문에 Sigmoid 함수를 도입한다.
 
-$$
-\text{sigmoid},~~\sigma(x) = \frac{1}{1+e^{-x}}
-$$
+![image-20201005183401720](markdown-images/image-20201005183401720.png)
 
 ![image-20201005023426783](markdown-images/image-20201005023426783.png)
 
@@ -52,15 +50,12 @@ $$
 
 > Logistic Regression의 회귀 함수를 정의한다.
 
-$$
-y= wx+b \rightarrow y=\frac{1}{1+e^{-(wx+b)}}
-$$
+![image-20201005183431592](markdown-images/image-20201005183431592.png)
+
+
 
 ## Cross Entropy
 
 > Linear Regression에서 사용하던 Loss function을 사용하면 Loss의 convex 성질이 사라지게 된다. 따라서 Cross Entropy를 사용하게 된다.
 
-$$
-\text{Cross Entropy},~~E(w,b)=-\sum^n_{i=1}{t_i\log y_i+(1-t_i)\log(1-y_i)}
-$$
-
+![image-20201005183501246](markdown-images/image-20201005183501246.png)

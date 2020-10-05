@@ -12,9 +12,9 @@
 >
 > (최댓값=1, 최솟값=0)
 
-$$
-x_{scaled} =\frac{x-x_{min}}{x_{max}-x_{min}}
-$$
+![image-20201005183635131](markdown-images/image-20201005183635131.png)
+
+
 
 ## 코드
 
