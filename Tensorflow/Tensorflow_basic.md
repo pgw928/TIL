@@ -53,7 +53,7 @@ print(tf.__version__)
    * Activation function
    * optimizer
    * Layer
-3. **"Model"**, **"Layer"**를 이해해야한다.
+3. **"Model",  "Layer"**를 이해해야한다.
 
 
 
@@ -75,17 +75,16 @@ print(tf.__version__)
 
 
 
+## Multinomial classification
+
+> **TF2.xx**에서의 Multinomial classification  에 대해서 알아본다.
 
 
 
+![image-20201014024813498](markdown-images/image-20201014024813498.png)
 
 
 
-
-
-
-
-
-
+* 위의 그림은 `TF2.x`에서의  <u>**Multinomial classification**</u> 원리이다.
 
 
