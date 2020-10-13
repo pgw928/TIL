@@ -76,15 +76,15 @@
 ### 6. Machine Learning
 * [AI, ML, DL 분류](./machine_learning/definition.md)
 * [수치미분](./machine_learning/FD.md)
-* [regression](./machine_learning/LinearRegression.md)
-* [regression(내방식)](./machine_learning/LinearRegression1.md)
-* [regression(sklearn)](./machine_learning/LinearRegression2.md)
+* [Linear regression](./machine_learning/LinearRegression.md)
+* [Linear regression(내방식)](./machine_learning/LinearRegression1.md)
+* [Linear regression(sklearn)](./machine_learning/LinearRegression2.md)
 * [outlier-(1)(Tukey Outlier)](./machine_learning/outlier.md)
 * [outlier-(2)(Z-Score)](./machine_learning/outlier2.md)
 
 * [Min Max Normalization](./machine_learning/min_max_normal.md)
 * [Tensorflow 기초](./machine_learning/tensorflow_basic.md)
-* [regression(tensorflow)](./machine_learning/LinearRegression3.md)
+* [Linear regression(tensorflow)](./machine_learning/LinearRegression3.md)
 * [Multiple Linear regression(1)-Preprocessing](./machine_learning/Multiple_Linear_regression1.md)
 
 * [Multiple Linear regression(2)-Numpy&Pandas](./machine_learning/Multiple_Linear_regression2.md)
@@ -94,6 +94,16 @@
 * [Multiple Linear regression(4)-Tensorflow](./machine_learning/Multiple_Linear_regression4.md)
 
 * [Logistic Regression 기초](./machine_learning/Logistic_Regression.md)
+* [Logistic Regression 쉬운 예제]()
+
+
+
+### 7. <u>Tensorflow2.0</u>
+
+* [텐서플로우 기초(원리)](./Tensorflow/Tensorflow_basic.md)
+
+* [텐서플로우 기초(코딩)](./Tensorflow/Tensorflow_basic_coding.md)
+* [Multi Linear Regression(오존량 예측 예제)](./Tensorflow/MLR.md)
 
 
 
