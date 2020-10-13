@@ -37,7 +37,7 @@ x_data = training_data[['Solar.R', 'Wind', 'Temp']]
 t_data = training_data['Ozone']
 ```
 
-![image-20201013200128813](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20201013200128813.png)
+![image-20201013200128813](markdown-images/image-20201013200128813.png)
 
 
 
