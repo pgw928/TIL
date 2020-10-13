@@ -57,7 +57,21 @@ print(tf.__version__)
 
 
 
+## Logistic Regression
 
+> **TF2.xx**에서의 Logistic Regression 에 대해서 알아본다.
+
+![image-20201013024438217](markdown-images/image-20201013024438217.png)
+
+* 위의 그림은 간단한 <u>**Multiple Linear Regression**</u> 원리이다.
+
+---------------------------------------------------------------------------------------------------------
+
+
+
+![image-20201013033015246](markdown-images/image-20201013033015246.png)
+
+* 이때 **TF2.xx** 는 위와 같이 **layer**를 통해 구현된다.
 
 
 
