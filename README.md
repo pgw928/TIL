@@ -105,24 +105,24 @@
 * [텐서플로우 기초(코딩)](./Tensorflow/Tensorflow_basic_coding.md)
 * [Multi Linear Regression(오존량 예측 예제)](./Tensorflow/MLR.md)
 
+* [Logistic Regression(타이타닉 survived 예측 예제)](./Tensorflow/Logistic_Regression.md)
 
-
-### 7. Algorithm
+### 8. Algorithm
 
 * [Elice](./algorithms/)
 
-### 8. Django
+### 9. Django
 * [Datetime](./django/DateField.md)
 
 * [objects.create()](./django/objects_create.md)
 
 
 
-### 9. DBMS 
+### 10. DBMS 
 
 * [Mysql]()
 
-### 10. Markdown
+### 11. Markdown
 
 * [Markdown 기초](./markdown/markdown.md)
 
