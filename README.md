@@ -107,22 +107,32 @@
 
 * [Logistic Regression(타이타닉 survived 예측 예제)](./Tensorflow/Logistic_Regression.md)
 
-### 8. Algorithm
+* [Multinomial Logistic Regression(MNIST 예제)](./Tensorflow/Multinomial_Logistic_Regression.md)
+
+
+### 8. <u>Deep Learning</u>
+
+* [퍼셉트론(Perceptron)](./DL/Perceptron.md)
+
+
+
+
+### 9. Algorithm
 
 * [Elice](./algorithms/)
 
-### 9. Django
+### 10. Django
 * [Datetime](./django/DateField.md)
 
 * [objects.create()](./django/objects_create.md)
 
 
 
-### 10. DBMS 
+### 11. DBMS 
 
 * [Mysql]()
 
-### 11. Markdown
+### 12. Markdown
 
 * [Markdown 기초](./markdown/markdown.md)
 
