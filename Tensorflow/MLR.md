@@ -114,7 +114,7 @@ t_data_norm[np.isnan(t_data_norm)] = knn_predict
 
 > `TF2.xx`로 학습을 진행해본다.
 
-* model 생성 및 layer 생성
+* model  및 layer 생성
 
 ```python
 keras_model = Sequential()      							  # 생성
