@@ -113,6 +113,8 @@
 ### 8. <u>Deep Learning</u>
 
 * [퍼셉트론(Perceptron)](./DL/Perceptron.md)
+* [XOR 학습(TF1)](./DL/XOR_TF1.md)
+* [XOR 학습(TF2)](./DL/XOR_TF2.md)
 
 
 
