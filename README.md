@@ -116,6 +116,9 @@
 
 * [Support Vector Machine(이론-작성중)](./machine_learning/SVM.md)
 * [Support Vector Machine(sklearn 구현)](./machine_learning/SVM.md)
+* [Support Vector Machine(하이퍼파리미터)](./machine_learning/SVM.md)
+
+
 
 
 
@@ -126,13 +129,11 @@
 * [Tensorflow1.5 기초](./machine_learning/tensorflow_basic.md)
 
 * [텐서플로우 기초(원리)](./Tensorflow/Tensorflow_basic.md)
-
 * [텐서플로우 기초(코딩)](./Tensorflow/Tensorflow_basic_coding.md)
 * [Multi Linear Regression(오존량 예측 예제)](./Tensorflow/MLR.md)
-
 * [Logistic Regression(타이타닉 survived 예측 예제)](./Tensorflow/Logistic_Regression.md)
-
 * [Multinomial Logistic Regression(MNIST 예제)](./Tensorflow/Multinomial_Logistic_Regression.md)
+* 
 
 
 ### 8. <u>Deep Learning</u>
