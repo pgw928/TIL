@@ -71,14 +71,14 @@
 
 * [scatter, plot](./matplotlib/scatter)
 
-
+　
 
 ### 6.<u> Machine Learning</u>
 * [AI, ML, DL 분류](./machine_learning/definition.md)
 
 * [수치미분](./machine_learning/FD.md)
 
-  
+  　
 
 * [Linear regression](./machine_learning/LinearRegression.md)
 
@@ -88,7 +88,7 @@
 
 * [Linear regression(tensorflow)](./machine_learning/LinearRegression3.md)
 
-  
+  　
 
 * [outlier-(1)(Tukey Outlier)](./machine_learning/outlier.md)
 
@@ -96,7 +96,7 @@
 
 * [Min Max Normalization](./machine_learning/min_max_normal.md)
 
-  
+  　
 
 * [Multiple Linear regression(1)-Preprocessing](./machine_learning/Multiple_Linear_regression1.md)
 
@@ -106,19 +106,19 @@
 
 * [Multiple Linear regression(4)-Tensorflow](./machine_learning/Multiple_Linear_regression4.md)
 
-  
+  　
 
 * [Logistic Regression 기초](./machine_learning/Logistic_Regression.md)
 
 * [Logistic Regression 쉬운 예제]()
 
-
+　
 
 * [Support Vector Machine(이론-작성중)](./machine_learning/SVM.md)
 * [Support Vector Machine(sklearn 구현)](./machine_learning/SVM.md)
-* [Support Vector Machine(하이퍼파리미터)](./machine_learning/SVM.md)
+* [Support Vector Machine(하이퍼파리미터)](./machine_learning/SVM3.md)
 
-
+　
 
 
 
