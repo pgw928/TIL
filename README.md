@@ -116,7 +116,8 @@
 
 * [Support Vector Machine(이론-작성중)](./machine_learning/SVM.md)
 * [Support Vector Machine(sklearn 구현)](./machine_learning/SVM.md)
-* [Support Vector Machine(하이퍼파리미터)](./machine_learning/SVM3.md)
+* [Support Vector Machine(하이퍼파라미터)](./machine_learning/SVM3.md)
+* [Support Vector Machine(하이퍼파라미터 최적화)](./machine_learning/SVM4.md)
 
 　
 
@@ -129,11 +130,16 @@
 * [Tensorflow1.5 기초](./machine_learning/tensorflow_basic.md)
 
 * [텐서플로우 기초(원리)](./Tensorflow/Tensorflow_basic.md)
+
 * [텐서플로우 기초(코딩)](./Tensorflow/Tensorflow_basic_coding.md)
+
 * [Multi Linear Regression(오존량 예측 예제)](./Tensorflow/MLR.md)
+
 * [Logistic Regression(타이타닉 survived 예측 예제)](./Tensorflow/Logistic_Regression.md)
+
 * [Multinomial Logistic Regression(MNIST 예제)](./Tensorflow/Multinomial_Logistic_Regression.md)
-* 
+
+  
 
 
 ### 8. <u>Deep Learning</u>
@@ -142,7 +148,7 @@
 * [XOR 학습(TF1)](./DL/XOR_TF1.md)
 * [XOR 학습(TF2)](./DL/XOR_TF2.md)
 
-
+* [Relu, he's initialization,Dropout TF2 구현](./DL/accuracy.md)
 
 
 
