@@ -73,18 +73,31 @@
 
 
 
-### 6. Machine Learning
+### 6.<u> Machine Learning</u>
 * [AI, ML, DL 분류](./machine_learning/definition.md)
+
 * [수치미분](./machine_learning/FD.md)
+
+  
+
 * [Linear regression](./machine_learning/LinearRegression.md)
+
 * [Linear regression(내방식)](./machine_learning/LinearRegression1.md)
+
 * [Linear regression(sklearn)](./machine_learning/LinearRegression2.md)
+
+* [Linear regression(tensorflow)](./machine_learning/LinearRegression3.md)
+
+  
+
 * [outlier-(1)(Tukey Outlier)](./machine_learning/outlier.md)
+
 * [outlier-(2)(Z-Score)](./machine_learning/outlier2.md)
 
 * [Min Max Normalization](./machine_learning/min_max_normal.md)
-* [Tensorflow 기초](./machine_learning/tensorflow_basic.md)
-* [Linear regression(tensorflow)](./machine_learning/LinearRegression3.md)
+
+  
+
 * [Multiple Linear regression(1)-Preprocessing](./machine_learning/Multiple_Linear_regression1.md)
 
 * [Multiple Linear regression(2)-Numpy&Pandas](./machine_learning/Multiple_Linear_regression2.md)
@@ -93,12 +106,24 @@
 
 * [Multiple Linear regression(4)-Tensorflow](./machine_learning/Multiple_Linear_regression4.md)
 
+  
+
 * [Logistic Regression 기초](./machine_learning/Logistic_Regression.md)
+
 * [Logistic Regression 쉬운 예제]()
 
 
 
-### 7. <u>Tensorflow2.0</u>
+* [Support Vector Machine(이론-작성중)](./machine_learning/SVM.md)
+* [Support Vector Machine(sklearn 구현)](./machine_learning/SVM.md)
+
+
+
+
+
+### 7. <u>Tensorflow</u>
+
+* [Tensorflow1.5 기초](./machine_learning/tensorflow_basic.md)
 
 * [텐서플로우 기초(원리)](./Tensorflow/Tensorflow_basic.md)
 
@@ -115,6 +140,8 @@
 * [퍼셉트론(Perceptron)](./DL/Perceptron.md)
 * [XOR 학습(TF1)](./DL/XOR_TF1.md)
 * [XOR 학습(TF2)](./DL/XOR_TF2.md)
+
+
 
 
 

@@ -74,7 +74,7 @@ keras_model.add(Dense(10, activation='softmax'))
                 
 keras_model.compile(optimizer = SGD(learning_rate = 1e-2),
                     loss = 'sparse_categorical_crossentropy',
-                    metric = ['sparse_categorical_accuracy'])
+                    metrics = ['sparse_categorical_accuracy'])
                 
 ```
 
