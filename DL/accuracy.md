@@ -97,3 +97,4 @@ plt.plot(history.history['val_sparse_categorical_accuracy'])
 plt.show()
 ```
 
+![image-20201021032037441](markdown-images/image-20201021032037441.png)
