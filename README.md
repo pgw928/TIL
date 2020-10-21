@@ -123,7 +123,7 @@
 
 * [Decision Tree(이론)](./machine_learning/Decision_Tree.md)
 
-* [Decision Tree(추가설명 + 예제들(bmi ,mnist))](./machine_learning/Decision_Tree2.md)
+* [Decision Tree(추가설명 + 예제들(bmi ,mnist))](./machine_learning/Decision_Tree1.md)
 
 
 
