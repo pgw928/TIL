@@ -110,7 +110,7 @@
 
 * [Logistic Regression 기초](./machine_learning/Logistic_Regression.md)
 
-* [Logistic Regression 쉬운 예제]()
+* [Logistic Regression 쉬운 예제](./machine_learning/Logistic_Regression_ex.md)
 
 　
 
