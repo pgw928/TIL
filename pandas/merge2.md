@@ -1,6 +1,6 @@
 # DataFrame의 결합(merge)(2)
 
->두 `DataFrame`을 어떠한 column을 기준으로 결합(join)할때 두 가자 상황에서 `merge`하는 법에 대해 알아본다.
+>두 `DataFrame`을 어떠한 column을 기준으로 결합(join)할때 두 가지 상황에서 `merge`하는 법에 대해 알아본다.
 
 
 
