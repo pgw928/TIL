@@ -149,10 +149,12 @@
 * [퍼셉트론(Perceptron)](./DL/Perceptron.md)
 * [XOR 학습(TF1)](./DL/XOR_TF1.md)
 * [XOR 학습(TF2)](./DL/XOR_TF2.md)
-
 * [Relu, he's initialization,Dropout TF2 구현](./DL/accuracy.md)
 
+　
 
+* [이미지 처리 기초](./DL/CNN1.md)
+* CNN 기초 코딩(TF1.5)
 
 
 ### 9. Algorithm
