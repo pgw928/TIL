@@ -156,12 +156,16 @@
 * [이미지 처리 기초](./DL/CNN1.md)
 * [CNN 기초 코딩(TF1.5)](./DL/CNN2.md)
 
+* [CNN 기초예제_TF1.15(MNIST)](./DL/CNN3.md)
 
+　
 
 
 ### 9. Algorithm
 
 * [Elice](./algorithms/)
+
+　
 
 ### 10. Django
 * [Datetime](./django/DateField.md)
