@@ -23,6 +23,7 @@
 
 * [가상환경](./python/virtual_environment.md)
 * [데이터 분석을 위한 파이썬 환경설정](./python/env_for_data.md)
+* os module
 
 
 
@@ -181,8 +182,19 @@
 ### 12. Markdown
 
 * [Markdown 기초](./markdown/markdown.md)
-
 * Typora 수식 : `ctrl`  +  `shift` + `M` , Latex과 문법 거의 비슷
+
+　
+
+#### 13. 앞으로 해야하거나 정리해야 할것들
+
+1. 포트폴리오
+2. TF2.X CNN 구현
+3. TF1.X 및 TF2.X  FASHION-MNIST
+
+4. 앨리스
+
+
 
 ## 참고문헌
 
