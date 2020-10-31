@@ -23,7 +23,8 @@
 
 * [가상환경](./python/virtual_environment.md)
 * [데이터 분석을 위한 파이썬 환경설정](./python/env_for_data.md)
-* os module
+* [os module](./python/OS_module.md)
+* [Algorithm을 위한 함수들](./python/method_function.md)
 
 
 
