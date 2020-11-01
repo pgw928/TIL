@@ -193,7 +193,7 @@
 2. TF2.X CNN 구현
 3. TF1.X 및 TF2.X  FASHION-MNIST
 
-4. 앨리스
+4. ~~앨리스~~
 
 
 
