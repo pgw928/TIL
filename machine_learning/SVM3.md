@@ -20,7 +20,7 @@
 
 따라서 **C**는 margin과 training error에 대한 trade-off를 결정하는 tuning parameter이다.
 
-* **C** ↑ ⇒ ![image-20201020171312579](markdown-images/image-20201020171312579.png)에 대한 제약 ↑ ⇒ training error 를 많이 호용하지 않는다. ⇒ overfitting
+* **C** ↑ ⇒ ![image-20201020171312579](markdown-images/image-20201020171312579.png)에 대한 제약 ↑ ⇒ training error 를 많이 허용하지 않는다. ⇒ overfitting
 * **C** ↓ ⇒ ![image-20201020171312579](markdown-images/image-20201020171312579.png)에 대한 제약 ↓ ⇒ training error 를 많이 허용한다. ⇒ underfitting
 
 
