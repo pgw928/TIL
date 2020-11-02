@@ -117,7 +117,7 @@
 　
 
 * [Support Vector Machine(이론-작성중)](./machine_learning/SVM.md)
-* [Support Vector Machine(sklearn 구현)](./machine_learning/SVM.md)
+* [Support Vector Machine(sklearn 구현)](./machine_learning/SVM2.md)
 * [Support Vector Machine(하이퍼파라미터)](./machine_learning/SVM3.md)
 * [Support Vector Machine(하이퍼파라미터 최적화)](./machine_learning/SVM4.md)
 
