@@ -1,4 +1,4 @@
-# OS 모듈 (+ shutil)
+# OS 모듈 (+ shutil 모듈)
 
 > 수많은 Image 파일과 같은 데이터를 손쉽게 다루기 위해 파일 경로등을 다룬다. 코드부분에서 `import os`와 `import shuitl` 부분은 언급하지 않는다. 또한 기본적으로 알아야 할것은 `/`로 시작하면 무조건 절대경로이고 아니면 상대 경로를 나타낸다. 또한 `.`으로 시작하면 현재 directory를 의미한다.
 
@@ -100,6 +100,28 @@ for path, directory, file in os.walk('./data'):
 ['0', '1', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '2', '3', '4', '5', '6', '7', '8', '9']
 []
 ```
+
+
+
+* ####  shutil.move(src, dst) : 파일 이동
+
+```python
+src ='/home/workspace/PKU_black_out.ipynb'
+dst = '/home/workspace/user-workspace/pku/PKU_black_out.ipynb'
+shutil.move(src,dst) # source에서 destination으로 이동시켜준다.
+```
+
+
+
+* #### shutil.rmtree('경로') : 경로에 있는 모든 파일을 삭제한다. 신중히 실행한다.
+
+```python
+shutil.rmtree(base_dir)
+```
+
+
+
+* #### shutil.copyfile(src, dst) : 파일 복사
 
 
 
