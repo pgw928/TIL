@@ -6,7 +6,7 @@
 
 ## 사용 Library
 
-> 사용하는 library를 입력한다.
+> 사용하는 library들이다.
 
 ```python
 import numpy as np

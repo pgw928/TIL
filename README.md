@@ -156,11 +156,15 @@
 　
 
 * [이미지 처리 기초](./DL/CNN1.md)
-* [CNN 기초 코딩(TF1.5)](./DL/CNN2.md)
-* 
-* 
 
-* [ImageDataGenerator의 사용(개와 고양이)](./DL/ImageDataGenerator.md)
+* [CNN 기초 코딩(TF1.5)](./DL/CNN2.md)
+
+  　
+
+* [ImageDataGenerator의 사용1(개와 고양이)](./DL/ImageDataGenerator1.md)
+
+* [ImageDataGenerator의 사용2(개와 고양이)](./DL/ImageDataGenerator2.md)
+* [ImageDataGenerator의 사용3(개와 고양이)](./DL/ImageDataGenerator3.md)
 
 
 
