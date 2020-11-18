@@ -27,7 +27,13 @@
 * [Algorithm을 위한 함수들](./python/method_function.md)
 * [GPU 할당 코드](./python/GPU.md)
 
+* [컬렉션 관리 함수(enumerat, zip, any, all, filter, map)](./python/collection_function.md)
 
+* [extend vs append](./python/extend.md)
+
+* [sys.stdin.readline(+input)](./sys_stdin_readline.md)
+
+  
 
 ### 3. Numpy
 
@@ -43,7 +49,7 @@
 
 * [iterator](./numpy/iterator.md)
 
-  (추가해야할 사항) np.where, np.isin , np.concatenate, np.power
+  (추가해야할 사항) np.where,  , np.concatenate, np.power
 
 ### 4. Pandas
 
@@ -181,7 +187,9 @@
 * [Elice](./algorithms/)
 * [programmers](./algorithms/)
 
-　
+* [bfs](./algorithms/bfs.md)
+
+
 
 ### 10. Django
 * [Datetime](./django/DateField.md)
