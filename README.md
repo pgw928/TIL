@@ -175,14 +175,16 @@
 
 
 
+### 9. 통계
 
+* [성능평가 지표](./statistics/Evaluation_Metrics)
 
 
 
 　
 
 
-### 9. Algorithm
+### 10. Algorithm
 
 * [Elice](./algorithms/)
 * [programmers](./algorithms/)
@@ -191,25 +193,25 @@
 
 
 
-### 10. Django
+### 11. Django
 * [Datetime](./django/DateField.md)
 
 * [objects.create()](./django/objects_create.md)
 
 
 
-### 11. DBMS 
+### 12. DBMS 
 
 * [Mysql]()
 
-### 12. Markdown
+### 13. Markdown
 
 * [Markdown 기초](./markdown/markdown.md)
 * Typora 수식 : `ctrl`  +  `shift` + `M` , Latex과 문법 거의 비슷
 
 　
 
-#### 13. 앞으로 해야하거나 정리해야 할것들
+#### 14. 앞으로 해야하거나 정리해야 할것들
 
 1. 포트폴리오
 2. TF2.X CNN 구현
