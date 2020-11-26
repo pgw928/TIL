@@ -31,7 +31,9 @@
 
 * [extend vs append](./python/extend.md)
 
-* [sys.stdin.readline(+input)](./sys_stdin_readline.md)
+* [sys.stdin.readline(+input)](./python/sys_stdin_readline.md)
+
+* [n진법](./python/base.md)
 
   
 
@@ -188,8 +190,8 @@
 
 * [Elice](./algorithms/)
 * [programmers](./algorithms/)
-
-* [bfs](./algorithms/bfs.md)
+* [BFS](./algorithms/bfs.md)
+* [DFS](./algorithms/dfs.md)
 
 
 
