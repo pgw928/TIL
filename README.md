@@ -177,7 +177,11 @@
 
 
 
-### 9. 통계
+### 9. OpenCV
+
+
+
+### 10. 통계
 
 * [성능평가 지표](./statistics/Evaluation_Metrics)
 
@@ -186,7 +190,7 @@
 　
 
 
-### 10. Algorithm
+### 11. Algorithm
 
 * [Elice](./algorithms/)
 * [programmers](./algorithms/)
@@ -197,31 +201,31 @@
 
 
 
-### 11. Django
+### 12. Django
 * [Datetime](./django/DateField.md)
 
 * [objects.create()](./django/objects_create.md)
 
 
 
-### 12. DBMS 
+### 13. DBMS 
 
 * [Mysql]()
 
-### 13. Markdown
+### 14. Markdown
 
 * [Markdown 기초](./markdown/markdown.md)
 * Typora 수식 : `ctrl`  +  `shift` + `M` , Latex과 문법 거의 비슷
 
 　
 
-#### 14. 앞으로 해야하거나 정리해야 할것들
+#### 15. 앞으로 해야하거나 정리해야 할것들
 
 1. 포트폴리오
-2. TF2.X CNN 구현
-3. TF1.X 및 TF2.X  FASHION-MNIST
-
-4. ~~앨리스~~
+2. Kaggle과 수행평가들
+3. 공모전
+4. 논문
+5. ~~앨리스~~
 
 
 
