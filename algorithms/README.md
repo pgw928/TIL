@@ -37,4 +37,5 @@
 | 2178 - 미로탐색       | [링크](./boj/dfs&bfs/2178.py) | [문제](https://www.acmicpc.net/problem/2178) | BFS  |
 | 2667 - 단지번호붙이기 | [링크](./bo/dfs&bfsj/2667.py) | [문제](https://www.acmicpc.net/problem/2667) | DFS  |
 | 7576 - 토마토         | [링크](./bo/dfs&bfsj/7576.py) | [문제](https://www.acmicpc.net/problem/7576) | BFS  |
+| 1697 - 숨바꼭질       | [링크](./bo/dfs&bfsj/1697.py) | [문제](https://www.acmicpc.net/problem/1697) | BFS  |
 
