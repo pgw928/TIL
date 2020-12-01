@@ -103,6 +103,17 @@ for path, directory, file in os.walk('./data'):
 
 
 
+* #### os.path.dirname : 경로 중  현재 파일이 담긴 디렉토리명만 얻어온다.
+
+``` python
+print(os.path.abspath(os.getcwd())) # current working directory
+# /home/lab04
+print(os.path.dirname(os.getcwd()))
+# /home
+```
+
+
+
 * ####  shutil.move(src, dst) : 파일 이동
 
 ```python
