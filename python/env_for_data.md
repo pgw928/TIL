@@ -123,13 +123,15 @@
    (data_env) C:\windows\system32>jupyter notebook
    ```
 
-   ![실행](C:\Users\User\Desktop\GIT\TIL\markdown-images\실행.PNG)
+   ![실행](markdown-images/실행.PNG)
 
    * 위의 화면과 같이 `New` 를 눌러보면 `Python[conda env:data_env]`에 * 가 체크 되어 있는것을 볼수 있다.
 
 6. 다음과 같이 코드를 작성하고 잘 작동하는 확인해보자.
 
-   ![cell](C:\Users\User\Desktop\GIT\TIL\markdown-images\cell.PNG)
+   ![cell](markdown-images/cell.PNG)
+   
+   
 
 ## 기타
 
