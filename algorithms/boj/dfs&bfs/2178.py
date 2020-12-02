@@ -16,7 +16,7 @@ def bfs(graph, start_node):
     dq.append(start_node)
     dx = [-1, 1, 0, 0]
     dy = [0, 0, -1 ,1]
-
+    visited = []
     while dq:
         x, y = dq.popleft()
         for i in range(4):

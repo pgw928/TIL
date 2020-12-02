@@ -19,7 +19,7 @@ from collections import deque
 def bfs(start_node):
     visited = []
     dq = deque()
-    dq. append(start_node)
+    dq.append(start_node)
     while dq:
         node = dq.popleft()
         if node not in visited:
