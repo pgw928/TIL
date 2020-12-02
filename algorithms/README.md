@@ -35,9 +35,9 @@
 | 문제번호              | 풀이                          | 링크                                         | 비고 |
 | --------------------- | ----------------------------- | -------------------------------------------- | ---- |
 | 2178 - 미로탐색       | [링크](./boj/dfs&bfs/2178.py) | [문제](https://www.acmicpc.net/problem/2178) | BFS  |
-| 2667 - 단지번호붙이기 | [링크](./bo/dfs&bfsj/2667.py) | [문제](https://www.acmicpc.net/problem/2667) | DFS  |
-| 7576 - 토마토         | [링크](./bo/dfs&bfsj/7576.py) | [문제](https://www.acmicpc.net/problem/7576) | BFS  |
-| 1697 - 숨바꼭질       | [링크](./bo/dfs&bfsj/1697.py) | [문제](https://www.acmicpc.net/problem/1697) | BFS  |
-| 2606 - 바이러스       | [링크](./bo/dfs&bfsj/2606.py) | [문제](https://www.acmicpc.net/problem/2606) | BFS  |
-| 1012 - 유기농 배추    | [링크](./bo/dfs&bfsj/1012.py) | [문제](https://www.acmicpc.net/problem/1012) | DFS  |
-| 11724 - 연결 요소의 개수    | [링크](./bo/dfs&bfsj/11724.py) | [문제](https://www.acmicpc.net/problem/11724) | BFS  |
+| 2667 - 단지번호붙이기 | [링크](./bo/dfs&bfs/2667.py) | [문제](https://www.acmicpc.net/problem/2667) | DFS  |
+| 7576 - 토마토         | [링크](./bo/dfs&bfs/7576.py) | [문제](https://www.acmicpc.net/problem/7576) | BFS  |
+| 1697 - 숨바꼭질       | [링크](./bo/dfs&bfs/1697.py) | [문제](https://www.acmicpc.net/problem/1697) | BFS  |
+| 2606 - 바이러스       | [링크](./bo/dfs&bfs/2606.py) | [문제](https://www.acmicpc.net/problem/2606) | BFS  |
+| 1012 - 유기농 배추    | [링크](./bo/dfs&bfs/1012.py) | [문제](https://www.acmicpc.net/problem/1012) | DFS  |
+| 11724 - 연결 요소의 개수    | [링크](./bo/dfs&bfs/11724.py) | [문제](https://www.acmicpc.net/problem/11724) | BFS  |
