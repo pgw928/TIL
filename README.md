@@ -227,6 +227,10 @@
 
 　
 
+### 15. Object detection
+
+* [yolo annotation 코드](./object_detection/make-annotation,ipynb)
+
 ### 15. TOOL
 
 * [LabelImg](./Tool/LabelImg.md)
