@@ -22,9 +22,13 @@
 ### 2. Python
 
 * [가상환경](./python/virtual_environment.md)
+
 * [데이터 분석을 위한 파이썬 환경설정](./python/env_for_data.md)
+
 * [os module](./python/OS_module.md)
+
 * [Algorithm을 위한 함수들](./python/method_function.md)
+
 * [GPU 할당 코드](./python/GPU.md)
 
 * [컬렉션 관리 함수(enumerat, zip, any, all, filter, map)](./python/collection_function.md)
@@ -34,6 +38,8 @@
 * [sys.stdin.readline(+input)](./python/sys_stdin_readline.md)
 
 * [n진법](./python/base.md)
+
+* [with 문](./python/with.md)
 
   
 
