@@ -1,4 +1,4 @@
-# LabelImg 다운 및 설치 (window+anaconda)
+# LabelImg (window+anaconda 환경)
 
 
 
@@ -68,3 +68,22 @@ pyrcc5 -o libs/resources.py resources.qrc
 9. 다음과 같은 **GUI** 가 등장하면 성공
 
 ![image-20201202182831187](markdown-images/image-20201202182831187.png)
+
+
+
+## 단축키
+| 단축키         |  기능                                  |
+| -------- | ---------------------------------- |
+| Ctrl + u | 폴더로 부터 모든 이미지 불러오기   |
+| Ctrl + r | Annotaion target 폴더 default 변경 |
+| Ctrl + s | 저장                               |
+| ctrl + d | 현재 Label 및 box 복사             |
+| space    | Flag the current image as verified |
+| w        | 박스 생성                          |
+| d        | 다음 이미지                        |
+| a        | 이전 이미지                        |
+| del      | 선택된 박스 삭제                   |
+| Ctrl ++  | Zoom in                            |
+| Ctrl --  | Zoom out                           |
+| ↑→↓←     | 선택된 박스 움직이기               |
+
