@@ -42,3 +42,5 @@
 | 1012 - 유기농 배추    | [링크](./boj/dfs&bfs/1012.py) | [문제](https://www.acmicpc.net/problem/1012) | DFS  |
 | 11724 - 연결 요소의 개수    | [링크](./boj/dfs&bfs/11724.py) | [문제](https://www.acmicpc.net/problem/11724) | BFS  |
 | 11724 - 섬의 개수    | [링크](./boj/dfs&bfs/4963.py) | [문제](https://www.acmicpc.net/problem/4963) | DFS  |
+| 7569- 토마토 | [링크](./boj/dfs&bfs/7569.py) | [문제](https://www.acmicpc.net/problem/7569) | BFS |
+
