@@ -51,7 +51,7 @@ pyrcc5 -o libs/resources.py resources.qrc
 
 `C:\Users\User\Desktop\labelImg\labelImg-master` 에 생성된 `resources.py` 와 기존의 `resources.qrc` 를 `C:\Users\User\Desktop\labelImg\labelImg-master\libs`로 직접 옮겨준다. (마우스로 드래그 해서 옮기면 된다.)
 
-**경우에 따라 `resources.py`가 아마 `libs` 디렉토리에 들어가 있는 경우는 상관 없다. **
+**경우에 따라 `resources.py`가 이미 `libs` 디렉토리에 들어가 있는 경우는 옮기지 않아도 된다. **
 
  
 
