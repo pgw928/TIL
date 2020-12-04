@@ -14,6 +14,9 @@ for i in range(N):
     for j in range(N):
         if graph1[i][j]=='R':
             graph1[i][j]='G'
+print(graph)
+print(graph1)
+
 def dfs(grp, start_node, input_color):
 
     x, y = start_node

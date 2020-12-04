@@ -41,6 +41,8 @@
 
 * [with 문](./python/with.md)
 
+* [이차원 이상의 리스트 복사 방법(deepcopy)](./python/copy.md)
+
   
 
 ### 3. Numpy
@@ -229,7 +231,7 @@
 
 ### 15. Object detection
 
-* [yolo annotation 코드](./object_detection/make-annotation,ipynb)
+* [yolo annotation 코드](./object_detection/make_annotation.ipynb)
 
 ### 15. TOOL
 
