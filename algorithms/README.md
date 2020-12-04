@@ -44,4 +44,5 @@
 | 11724 - 섬의 개수    | [링크](./boj/dfs&bfs/4963.py) | [문제](https://www.acmicpc.net/problem/4963) | DFS  |
 | 7569 - 토마토 | [링크](./boj/dfs&bfs/7569.py) | [문제](https://www.acmicpc.net/problem/7569) | BFS |
 | 10026 - 적록색약 | [링크](./boj/dfs&bfs/10026.py) | [문제](https://www.acmicpc.net/problem/10026) | DFS |
+| 5567 - 결혼식 | [링크](./boj/dfs&bfs/5567.py) | [문제](https://www.acmicpc.net/problem/5567) | BFS |
 
