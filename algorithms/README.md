@@ -45,4 +45,8 @@
 | 7569 - 토마토 | [링크](./boj/dfs&bfs/7569.py) | [문제](https://www.acmicpc.net/problem/7569) | BFS |
 | 10026 - 적록색약 | [링크](./boj/dfs&bfs/10026.py) | [문제](https://www.acmicpc.net/problem/10026) | DFS |
 | 5567 - 결혼식 | [링크](./boj/dfs&bfs/5567.py) | [문제](https://www.acmicpc.net/problem/5567) | BFS |
+| 1926 - 그림(런타임에러!!!!!!!!!!!!) | [링크](./boj/dfs&bfs/1926.py) | [문제](https://www.acmicpc.net/problem/1926) | DFS |
+| 2573 - 빙산(시간초과!!!!!!!!!!!!!!!) | [링크](./boj/dfs&bfs/2573.py) | [문제](https://www.acmicpc.net/problem/2573) | DFS |
+| 1600 - (다시 풀어야함!!!!!!!!!!!!!!!) | [링크](./boj/dfs&bfs/1600.py) | [문제](https://www.acmicpc.net/problem/1600) | BFS |
+| 2644 - 촌수계산 | [링크](./boj/dfs&bfs/2644.py) | [문제](https://www.acmicpc.net/problem/2644) | BFS |
 
