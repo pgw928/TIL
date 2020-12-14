@@ -71,6 +71,50 @@ pyrcc5 -o libs/resources.py resources.qrc
 
 
 
+
+
+## 기본세팅
+
+1. class를 내것으로 변경해준다. (**data** 폴더에 **predefined_classes** 를 변경해준다.)
+
+![image-20201214094104885](markdown-images/image-20201214094104885.png)
+
+```bash
+egg
+lemon
+plum
+cucumber
+cider
+carrot
+squash
+corn
+pineapple
+apple
+onion
+garlic
+tomato
+broccoli
+sesame
+eggplant
+sweet_pumpkin
+radish
+cabbage
+paprika
+yakult
+beer
+cola
+```
+
+2. 원하는 위치에 annotation 폴더(폴더 이름 상관 없다.)를 하나 만들고 labelImg 에서 **ctrl + r** 을 눌러 annotation 폴더 경로를 지정해준다.
+
+![image-20201214094304352](markdown-images/image-20201214094304352.png)
+
+
+
+3. **ctrl + u**를 눌러 이미지들이 있는 폴더의 경로를 지정해준다. 
+4. annotation 지정 형식을 변경할 수 있지만 나의 경우 xml 파일 형식의 PascalVOC 를 유지 해준다.<img src="markdown-images/그림1.png" alt="그림1" style="zoom: 50%;" />
+
+
 ## 단축키
 | 단축키         |  기능                                  |
 | -------- | ---------------------------------- |
@@ -86,4 +130,3 @@ pyrcc5 -o libs/resources.py resources.qrc
 | Ctrl ++  | Zoom in                            |
 | Ctrl --  | Zoom out                           |
 | ↑→↓←     | 선택된 박스 움직이기               |
-

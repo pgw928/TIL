@@ -49,4 +49,5 @@
 | 2573 - 빙산(시간초과!!!!!!!!!!!!!!!) | [링크](./boj/dfs&bfs/2573.py) | [문제](https://www.acmicpc.net/problem/2573) | DFS |
 | 1600 - (다시 풀어야함!!!!!!!!!!!!!!!) | [링크](./boj/dfs&bfs/1600.py) | [문제](https://www.acmicpc.net/problem/1600) | BFS |
 | 2644 - 촌수계산 | [링크](./boj/dfs&bfs/2644.py) | [문제](https://www.acmicpc.net/problem/2644) | BFS |
-
+| 1520 - 내리막 길 | [링크](./boj/dfs&bfs/1520.py) | [문제](https://www.acmicpc.net/problem/1520) | DFS |
+| 1926 - 그림(런타임에러) | [링크](./boj/dfs&bfs/1926.py) | [문제](https://www.acmicpc.net/problem/1926) | DFS |

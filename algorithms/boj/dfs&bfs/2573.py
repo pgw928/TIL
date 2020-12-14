@@ -2,12 +2,13 @@ import sys
 
 sys.setrecursionlimit(8000)
 
-N, M = map(int, sys.stdin.readline().split())
+input = sys.stdin.readline
+
+N, M = map(int, input().split())
 
 
-graph = []
-for _ in range(N):
-    graph.append(list(map(int, sys.stdin.readline().split())))
+graph = [list(map(int, input().split()))  for _ in range(N)]
+
 zeros = [ [0]*M for _ in range(N)]
 s = [ [0]*M for _ in range(N)]
 
@@ -16,13 +17,13 @@ for i in range(N):
         if graph[i][j]!=0:
             s[i][j] = 1
 
+dx = [-1, 1, 0, 0]
+dy = [0, 0, -1, 1]
 
 def dfs(start_node, k) :
-    dx = [-1, 1, 0, 0]
-    dy = [0, 0, -1, 1]
+
     x, y = start_node
-    if x<0 or y<0 or x>N or y>M:
-        return 0
+
     if s[x][y]!=k:
         return 0
     if graph[x][y]!=0:
@@ -32,7 +33,7 @@ def dfs(start_node, k) :
             b = y + dy[i]
             if a < 0 or b < 0 or a > N or b > M:
                 continue
-            if graph[a][b]==0 and s[a][b]<=k:
+            if (graph[a][b]==0) and (s[a][b]<=k):
                 count += 1
 
         graph[x][y] = max(0, graph[x][y]-count)
