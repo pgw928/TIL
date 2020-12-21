@@ -43,6 +43,8 @@
 
 * [이차원 이상의 리스트 복사 방법(deepcopy)](./python/copy.md)
 
+* [python encoding decoidng](./python/encoding_decoding.md) # 나중에 더 자세히 다루어야 할듯
+
   
 
 ### 3. Numpy
