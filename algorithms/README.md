@@ -57,3 +57,4 @@
 | 10819 - 차이를 최대로                 | [링크](./boj/brute_force/10819.py) | [문제](https://www.acmicpc.net/problem/10819) | Brute Force |
 | 1182 - 부분수열의 합 | [링크](./boj/brute_force/1182.py) | [문제](https://www.acmicpc.net/problem/1182) | Brute Force |
 | 11723 - 집합 | [링크](./boj/brute_force/11723.py) | [문제](https://www.acmicpc.net/problem/11723) | Brute Force |
+| 2484 - 주사위 네개 | [링크](./boj/brute_force/2484.py) | [문제](https://www.acmicpc.net/problem/2484) | Brute Force |
