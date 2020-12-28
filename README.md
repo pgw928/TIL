@@ -12,9 +12,9 @@
 * [Git 원격 저장소 활용](./git/Git_원격_저장소_활용.md)
 * [Git branch](./git/branch.md)
 * [Git ignore](./git/gitignore.md)
-
 * [원격저장소 주의할 점](./git/원격저장소주의.md)
 * [Git 도식화](./git/도식화)
+* [Git 오류 정리](./git/Git_Error.md)
 * github flow
 
 
