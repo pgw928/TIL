@@ -11,3 +11,8 @@ def rep(n):
     if n==3:
         return 4
     return (rep(n-1) + rep(n-2)+ rep(n-3))
+
+
+for _ in range(T):
+    n = int(input())
+    print(rep(n))

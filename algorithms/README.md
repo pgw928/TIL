@@ -51,6 +51,9 @@
 | 2644 - 촌수계산 | [링크](./boj/dfs&bfs/2644.py) | [문제](https://www.acmicpc.net/problem/2644) | BFS |
 | 1520 - 내리막 길 | [링크](./boj/dfs&bfs/1520.py) | [문제](https://www.acmicpc.net/problem/1520) | DFS |
 | 1926 - 그림(런타임에러) | [링크](./boj/dfs&bfs/1926.py) | [문제](https://www.acmicpc.net/problem/1926) | DFS |
-| 2309 - 일곱 난쟁이 | [링크](./boj/brute_force/2309.py) | [문제](https://www.acmicpc.net/problem/2309) | Brute force |
-| 1476 - 날짜 계산 | [링크](./boj/brute_force/1476.py) | [문제](https://www.acmicpc.net/problem/1476) | Brute force |
-| 9095 - 1, 2, 3 더하기 | [링크1](./boj/brute_force/9095.py), [링크2](./boj/brute_force/9095-(1).py)| [문제](https://www.acmicpc.net/problem/9095) | Brute force |
+| 2309 - 일곱 난쟁이 | [링크](./boj/brute_force/2309.py) | [문제](https://www.acmicpc.net/problem/2309) | Brute Force |
+| 1476 - 날짜 계산 | [링크](./boj/brute_force/1476.py) | [문제](https://www.acmicpc.net/problem/1476) | Brute Force |
+| 9095 - 1, 2, 3 더하기 | [링크1](./boj/brute_force/9095.py), [링크2](./boj/brute_force/9095-(1).py)| [문제](https://www.acmicpc.net/problem/9095) | DP,  Recursion |
+| 10819 - 차이를 최대로                 | [링크](./boj/brute_force/10819.py) | [문제](https://www.acmicpc.net/problem/10819) | Brute Force |
+| 1182 - 부분수열의 합 | [링크](./boj/brute_force/1182.py) | [문제](https://www.acmicpc.net/problem/1182) | Brute Force |
+| 11723 - 집합 | [링크](./boj/brute_force/11723.py) | [문제](https://www.acmicpc.net/problem/11723) | Brute Force |
