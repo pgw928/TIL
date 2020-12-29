@@ -59,3 +59,4 @@
 | 11723 - 집합 | [링크](./boj/brute_force/11723.py) | [문제](https://www.acmicpc.net/problem/11723) | Brute Force |
 | 2484 - 주사위 네개 | [링크](./boj/brute_force/2484.py) | [문제](https://www.acmicpc.net/problem/2484) | Brute Force |
 | 1748 - 수 이어 쓰기 1 | [링크](./boj/brute_force/1748.py) | [문제](https://www.acmicpc.net/problem/1748) | Brute Force |
+| 9012 - 괄호 1 | [링크](./boj/data_structure/9012.py) | [문제](https://www.acmicpc.net/problem/9012) | Data Structure |
