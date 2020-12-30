@@ -48,7 +48,7 @@
 | 1926 - 그림(런타임에러!!!!!!!!!!!!) | [링크](./boj/dfs&bfs/1926.py) | [문제](https://www.acmicpc.net/problem/1926) | DFS |
 | 2573 - 빙산(시간초과!!!!!!!!!!!!!!!) | [링크](./boj/dfs&bfs/2573.py) | [문제](https://www.acmicpc.net/problem/2573) | DFS |
 | 1600 - (다시 풀어야함!!!!!!!!!!!!!!!) | [링크](./boj/dfs&bfs/1600.py) | [문제](https://www.acmicpc.net/problem/1600) | BFS |
-| 2644 - 촌수계산 | [링크](./boj/dfs&bfs/2644.py) | [문제](https://www.acmicpc.net/problem/2644) | BFS |
+| 2644 - 촌수계산 | [링크1](./boj/dfs&bfs/2644.py),[링크2](./boj/dfs&bfs/2644-(1).py) | [문제](https://www.acmicpc.net/problem/2644) | BFS |
 | 1520 - 내리막 길 | [링크](./boj/dfs&bfs/1520.py) | [문제](https://www.acmicpc.net/problem/1520) | DFS |
 | 1926 - 그림(런타임에러) | [링크](./boj/dfs&bfs/1926.py) | [문제](https://www.acmicpc.net/problem/1926) | DFS |
 | 2309 - 일곱 난쟁이 | [링크](./boj/brute_force/2309.py) | [문제](https://www.acmicpc.net/problem/2309) | Brute Force |
@@ -59,5 +59,6 @@
 | 11723 - 집합 | [링크](./boj/brute_force/11723.py) | [문제](https://www.acmicpc.net/problem/11723) | Brute Force |
 | 2484 - 주사위 네개 | [링크](./boj/brute_force/2484.py) | [문제](https://www.acmicpc.net/problem/2484) | Brute Force |
 | 1748 - 수 이어 쓰기 1 | [링크](./boj/brute_force/1748.py) | [문제](https://www.acmicpc.net/problem/1748) | Brute Force |
-| 9012 - 괄호 1 | [링크](./boj/data_structure/9012.py) | [문제](https://www.acmicpc.net/problem/9012) | Data Structure |
-| 11866 - 요세푸스 문제 0 | [링크](./boj/data_structure/11866.py) | [문제](https://www.acmicpc.net/problem/11866) | Data Structure |
+| 9012 - 괄호 1 | [링크](./boj/data_structure/9012.py) | [문제](https://www.acmicpc.net/problem/9012) | Stack |
+| 10828 - 스택 | [링크](./boj/data_structure/10828.py) | [문제](https://www.acmicpc.net/problem/10828) | Stack |
+| 13116 - 30번 | [링크](./boj/data_structure/13116.py) | [문제](https://www.acmicpc.net/problem/13116) | 이진트리 |
