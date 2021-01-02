@@ -75,4 +75,8 @@
 | 11656 - 접미사 배열 | [링크](./boj/data_structure/11656.py) | [문제](https://www.acmicpc.net/problem/11656) | string |
 | 17298 - 오큰수(참고) | [링크](./boj/data_structure/17298.py) | [문제](https://www.acmicpc.net/problem/17298) | Stack |
 | 17299 - 오등큰수 | [링크](./boj/data_structure/17299.py) | [문제](https://www.acmicpc.net/problem/17299) | Stack |
-| 17413 - 오등큰수 | [링크](./boj/data_structure/17413.py) | [문제](https://www.acmicpc.net/problem/17413) | Stack, string |
+| 17413 - 단어 뒤집기 2 | [링크](./boj/data_structure/17413.py) | [문제](https://www.acmicpc.net/problem/17413) | Stack, string |
+| 10799 - 쇠막대기 | [링크](./boj/data_structure/10799.py) | [문제](https://www.acmicpc.net/problem/10799) | Stack  |
+| 11052 - 카드 구매하기  | [링크](./boj/data_structure/11052.py) | [문제](https://www.acmicpc.net/problem/11052) | DP |
+| 16194 - 카드 구매하기 2 | [링크](./boj/data_structure/16194.py) | [문제](https://www.acmicpc.net/problem/16194) | DP |
+| 1463 - 1로 만들기 | [링크](./boj/data_structure/1463.py) | [문제](https://www.acmicpc.net/problem/1463) | DP |
