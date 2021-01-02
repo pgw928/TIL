@@ -62,3 +62,17 @@
 | 9012 - 괄호 1 | [링크](./boj/data_structure/9012.py) | [문제](https://www.acmicpc.net/problem/9012) | Stack |
 | 10828 - 스택 | [링크](./boj/data_structure/10828.py) | [문제](https://www.acmicpc.net/problem/10828) | Stack |
 | 13116 - 30번 | [링크](./boj/data_structure/13116.py) | [문제](https://www.acmicpc.net/problem/13116) | 이진트리 |
+| 1874 - 스택 수열 | [링크](./boj/data_structure/1874.py) | [문제](https://www.acmicpc.net/problem/1874) | Stack |
+| 10845 - 큐 | [링크](./boj/data_structure/10845.py) | [문제](https://www.acmicpc.net/problem/10845) | Queue |
+| 10866 - 덱 | [링크](./boj/data_structure/10866.py) | [문제](https://www.acmicpc.net/problem/10866) | Deque |
+| 1158 - 요세푸스 문제 | [링크](./boj/data_structure/1158.py) | [문제](https://www.acmicpc.net/problem/1158) | Deque |
+| 9093 - 단어 뒤집기 | [링크](./boj/data_structure/9093.py) | [문제](https://www.acmicpc.net/problem/9093) | string |
+| 1406 - 에디터(참고) | [링크](./boj/data_structure/1406.py) | [문제](https://www.acmicpc.net/problem/1406) | Stack |
+| 10808 - 알파벳 개수 | [링크](./boj/data_structure/10808.py) | [문제](https://www.acmicpc.net/problem/10808) | Hash |
+| 10809 - 알파벳 찾기 | [링크](./boj/data_structure/10809.py) | [문제](https://www.acmicpc.net/problem/10809) | Hash |
+| 10820 - 문자열 분석 | [링크](./boj/data_structure/10820.py) | [문제](https://www.acmicpc.net/problem/10820) | string |
+| 11655 - ROT13 | [링크](./boj/data_structure/11655.py) | [문제](https://www.acmicpc.net/problem/11655) | string |
+| 11656 - 접미사 배열 | [링크](./boj/data_structure/11656.py) | [문제](https://www.acmicpc.net/problem/11656) | string |
+| 17298 - 오큰수(참고) | [링크](./boj/data_structure/17298.py) | [문제](https://www.acmicpc.net/problem/17298) | Stack |
+| 17299 - 오등큰수 | [링크](./boj/data_structure/17299.py) | [문제](https://www.acmicpc.net/problem/17299) | Stack |
+| 17413 - 오등큰수 | [링크](./boj/data_structure/17413.py) | [문제](https://www.acmicpc.net/problem/17413) | Stack, string |
