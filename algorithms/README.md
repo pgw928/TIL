@@ -77,6 +77,11 @@
 | 17299 - 오등큰수 | [링크](./boj/data_structure/17299.py) | [문제](https://www.acmicpc.net/problem/17299) | Stack |
 | 17413 - 단어 뒤집기 2 | [링크](./boj/data_structure/17413.py) | [문제](https://www.acmicpc.net/problem/17413) | Stack, string |
 | 10799 - 쇠막대기 | [링크](./boj/data_structure/10799.py) | [문제](https://www.acmicpc.net/problem/10799) | Stack  |
-| 11052 - 카드 구매하기  | [링크](./boj/data_structure/11052.py) | [문제](https://www.acmicpc.net/problem/11052) | DP |
-| 16194 - 카드 구매하기 2 | [링크](./boj/data_structure/16194.py) | [문제](https://www.acmicpc.net/problem/16194) | DP |
-| 1463 - 1로 만들기 | [링크](./boj/data_structure/1463.py) | [문제](https://www.acmicpc.net/problem/1463) | DP |
+| 11052 - 카드 구매하기  | [링크](./boj/dp/11052.py) | [문제](https://www.acmicpc.net/problem/11052) | DP |
+| 16194 - 카드 구매하기 2 | [링크](./boj/dp/16194.py) | [문제](https://www.acmicpc.net/problem/16194) | DP |
+| 1463 - 1로 만들기 | [링크](./boj/dp/1463.py) | [문제](https://www.acmicpc.net/problem/1463) | DP |
+| 2193 - 이친수 | [링크](./boj/dp/2193.py) | [문제](https://www.acmicpc.net/problem/2193) | DP |
+| 11053 - 가장 긴 증가하는 부분 수열(참고)| [링크](./boj/dp/11053.py) | [문제](https://www.acmicpc.net/problem/11053) | DP |
+| 8111 - 0과 1| [링크](./boj/dfs&bfs/8111.py) | [문제](https://www.acmicpc.net/problem/8111) | bfs |
+| 13913 - 숨바꼭질 4 | [링크](./boj/dfs&bfs/13913.py) | [문제](https://www.acmicpc.net/problem/13913) | bfs |
+| 13549 - 숨바꼭질 3 | [링크](./boj/dfs&bfs/13549.py) | [문제](https://www.acmicpc.net/problem/13549) | bfs |
