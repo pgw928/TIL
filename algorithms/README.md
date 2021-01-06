@@ -85,3 +85,6 @@
 | 8111 - 0과 1| [링크](./boj/dfs&bfs/8111.py) | [문제](https://www.acmicpc.net/problem/8111) | bfs |
 | 13913 - 숨바꼭질 4 | [링크](./boj/dfs&bfs/13913.py) | [문제](https://www.acmicpc.net/problem/13913) | bfs |
 | 13549 - 숨바꼭질 3 | [링크](./boj/dfs&bfs/13549.py) | [문제](https://www.acmicpc.net/problem/13549) | bfs |
+| 16948 - 데스 나이트 | [링크](./boj/dfs&bfs/16948.py) | [문제](https://www.acmicpc.net/problem/16948) | bfs |
+| 14502 - 연구소 | [링크](./boj/dfs&bfs/14502.py) | [문제](https://www.acmicpc.net/problem/14502) | bfs |
+| 2206 - 벽 부수고 이동| [링크](./boj/dfs&bfs/2206.py) | [문제](https://www.acmicpc.net/problem/2206) | bfs |
