@@ -88,3 +88,5 @@
 | 16948 - 데스 나이트 | [링크](./boj/dfs&bfs/16948.py) | [문제](https://www.acmicpc.net/problem/16948) | bfs |
 | 14502 - 연구소 | [링크](./boj/dfs&bfs/14502.py) | [문제](https://www.acmicpc.net/problem/14502) | bfs |
 | 2206 - 벽 부수고 이동| [링크](./boj/dfs&bfs/2206.py) | [문제](https://www.acmicpc.net/problem/2206) | bfs |
+| 8958 - OX퀴즈| [링크](./boj/string/8958.py) | [문제](https://www.acmicpc.net/problem/8958) | String |
+| 13023 - ㅁㄴㅇ| [링크](./boj/dfs&bfs/13023.py) | [문제](https://www.acmicpc.net/problem/13023) | dfs |
