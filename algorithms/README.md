@@ -89,4 +89,9 @@
 | 14502 - 연구소 | [링크](./boj/dfs&bfs/14502.py) | [문제](https://www.acmicpc.net/problem/14502) | bfs |
 | 2206 - 벽 부수고 이동| [링크](./boj/dfs&bfs/2206.py) | [문제](https://www.acmicpc.net/problem/2206) | bfs |
 | 8958 - OX퀴즈| [링크](./boj/string/8958.py) | [문제](https://www.acmicpc.net/problem/8958) | String |
-| 13023 - ㅁㄴㅇ| [링크](./boj/dfs&bfs/13023.py) | [문제](https://www.acmicpc.net/problem/13023) | dfs |
+| 13023 - ABCDE(다시) | [링크](./boj/dfs&bfs/13023.py) | [문제](https://www.acmicpc.net/problem/13023) | dfs |
+| 1966 - 프린터 큐 | [링크](./boj/data_structure/1966.py) | [문제](https://www.acmicpc.net/problem/1966) | Queue |
+| 18352 - 특정 거리의 도시 찾기 | [링크](./boj/dfs&bfs/18352.py) | [문제](https://www.acmicpc.net/problem/18352) | bfs |
+| 2884 - 알람 시계 | [링크](./boj/mAth/2884.py) | [문제](https://www.acmicpc.net/problem/2884) | math |
+| 1059 - 좋은 구간 | [링크](./boj/mAth/1059.py) | [문제](https://www.acmicpc.net/problem/1059) | math |
+| 1343 - 폴리오미노 | [링크](./boj/greedy/1343.py) | [문제](https://www.acmicpc.net/problem/1343) | Greedy |
