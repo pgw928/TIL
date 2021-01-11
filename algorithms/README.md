@@ -62,7 +62,7 @@
 | 9012 - 괄호 1 | [링크](./boj/data_structure/9012.py) | [문제](https://www.acmicpc.net/problem/9012) | Stack |
 | 10828 - 스택 | [링크](./boj/data_structure/10828.py) | [문제](https://www.acmicpc.net/problem/10828) | Stack |
 | 13116 - 30번 | [링크](./boj/data_structure/13116.py) | [문제](https://www.acmicpc.net/problem/13116) | 이진트리 |
-| 1874 - 스택 수열 | [링크](./boj/data_structure/1874.py) | [문제](https://www.acmicpc.net/problem/1874) | Stack |
+| 1874 - 스택 수열 | [링크1](./boj/data_structure/1874.py), [링크2](./boj/data_structure/1874-(1).py) | [문제](https://www.acmicpc.net/problem/1874) | Stack |
 | 10845 - 큐 | [링크](./boj/data_structure/10845.py) | [문제](https://www.acmicpc.net/problem/10845) | Queue |
 | 10866 - 덱 | [링크](./boj/data_structure/10866.py) | [문제](https://www.acmicpc.net/problem/10866) | Deque |
 | 1158 - 요세푸스 문제 | [링크](./boj/data_structure/1158.py) | [문제](https://www.acmicpc.net/problem/1158) | Deque |
@@ -95,3 +95,6 @@
 | 2884 - 알람 시계 | [링크](./boj/mAth/2884.py) | [문제](https://www.acmicpc.net/problem/2884) | math |
 | 1059 - 좋은 구간 | [링크](./boj/mAth/1059.py) | [문제](https://www.acmicpc.net/problem/1059) | math |
 | 1343 - 폴리오미노 | [링크](./boj/greedy/1343.py) | [문제](https://www.acmicpc.net/problem/1343) | Greedy |
+| 5014 - 스타트링크 | [링크](./boj/dfs&bfs/5014.py) | [문제](https://www.acmicpc.net/problem/5014) | bfs |
+| 2468 - 안전 영역 | [링크](./boj/dfs&bfs/2468.py) | [문제](https://www.acmicpc.net/problem/2468) | dfs |
+| 2468 - 테트로미노 | [링크](./boj/dfs&bfs/2468.py) | [문제](https://www.acmicpc.net/problem/2468) | dfs |
