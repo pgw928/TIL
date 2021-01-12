@@ -70,6 +70,8 @@
 | 5014 - 스타트링크 | [링크](./boj/dfs&bfs/5014.py) | [문제](https://www.acmicpc.net/problem/5014) | bfs |
 | 2468 - 안전 영역 | [링크](./boj/dfs&bfs/2468.py) | [문제](https://www.acmicpc.net/problem/2468) | dfs |
 | 14500 - 테트로미노 | [링크](./boj/dfs&bfs/14500.py) | [문제](https://www.acmicpc.net/problem/14500) | dfs |
+| 3187 - 양치기 꿍 | [링크](./boj/dfs&bfs/3187.py) | [문제](https://www.acmicpc.net/problem/3187) | dfs |
+
 
 
 ## [Codility](./codility)
@@ -89,8 +91,6 @@
 | 128~132p  | 회문찾기(큐와 스택)     | [링크](./necessary/11_16.md)   | `.isalpha()`,  `.lower()` |
 | 135~143p  | 동명이인 찾기(딕셔너리) | [링크](./necessary/11_16_1.md) |                           |
 |           |                         |                                |                           |
-
-
 
 
 

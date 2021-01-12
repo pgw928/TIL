@@ -225,7 +225,9 @@
 
 ### 13. DBMS 
 
-* [Mysql]()
+* ~~[Mysql]()~~
+
+  
 
 ### 14. Markdown
 
