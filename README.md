@@ -206,7 +206,7 @@
 
 * [Elice](./algorithms/)
 * [programmers](./algorithms/)
-* [codility](./codility/)
+* [codility](./algorithms/)
 * [모두의 알고리즘](./algorithms/)
 * [백준](./algorithms/)
 * [BFS](./algorithms/bfs.md)
