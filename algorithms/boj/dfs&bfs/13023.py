@@ -1,5 +1,6 @@
 import sys
-from collections import deque
+sys.setrecursionlimit(10**7)
+
 input = sys.stdin.readline
 
 N, M = map(int, input().split())
@@ -9,28 +10,37 @@ for _ in range(M):
     graph[a].append(b)
     graph[b].append(a)
 
-ans = 0
 
-def dfs(start_node, depth):
-    global ans
+visited = [0] * N
+
+def dfs(start_node, depth, N):
+    print(f'node:{start_node}, detph:{depth}')
     node = start_node
     visited[node] = 1
-    # print('depth:', depth, 'N:', N)
-    if depth == N:
-        ans = 1
-        return
+    if depth == 4:
+        print(f'result:{1}')
+        return 1
 
-    n_nodes = graph[node]
-    for n_node in n_nodes:
+    for n_node in graph[node]:
         if not visited[n_node]:
-            dfs(n_node, depth+1)
+            visited[n_node] = 1
+            result = dfs(n_node, depth+1, N)
+            print('done')
             visited[n_node] = 0
-    return
+            if result == 1:
+                return result
+    visited[node] = 0
+    return 0
 
-for i in range(N):
 
-    visited = [0] * N
-    dfs(i, 1)
-print(ans)
+def sol():
+
+    for node in range(N):
+        if dfs(node, 0, N) == 1:
+            print('---------------')
+            return 1
+    return 0
+print(sol())
+
 
 

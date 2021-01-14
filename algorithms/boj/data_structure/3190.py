@@ -56,4 +56,4 @@ while True:
     if check[yy][xx] == 0: # 사과 없으면
         dq.popleft()
     else:
-        check[yy][xx] = 1  # 사과 먹고 없앰
+        check[yy][xx] = 0  # 사과 먹고 없앰

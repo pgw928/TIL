@@ -54,25 +54,25 @@
 | 1463 - 1로 만들기 | [링크](./boj/dp/1463.py) | [문제](https://www.acmicpc.net/problem/1463) | DP |
 | 2193 - 이친수 | [링크](./boj/dp/2193.py) | [문제](https://www.acmicpc.net/problem/2193) | DP |
 | 11053 - 가장 긴 증가하는 부분 수열(참고)| [링크](./boj/dp/11053.py) | [문제](https://www.acmicpc.net/problem/11053) | DP |
-| 8111 - 0과 1| [링크](./boj/dfs&bfs/8111.py) | [문제](https://www.acmicpc.net/problem/8111) | bfs |
-| 13913 - 숨바꼭질 4 | [링크](./boj/dfs&bfs/13913.py) | [문제](https://www.acmicpc.net/problem/13913) | bfs |
-| 13549 - 숨바꼭질 3 | [링크](./boj/dfs&bfs/13549.py) | [문제](https://www.acmicpc.net/problem/13549) | bfs |
-| 16948 - 데스 나이트 | [링크](./boj/dfs&bfs/16948.py) | [문제](https://www.acmicpc.net/problem/16948) | bfs |
-| 14502 - 연구소 | [링크](./boj/dfs&bfs/14502.py) | [문제](https://www.acmicpc.net/problem/14502) | bfs |
-| 2206 - 벽 부수고 이동| [링크](./boj/dfs&bfs/2206.py) | [문제](https://www.acmicpc.net/problem/2206) | bfs |
+| 8111 - 0과 1| [링크](./boj/dfs&bfs/8111.py) | [문제](https://www.acmicpc.net/problem/8111) | BFS |
+| 13913 - 숨바꼭질 4 | [링크](./boj/dfs&bfs/13913.py) | [문제](https://www.acmicpc.net/problem/13913) | BFS |
+| 13549 - 숨바꼭질 3 | [링크](./boj/dfs&bfs/13549.py) | [문제](https://www.acmicpc.net/problem/13549) | BFS |
+| 16948 - 데스 나이트 | [링크](./boj/dfs&bfs/16948.py) | [문제](https://www.acmicpc.net/problem/16948) | BFS |
+| 14502 - 연구소 | [링크](./boj/dfs&bfs/14502.py) | [문제](https://www.acmicpc.net/problem/14502) | BFS |
+| 2206 - 벽 부수고 이동| [링크](./boj/dfs&bfs/2206.py) | [문제](https://www.acmicpc.net/problem/2206) | BFS |
 | 8958 - OX퀴즈| [링크](./boj/string/8958.py) | [문제](https://www.acmicpc.net/problem/8958) | String |
-| 13023 - ABCDE(다시) | [링크](./boj/dfs&bfs/13023.py) | [문제](https://www.acmicpc.net/problem/13023) | dfs |
+| 13023 - ABCDE(다시) | [링크](./boj/dfs&bfs/13023.py) | [문제](https://www.acmicpc.net/problem/13023) | DFS            |
 | 1966 - 프린터 큐 | [링크](./boj/data_structure/1966.py) | [문제](https://www.acmicpc.net/problem/1966) | Queue |
-| 18352 - 특정 거리의 도시 찾기 | [링크](./boj/dfs&bfs/18352.py) | [문제](https://www.acmicpc.net/problem/18352) | bfs |
+| 18352 - 특정 거리의 도시 찾기 | [링크](./boj/dfs&bfs/18352.py) | [문제](https://www.acmicpc.net/problem/18352) | BFS |
 | 2884 - 알람 시계 | [링크](./boj/mAth/2884.py) | [문제](https://www.acmicpc.net/problem/2884) | math |
 | 1059 - 좋은 구간 | [링크](./boj/mAth/1059.py) | [문제](https://www.acmicpc.net/problem/1059) | math |
 | 1343 - 폴리오미노 | [링크](./boj/greedy/1343.py) | [문제](https://www.acmicpc.net/problem/1343) | Greedy |
-| 5014 - 스타트링크 | [링크](./boj/dfs&bfs/5014.py) | [문제](https://www.acmicpc.net/problem/5014) | bfs |
-| 2468 - 안전 영역 | [링크](./boj/dfs&bfs/2468.py) | [문제](https://www.acmicpc.net/problem/2468) | dfs |
-| 14500 - 테트로미노 | [링크](./boj/dfs&bfs/14500.py) | [문제](https://www.acmicpc.net/problem/14500) | dfs |
-| 3187 - 양치기 꿍 | [링크](./boj/dfs&bfs/3187.py) | [문제](https://www.acmicpc.net/problem/3187) | dfs |
+| 5014 - 스타트링크 | [링크](./boj/dfs&bfs/5014.py) | [문제](https://www.acmicpc.net/problem/5014) | BFS |
+| 2468 - 안전 영역 | [링크](./boj/dfs&bfs/2468.py) | [문제](https://www.acmicpc.net/problem/2468) | DFS |
+| 14500 - 테트로미노 | [링크](./boj/dfs&bfs/14500.py) | [문제](https://www.acmicpc.net/problem/14500) | DFS |
+| 3187 - 양치기 꿍 | [링크](./boj/dfs&bfs/3187.py) | [문제](https://www.acmicpc.net/problem/3187) | DFS |
 | 3190 - 뱀 | [링크](./boj/data_structure/3190.py) | [문제](https://www.acmicpc.net/problem/3190) | Queue |
-
+| 13023 - ABCDE | [링크](./boj/data_structure/13023.py) | [문제](https://www.acmicpc.net/problem/13023) | DFS |
 
 
 ## [Codility](./codility)
@@ -82,6 +82,7 @@
 | TapeEquilibrium              | [링크](./codility/Time_complexity/TapeEquilibrium.md) | Time complexity   |
 | (CH4) Counting  Element 정리 | [링크](./codility/Counting_Elements/Chapter4.md) | Counting  Element |
 | FrogRiverOne                 | [링크](./codility/Counting_Elements/FrogRiverOne.md) | Counting  Element |
+| MissingInteger                 | [링크](./codility/Counting_Elements/MissingInteger.md) | Counting  Element |
 
 
 
