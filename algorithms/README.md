@@ -73,6 +73,9 @@
 | 3187 - 양치기 꿍 | [링크](./boj/dfs&bfs/3187.py) | [문제](https://www.acmicpc.net/problem/3187) | DFS |
 | 3190 - 뱀 | [링크](./boj/data_structure/3190.py) | [문제](https://www.acmicpc.net/problem/3190) | Queue |
 | 13023 - ABCDE | [링크](./boj/data_structure/13023.py) | [문제](https://www.acmicpc.net/problem/13023) | DFS |
+| 11650 - 좌표 정렬하기 | [링크](./boj/sorting/11650.py) | [문제](https://www.acmicpc.net/problem/11650) | sorting |
+
+
 
 
 ## [Codility](./codility)
@@ -83,6 +86,7 @@
 | (CH4) Counting  Element 정리 | [링크](./codility/Counting_Elements/Chapter4.md) | Counting  Element |
 | FrogRiverOne                 | [링크](./codility/Counting_Elements/FrogRiverOne.md) | Counting  Element |
 | MissingInteger                 | [링크](./codility/Counting_Elements/MissingInteger.md) | Counting  Element |
+| Dominator                    | [링크](./codility/Leader/Dominator.md) | Leader |
 
 
 
