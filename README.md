@@ -25,6 +25,12 @@
 
 * [데이터 분석을 위한 파이썬 환경설정](./python/env_for_data.md)
 
+* [파이썬 특징 및 장점](./python/pros.md)
+
+* [가변 인수](./python/variable_argument.md)
+
+* [파이썬 다양한 함수들(alg을 위한 함수들과 합칠 예정)](./python/variable_argument.md)
+
 * [os module](./python/OS_module.md)
 
 * [Algorithm을 위한 함수들](./python/method_function.md)
@@ -35,13 +41,15 @@
 
 * [extend vs append](./python/extend.md)
 
-* [sys.stdin.readline(+input)](./python/sys_stdin_readline.md)
+* [sys.stdin.readline 및 input (추가예정)](./python/sys_stdin_readline.md)
 
 * [n진법](./python/base.md)
 
 * [with 문](./python/with.md)
 
 * [이차원 이상의 리스트 복사 방법(deepcopy)](./python/copy.md)
+
+* [generaor(임시)](./python/generator.md)
 
 * [python encoding decoidng](./python/encoding_decoding.md) # 나중에 더 자세히 다루어야 할듯
 
