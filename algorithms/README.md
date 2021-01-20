@@ -67,13 +67,15 @@
 | 2884 - 알람 시계 | [링크](./boj/mAth/2884.py) | [문제](https://www.acmicpc.net/problem/2884) | math |
 | 1059 - 좋은 구간 | [링크](./boj/mAth/1059.py) | [문제](https://www.acmicpc.net/problem/1059) | math |
 | 1343 - 폴리오미노 | [링크](./boj/greedy/1343.py) | [문제](https://www.acmicpc.net/problem/1343) | Greedy |
-| 5014 - 스타트링크 | [링크](./boj/dfs&bfs/5014.py) | [문제](https://www.acmicpc.net/problem/5014) | BFS |
+| 5014 - 스타트링크 | [링크1](./boj/dfs&bfs/5014.py),[링크2](./boj/dfs&bfs/5014-(1).py),[링크3](./boj/dfs&bfs/5014-(2).py) | [문제](https://www.acmicpc.net/problem/5014) | BFS |
 | 2468 - 안전 영역 | [링크](./boj/dfs&bfs/2468.py) | [문제](https://www.acmicpc.net/problem/2468) | DFS |
 | 14500 - 테트로미노 | [링크](./boj/dfs&bfs/14500.py) | [문제](https://www.acmicpc.net/problem/14500) | DFS |
 | 3187 - 양치기 꿍 | [링크](./boj/dfs&bfs/3187.py) | [문제](https://www.acmicpc.net/problem/3187) | DFS |
 | 3190 - 뱀 | [링크](./boj/data_structure/3190.py) | [문제](https://www.acmicpc.net/problem/3190) | Queue |
 | 13023 - ABCDE | [링크](./boj/data_structure/13023.py) | [문제](https://www.acmicpc.net/problem/13023) | DFS |
 | 11650 - 좌표 정렬하기 | [링크](./boj/sorting/11650.py) | [문제](https://www.acmicpc.net/problem/11650) | sorting |
+| 14395 - 4연산 | [링크](./boj/dfs&bfs/14395.py) | [문제](https://www.acmicpc.net/problem/14395) | BFS |
+| 14888 - 연산자 끼워넣기 | [링크](./boj/brute_force/14888.py) | [문제](https://www.acmicpc.net/problem/14888) | Brute force |
 
 
 
