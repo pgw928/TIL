@@ -4,21 +4,6 @@
 
 
 
-* 숫자, 문자열인지 확인
-
-```python
-print('a'.isalpha())
-# True
-
-print('한글'.isalpha())
-# True
-
-print(3.isdigit())
-# True
-```
-
-
-
 * `lambda`함수를 활용한 정렬
 
 ```python
