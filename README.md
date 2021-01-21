@@ -37,7 +37,7 @@
 
 * [문자열 method(좀 더 추가 예정)](./python/string_method.md)
 
-* [list 와 tuple](./python/list_and _tuple.md)
+* [list 와 tuple](./python/list_and_tuple.md)
 
 * [dict 와 set](./python/dict_and_set.md)
 
