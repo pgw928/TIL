@@ -31,13 +31,25 @@
 
 * [파이썬 다양한 함수들(alg을 위한 함수들과 합칠 예정)](./python/variable_argument.md)
 
+* [변수의 범위(global, local)](./python/range_of_variable.md)
+
+* [docstring](./python/docstring.md)
+
+* [문자열 method(좀 더 추가 예정)](./python/string_method.md)
+
+* [list 와 tuple](./python/list_and _tuple.md)
+
+* [dict 와 set](./python/dict_and_set.md)
+
+* [is 연산자](./python/is.md)
+
+* [컬렉션 관리 함수 및 람다 함수](./python/collection_and_lambda.md)
+
 * [os module](./python/OS_module.md)
 
 * [Algorithm을 위한 함수들](./python/method_function.md)
 
-* [GPU 할당 코드](./python/GPU.md)
-
-* [컬렉션 관리 함수(enumerat, zip, any, all, filter, map)](./python/collection_function.md)
+* [Tensorflow GPU 할당 코드](./python/GPU.md)
 
 * [extend vs append](./python/extend.md)
 
@@ -47,11 +59,11 @@
 
 * [with 문](./python/with.md)
 
-* [이차원 이상의 리스트 복사 방법(deepcopy)](./python/copy.md)
+* [deepcopy(이차원 이상의 리스트 복사 방법)](./python/copy.md)
 
 * [generaor(임시)](./python/generator.md)
 
-* [python encoding decoidng](./python/encoding_decoding.md) # 나중에 더 자세히 다루어야 할듯
+* [python encoding decoding](./python/encoding_decoding.md) # 나중에 더 자세히 다루어야 할듯
 
   
 
