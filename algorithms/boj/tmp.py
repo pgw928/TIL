@@ -1,12 +1,5 @@
-def calcstep(**args):
+m_of_2 = {2, 4, 6, 8, 10, 12, 14, 16}
+m_of_3 = {3, 6, 9, 12, 15, 18, 21}
 
-    begin = args['begin']
-    end = args['end']
-    step = args['step']
-
-    sum = 0
-    for num in range(begin, end+1, step):
-        sum += sum
-    return sum
-
-print('3 ~ 5 =', calcstep(begin=3, end = 5, step = 1))
+print(f'배타적 차집합 : {m_of_2.symmetric_difference(m_of_3)}')
+print(f'배타적 차집합 : {m_of_2 ^ m_of_3}')
