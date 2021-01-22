@@ -165,7 +165,7 @@
 import numpy as np
 arr = np.array([(1,2,3),(4,5,6)])
 print(arr)       # [[1 2 3]
-				 # [4 5 6]]
+				      # [4 5 6]]
 	
 	arr1 = arr.reshape(3,2)
 	print(arr1)      # [[1 2]
@@ -186,16 +186,16 @@ print(arr)       # [[1 2 3]
   ```python
   arr = np.array([(1,2,3),(4,5,6)])
   print(arr)       # [[1 2 3]
-  				 # [4 5 6]]
+                   #  [4 5 6]]
   
   arr1 = arr.reshape(3,2).copy()
   print(arr1)      # [[1 2]
-  				 # [3 4]
-                   # [5 6]]
+                   #  [3 4]
+                   #  [5 6]]
   
   arr[1,1]=500
   print(arr1)      # [[1   2]
-  				 #  [3   4]
+                   #  [3   4]
                    #  [5   6]]
   ```
   
