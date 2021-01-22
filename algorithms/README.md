@@ -61,7 +61,7 @@
 | 14502 - 연구소 | [링크](./boj/dfs&bfs/14502.py) | [문제](https://www.acmicpc.net/problem/14502) | BFS |
 | 2206 - 벽 부수고 이동| [링크](./boj/dfs&bfs/2206.py) | [문제](https://www.acmicpc.net/problem/2206) | BFS |
 | 8958 - OX퀴즈| [링크](./boj/string/8958.py) | [문제](https://www.acmicpc.net/problem/8958) | String |
-| 13023 - ABCDE(다시) | [링크](./boj/dfs&bfs/13023.py) | [문제](https://www.acmicpc.net/problem/13023) | DFS            |
+| 13023 - ABCDE | [링크](./boj/dfs&bfs/13023.py) | [문제](https://www.acmicpc.net/problem/13023) | DFS            |
 | 1966 - 프린터 큐 | [링크](./boj/data_structure/1966.py) | [문제](https://www.acmicpc.net/problem/1966) | Queue |
 | 18352 - 특정 거리의 도시 찾기 | [링크](./boj/dfs&bfs/18352.py) | [문제](https://www.acmicpc.net/problem/18352) | BFS |
 | 2884 - 알람 시계 | [링크](./boj/mAth/2884.py) | [문제](https://www.acmicpc.net/problem/2884) | math |
@@ -77,6 +77,7 @@
 | 14395 - 4연산 | [링크](./boj/dfs&bfs/14395.py) | [문제](https://www.acmicpc.net/problem/14395) | BFS |
 | 14888 - 연산자 끼워넣기 | [링크](./boj/brute_force/14888.py) | [문제](https://www.acmicpc.net/problem/14888) | Brute force |
 | 1946 - 신입사원 | [링크1](./boj/greedy/1946.py), [링크2](./boj/greedy/1946-(1).py) | [문제](https://www.acmicpc.net/problem/1946) | greedy alg |
+| 10951 - A+B-4 | [링크](./boj/etc/10951.py) | [문제](https://www.acmicpc.net/problem/10951) | while ~ try ~ else |
 
 
 
