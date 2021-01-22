@@ -93,7 +93,7 @@
 
 * [iterator](./numpy/iterator.md)
 
-* [100 numpy exercises](./numpy/100_numpy_exercises(1~10).ipynb)
+* [100 numpy exercises(1~10)](./numpy/100_numpy_exercises(1~10).ipynb)
 
   (추가해야할 사항) np.where,  , np.concatenate, np.power
 
