@@ -49,6 +49,8 @@
 
 * [클래스(initializer, inheritance, accessor, property)](./python/class1.md)
 
+* [여러가지 method(class method, static method, operator method, special method)](./python/class2.md)
+
 * [os module](./python/OS_module.md)
 
 * [Algorithm을 위한 함수들](./python/method_function.md)
