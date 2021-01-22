@@ -45,6 +45,10 @@
 
 * [컬렉션 관리 함수 및 람다 함수](./python/collection_and_lambda.md)
 
+* [예외 처리(Exception)](./python/exception.md)
+
+* [클래스(initializer, inheritance, accessor, property)](./python/class1.md)
+
 * [os module](./python/OS_module.md)
 
 * [Algorithm을 위한 함수들](./python/method_function.md)
