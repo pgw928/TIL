@@ -1,7 +1,6 @@
 #  Indexing 및 Slicing
 
 > 데이터를 불러올 때 전체를 가져오는게 아니라 일부만 가져올 때 `indexing` 또는 `slicing` 이 사용된다.
->
 > `ndarray` 는 어떻게 `indexing` 과 `slicing` 을 하는지 설명한다.
 
 
