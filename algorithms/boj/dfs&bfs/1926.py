@@ -1,35 +1,41 @@
 import sys
-sys.setrecursionlimit(8000)
-n, m = map(int, sys.stdin.readline().split())
+sys.setrecursionlimit(100000)
 
-graph= []
-for _ in range(n):
-    graph.append(list(map(int,sys.stdin.readline().split())))
+input = sys.stdin.readline
+
+n, m = map(int, input().split())
+
+graph = [ list(map(int, input().split())) for _ in range(n)]
+
+dy = [1, -1, 0, 0]
+dx = [0, 0, -1, 1]
 
 
 def dfs(start_node):
-    x, y = start_node
-    if x<=-1 or y<=-1 or x>=n or y>=m:
-        return 0
-    if graph[x][y] == 0:
-        return 0
-    if graph[x][y] == 1:
-        graph[x][y] = 0
+    global result
+    y, x = start_node
+    if graph[y][x]==0:
+        return
+    graph[y][x] = 0
+    result += 1
 
-        s1 = dfs((x - 1, y))
-        s2 = dfs((x + 1, y))
-        s3 = dfs((x, y - 1))
-        s4 = dfs((x, y + 1))
-        s = (s1 + s2 + s3 + s4)
-        return 1+s
+
+    for k in range(4):
+        b = y + dy[k]
+        a = x + dx[k]
+        if (0<=b<n) and (0<=a<m) and (graph[b][a]==1):
+            dfs((b,a))
+
 
 count = 0
-y= 0
+result = 0
+M = 0
 for i in range(n):
     for j in range(m):
         if graph[i][j]==1:
-            y = max(y,dfs((i,j)))
             count += 1
-
+            dfs((i,j))
+            M = max(result, M)
+            result = 0
 print(count)
-print(y)
+print(M)
