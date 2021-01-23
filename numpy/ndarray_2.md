@@ -43,9 +43,7 @@
      plot.show()
      ```
 
-        				 	![표준정규분포](markdown-images/표준정규분포.PNG)
-
-   
+![표준정규분포](markdown-images/표준정규분포.PNG)
 
 ## 3. random.rand
 
