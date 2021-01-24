@@ -78,6 +78,7 @@
 | 14888 - 연산자 끼워넣기 | [링크](./boj/brute_force/14888.py) | [문제](https://www.acmicpc.net/problem/14888) | Brute force |
 | 1946 - 신입사원 | [링크1](./boj/greedy/1946.py), [링크2](./boj/greedy/1946-(1).py) | [문제](https://www.acmicpc.net/problem/1946) | greedy alg |
 | 10951 - A+B-4 | [링크](./boj/etc/10951.py) | [문제](https://www.acmicpc.net/problem/10951) | while ~ try ~ else |
+| 2609 - 최대공약수와 최소공배수 | [링크1](./boj/mAth/2609.py), [링크1](./boj/mAth/2609-(1).py) | [문제](https://www.acmicpc.net/problem/2609) | math |
 
 
 
