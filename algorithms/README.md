@@ -79,9 +79,9 @@
 | 1946 - 신입사원 | [링크1](./boj/greedy/1946.py), [링크2](./boj/greedy/1946-(1).py) | [문제](https://www.acmicpc.net/problem/1946) | greedy alg |
 | 10951 - A+B-4 | [링크](./boj/etc/10951.py) | [문제](https://www.acmicpc.net/problem/10951) | while ~ try ~ else |
 | 2609 - 최대공약수와 최소공배수 | [링크1](./boj/mAth/2609.py), [링크1](./boj/mAth/2609-(1).py) | [문제](https://www.acmicpc.net/problem/2609) | math |
-
-
-
+| 2869 - 달팽이는 올라가고 싶다 | [링크](./boj/mAth/2869.py) | [문제](https://www.acmicpc.net/problem/2869) | math |
+| 11047 - 동전 0 | [링크](./boj/greedy/11047.py) | [문제](https://www.acmicpc.net/problem/11047) | greedy |
+| 11399 - ATM | [링크](./boj/greedy/11399.py) | [문제](https://www.acmicpc.net/problem/11399) | greedy |
 
 ## [Codility](./codility)
 | 문제 및 정리        | 풀이                                                                  | 비고 |
