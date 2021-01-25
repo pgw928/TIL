@@ -82,6 +82,10 @@
 | 2869 - 달팽이는 올라가고 싶다 | [링크](./boj/mAth/2869.py) | [문제](https://www.acmicpc.net/problem/2869) | math |
 | 11047 - 동전 0 | [링크](./boj/greedy/11047.py) | [문제](https://www.acmicpc.net/problem/11047) | greedy |
 | 11399 - ATM | [링크](./boj/greedy/11399.py) | [문제](https://www.acmicpc.net/problem/11399) | greedy |
+| 1916 - 최소비용 구하기 | [링크](./boj/dijkstra/1916.py) | [문제](https://www.acmicpc.net/problem/1916) | dijkstra |
+| 1238 - 파티 | [링크](./boj/dijkstra/1238.py) | [문제](https://www.acmicpc.net/problem/1238) | dijkstra |
+| 1753 - 최단경로 | [링크](./boj/dijkstra/1753.py) | [문제](https://www.acmicpc.net/problem/1753) | dijkstra |
+
 
 ## [Codility](./codility)
 | 문제 및 정리        | 풀이                                                                  | 비고 |
