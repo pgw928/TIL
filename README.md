@@ -240,7 +240,7 @@
 　
 
 
-### 11. Algorithm
+### 11. Algorithms
 
 * [Elice](./algorithms/)
 * [programmers](./algorithms/)
@@ -249,6 +249,7 @@
 * [백준](./algorithms/)
 * [BFS](./algorithms/bfs.md)
 * [DFS](./algorithms/dfs.md)
+* [우선순위큐](./algorithms/Priority_Queue.md)
 
 
 
