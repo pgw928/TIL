@@ -85,7 +85,11 @@
 | 1916 - 최소비용 구하기 | [링크](./boj/dijkstra/1916.py) | [문제](https://www.acmicpc.net/problem/1916) | dijkstra |
 | 1238 - 파티 | [링크](./boj/dijkstra/1238.py) | [문제](https://www.acmicpc.net/problem/1238) | dijkstra |
 | 1753 - 최단경로 | [링크](./boj/dijkstra/1753.py) | [문제](https://www.acmicpc.net/problem/1753) | dijkstra |
-
+| 1162 - 도로포장(시간초과) | [링크](./boj/dijkstra/1162.py) | [문제](https://www.acmicpc.net/problem/1162) | dijkstra |
+| 1260 - DFS와 BFS | [링크](./boj/dfs&bfs/1260.py) | [문제](https://www.acmicpc.net/problem/1260) | BFS and DFS |
+| 9205 - 맥주 마시면서 걸아가기 | [링크](./boj/dfs&bfs/9205.py) | [문제](https://www.acmicpc.net/problem/9205) | BFS |
+| 2579 - 계단 오르기 | [링크](./boj/dp/2579.py) | [문제](https://www.acmicpc.net/problem/2579) | DP |
+| 9465 - 스티커 | [링크](./boj/dp/9465.py) | [문제](https://www.acmicpc.net/problem/9465) | DP |
 
 ## [Codility](./codility)
 | 문제 및 정리        | 풀이                                                                  | 비고 |
