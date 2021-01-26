@@ -92,6 +92,9 @@
 | 9465 - 스티커 | [링크](./boj/dp/9465.py) | [문제](https://www.acmicpc.net/problem/9465) | heap |
 | 1927 - 최소 힙 | [링크](./boj/data_structure/1927.py) | [문제](https://www.acmicpc.net/problem/1927) | heap |
 | 11279 - 최대 힙 | [링크](./boj/data_structure/11279.py) | [문제](https://www.acmicpc.net/problem/11279) | heap |
+| 11726 - 2xn 타일링 | [링크](./boj/dp/11726.py) | [문제](https://www.acmicpc.net/problem/11726) | DP |
+| 11727 - 2xn 타일링 2 | [링크](./boj/dp/11727.py) | [문제](https://www.acmicpc.net/problem/11727) | DP |
+| 11057 - 오르막수(dp 문제인데 그냥 수학으로 품) | [링크](./boj/dp/11057.py) | [문제](https://www.acmicpc.net/problem/11057) | DP |
 
 
 ## [Codility](./codility)
