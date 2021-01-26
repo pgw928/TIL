@@ -89,9 +89,13 @@
 | 1260 - DFS와 BFS | [링크](./boj/dfs&bfs/1260.py) | [문제](https://www.acmicpc.net/problem/1260) | BFS and DFS |
 | 9205 - 맥주 마시면서 걸아가기 | [링크](./boj/dfs&bfs/9205.py) | [문제](https://www.acmicpc.net/problem/9205) | BFS |
 | 2579 - 계단 오르기 | [링크](./boj/dp/2579.py) | [문제](https://www.acmicpc.net/problem/2579) | DP |
-| 9465 - 스티커 | [링크](./boj/dp/9465.py) | [문제](https://www.acmicpc.net/problem/9465) | DP |
+| 9465 - 스티커 | [링크](./boj/dp/9465.py) | [문제](https://www.acmicpc.net/problem/9465) | heap |
+| 1927 - 최소 힙 | [링크](./boj/data_structure/1927.py) | [문제](https://www.acmicpc.net/problem/1927) | heap |
+| 11279 - 최대 힙 | [링크](./boj/data_structure/11279.py) | [문제](https://www.acmicpc.net/problem/11279) | heap |
+
 
 ## [Codility](./codility)
+
 | 문제 및 정리        | 풀이                                                                  | 비고 |
 | --------------------- | -------------------------------------------- | ---- |
 | PerMissingElem      | [링크](./codility/Time_complexity/PerMissingElem.md) | Time complexity   |
