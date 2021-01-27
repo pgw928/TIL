@@ -95,6 +95,9 @@
 | 11726 - 2xn 타일링 | [링크](./boj/dp/11726.py) | [문제](https://www.acmicpc.net/problem/11726) | DP |
 | 11727 - 2xn 타일링 2 | [링크](./boj/dp/11727.py) | [문제](https://www.acmicpc.net/problem/11727) | DP |
 | 11057 - 오르막수(dp 문제인데 그냥 수학으로 품) | [링크](./boj/dp/11057.py) | [문제](https://www.acmicpc.net/problem/11057) | DP |
+| 3273 - 두 수의 합 | [링크](./boj/sorting/3273.py) | [문제](https://www.acmicpc.net/problem/3273) | sorting |
+| 10815 - 숫자 카드 | [링크](./boj/sorting/10815.py) | [문제](https://www.acmicpc.net/problem/10815) | sorting |
+
 
 
 ## [Codility](./codility)
