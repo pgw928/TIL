@@ -111,7 +111,160 @@
 
 
 
-* 가장 쉬운 방법은 이 함수를 감싸는 것이다. 
+* 가장 쉬운 방법은 이 함수를 감싸는 것(wrapping)이다.  
+
+  ```python
+  def inner():
+      print('결과를 출력합니다.')
+      
+  def outer(func):
+      print('-'*20)
+      func()
+      print('-'*20)
+      
+  outer(inner)
+  # --------------------
+  # 결과를 출력합니다.
+  # --------------------
+  ```
+
+
+
+* 덮어쓰기 wrapping
+
+  ```python
+  def inner():
+      print('결과를 출력합니다.')
+      
+  def outer(func):
+      def wrapper():
+          print('-'*20)
+          func()
+          print('-'*20)
+      return wrapper
+  
+  inner = outer(inner)
+  inner()
+  
+  # --------------------
+  # 결과를 출력합니다.
+  # --------------------
+  ```
+
+
+
+* 파이썬에서는 이 기능을 간단하게 `@`를 이용해 데코레이터를 간단히 사용할 수 있다.
+
+  ```python
+  def outer(func):
+      def wrapper():
+          print('-'*20)
+          func()
+          print('-'*20)
+      return wrapper
+  
+  
+  @outer
+  def inner():
+      print('결과를 출력합니다.')
+  inner()
+  
+  # --------------------
+  # 결과를 출력합니다.
+  # --------------------
+  ```
+
+  * 이전의 코드와 구문만 다르 뿐 실행 결과는 완전히 같다.
+
+
+
+* 위의 예제 코드 1
+
+  ```python
+  def para(func):
+      def wrapper():
+          return '<p>' + str(func()) +'</p>'
+      return wrapper
+  
+  @para
+  def outname():
+      return '김상형'
+  
+  @para
+  def outage():
+      return '29'
+  
+  print(outname())
+  # <p>김상형</p>
+  
+  print(outage)
+  # <p>29</p>
+  ```
 
   
 
+* 예제 코드 2
+
+  ```python
+  def div(func):
+      def wrapper():
+          return '<div>' + str(func()) + '</div>'
+      return wrapper
+  
+  def para(func):
+      def wrapper():
+          return '<p>' + str(func()) + '</p>'
+      return wrapper
+  
+  @div
+  @para
+  def outname():
+      return '김상형'
+  
+  
+  @para
+  @div
+  def outage():
+      return 32
+  
+  print(outname())
+  # <div><p>김상형</p></div>
+  
+  print(outage())
+  # <p><div>32</div></p>
+  ```
+
+  
+
+* inner 함수에 변수가 필요한 경우 : `*args` 와 `**kwargs` 를 사용해야 한다.
+
+  ```python
+  def div(func):
+      def wrapper(*agrs, **kwargs):
+          return '<div>' + str(func(*agrs, **kwargs)) + '</div>'
+      return wrapper
+  
+  def para(func):
+      def wrapper(*agrs, **kwargs):
+          return '<p>' + str(func(*agrs, **kwargs)) + '</p>'
+      return wrapper
+  
+  @div
+  @para
+  def outname(name):
+      return name
+  
+  
+  @para
+  @div
+  def outage(age):
+      return age
+  
+  print(outname('김상형'))
+  # <div><p>김상형</p></div>
+  
+  print(outage(32))
+  # <p><div>32</div></p>
+  ```
+
+  * `wrapper` 함수에 가변 인자를 넘겨 `func`에 다시 넘겨줘야 한다.
