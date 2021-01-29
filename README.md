@@ -49,7 +49,11 @@
 
 * [클래스(initializer, inheritance, accessor, property)](./python/class1.md)
 
+* [데코레이터(클래스 데코레이터는 다음에)](./python/decorator.md)
+
 * [여러가지 method(class method, static method, operator method, special method)](./python/class2.md)
+
+* [동적 코드 실행(eval, repr, exec)](./python/dynamic_execution.md)
 
 * [os module](./python/OS_module.md)
 
