@@ -18,11 +18,10 @@
 | 10026 - 적록색약 | [링크](./boj/dfs&bfs/10026.py) | [문제](https://www.acmicpc.net/problem/10026) | DFS |
 | 5567 - 결혼식 | [링크](./boj/dfs&bfs/5567.py) | [문제](https://www.acmicpc.net/problem/5567) | BFS |
 | 1926 - 그림 | [링크](./boj/dfs&bfs/1926.py) | [문제](https://www.acmicpc.net/problem/1926) | DFS |
-| 2573 - 빙산(시간초과!!!!!!!!!!!!!!!) | [링크](./boj/dfs&bfs/2573.py) | [문제](https://www.acmicpc.net/problem/2573) | DFS |
+| 2573 - 빙산(PyPy3 통과, Python3 시간초과) | [링크](./boj/dfs&bfs/2573.py) | [문제](https://www.acmicpc.net/problem/2573) | BFS |
 | 1600 - (다시 풀어야함!!!!!!!!!!!!!!!) | [링크](./boj/dfs&bfs/1600.py) | [문제](https://www.acmicpc.net/problem/1600) | BFS |
 | 2644 - 촌수계산 | [링크1](./boj/dfs&bfs/2644.py),[링크2](./boj/dfs&bfs/2644-(1).py) | [문제](https://www.acmicpc.net/problem/2644) | BFS |
 | 1520 - 내리막 길 | [링크](./boj/dfs&bfs/1520.py) | [문제](https://www.acmicpc.net/problem/1520) | DFS |
-| 1926 - 그림(런타임에러) | [링크](./boj/dfs&bfs/1926.py) | [문제](https://www.acmicpc.net/problem/1926) | DFS |
 | 2309 - 일곱 난쟁이 | [링크](./boj/brute_force/2309.py) | [문제](https://www.acmicpc.net/problem/2309) | Brute Force |
 | 1476 - 날짜 계산 | [링크](./boj/brute_force/1476.py) | [문제](https://www.acmicpc.net/problem/1476) | Brute Force |
 | 9095 - 1, 2, 3 더하기 | [링크1](./boj/brute_force/9095.py), [링크2](./boj/brute_force/9095-(1).py)| [문제](https://www.acmicpc.net/problem/9095) | DP,  Recursion |
@@ -97,7 +96,10 @@
 | 11057 - 오르막수(dp 문제인데 그냥 수학으로 품) | [링크](./boj/dp/11057.py) | [문제](https://www.acmicpc.net/problem/11057) | DP |
 | 3273 - 두 수의 합 | [링크](./boj/sorting/3273.py) | [문제](https://www.acmicpc.net/problem/3273) | sorting |
 | 10815 - 숫자 카드 | [링크](./boj/sorting/10815.py) | [문제](https://www.acmicpc.net/problem/10815) | sorting |
-
+| 3040 - 백설 공주와 일곱 난쟁이 | [링크](./boj/bretue_force/3040.py) | [문제](https://www.acmicpc.net/problem/3040) | bretue_force |
+| 15686 - 치킨 배달 | [링크](./boj/bretue_force/15686.py) | [문제](https://www.acmicpc.net/problem/15686) | bretue_force |
+| 18870 - 좌표 압축 | [링크](./boj/sorting/18870.py) | [문제](https://www.acmicpc.net/problem/18870) | sorting, Counter |
+| 1929 - 좌표 압축 | [링크](./boj/mAth/1929.py) | [문제](https://www.acmicpc.net/problem/1929) | math |
 
 
 ## [Codility](./codility)
