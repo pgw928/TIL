@@ -33,7 +33,7 @@ df = pd.read_csv('./data/mnist/train.csv')
 display(df.head())
 ```
 
-![image-20201015035329729](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20201015035329729.png)
+![image-20201015035329729](markdown-images/image-20201015035329729.png)
 
 ```python
 x_data = df.drop(['label'], axis=1, inplace=False)
