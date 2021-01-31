@@ -101,7 +101,8 @@
 | 18870 - 좌표 압축 | [링크](./boj/sorting/18870.py) | [문제](https://www.acmicpc.net/problem/18870) | sorting, Counter |
 | 1929 - 좌표 압축 | [링크](./boj/mAth/1929.py) | [문제](https://www.acmicpc.net/problem/1929) | math |
 | 2739 - 구구단 | [링크](./boj/etc/2793.py) | [문제](https://www.acmicpc.net/problem/2793) | decorator 연습 |
-
+| 2108 - 통계학 | [링크](./boj/mAth/2108.py) | [문제](https://www.acmicpc.net/problem/2108) | 통계 |
+| 2231 - 분해합 | [링크](./boj/mAth/2231.py) | [문제](https://www.acmicpc.net/problem/2231) | math |
 
 
 ## [Codility](./codility)
