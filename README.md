@@ -29,7 +29,7 @@
 
 * [가변 인수](./python/variable_argument.md)
 
-* [파이썬 다양한 함수들(alg을 위한 함수들과 합칠 예정)](./python/variable_argument.md)
+* [파이썬 다양한 함수들(alg을 위한 함수들과 합칠 예정)](./python/functions.md)
 
 * [변수의 범위(global, local)](./python/range_of_variable.md)
 
