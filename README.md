@@ -250,7 +250,7 @@
 * [programmers](./algorithms/)
 * [codility](./algorithms/)
 * [모두의 알고리즘](./algorithms/)
-* [백준](./algorithms/)
+* [백준](./algorithms/boj)
 * [BFS](./algorithms/bfs.md)
 * [DFS](./algorithms/dfs.md)
 * [우선순위큐](./algorithms/Priority_Queue.md)

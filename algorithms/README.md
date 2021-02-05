@@ -103,6 +103,15 @@
 | 2739 - 구구단 | [링크](./boj/etc/2793.py) | [문제](https://www.acmicpc.net/problem/2793) | decorator 연습 |
 | 2108 - 통계학 | [링크](./boj/mAth/2108.py) | [문제](https://www.acmicpc.net/problem/2108) | 통계 |
 | 2231 - 분해합 | [링크](./boj/mAth/2231.py) | [문제](https://www.acmicpc.net/problem/2231) | math |
+| 10372 - 랜선 자르기 | [링크](./boj/binary_search/10372.py) | [문제](https://www.acmicpc.net/problem/10372) | binary search |
+| 2470 - 두 용액 | [링크](./boj/two_pointer/2470.py) | [문제](https://www.acmicpc.net/problem/2470) | two pointer |
+| 1339 - 단어 수학 | [링크](./boj/brute_force/1339.py) | [문제](https://www.acmicpc.net/problem/1339) | brute force |
+| 16953 - A → B | [링크](./boj/dfs&bfs/16953.py) | [문제](https://www.acmicpc.net/problem/16953) | BFS |
+| 16236 - 아기상어 | [링크](./boj/dfs&bfs/16236.py) | [문제](https://www.acmicpc.net/problem/16236) | BFS |
+| 11728 - 배열 합치기 | [링크](./boj/two_pointer/11728.py) | [문제](https://www.acmicpc.net/problem/11728) | two pointer |
+| 1940 - 주몽 | [링크](./boj/two_pointer/1940.py) | [문제](https://www.acmicpc.net/problem/1940) | two pointer |
+| 11725 - 트리의 부모 찾기 | [링크](./boj/dfs&bfs/11725.py) | [문제](https://www.acmicpc.net/problem/11725) | BFS |
+
 
 
 ## [Codility](./codility)
