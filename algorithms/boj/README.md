@@ -115,7 +115,7 @@
 | 1929 - 좌표 압축                               | [링크](./boj/mAth/1929.py)                                   | [문제](https://www.acmicpc.net/problem/1929)  | math               |
 | 2108 - 통계학                                  | [링크](./boj/mAth/2108.py)                                   | [문제](https://www.acmicpc.net/problem/2108)  | 통계               |
 | 2231 - 분해합                                  | [링크](./boj/mAth/2231.py)                                   | [문제](https://www.acmicpc.net/problem/2231)  | math               |
-
+| 6219 - 소수의 자격                                  | [링크](./boj/mAth/6219.py)                                   | [문제](https://www.acmicpc.net/problem/6219)  | math               |
 
 
 
@@ -177,7 +177,8 @@
 | 11727 - 2xn 타일링 2                           | [링크](./boj/dp/11727.py)                                    | [문제](https://www.acmicpc.net/problem/11727) | DP                 |
 | 11057 - 오르막수(dp 문제인데 그냥 수학으로 품) | [링크](./boj/dp/11057.py)                                    | [문제](https://www.acmicpc.net/problem/11057) | DP                 |
 | 2579 - 계단 오르기                             | [링크](./boj/dp/2579.py)                                     | [문제](https://www.acmicpc.net/problem/2579)  | DP                 |
-
+| 9655 - 돌 게임                        | [링크](./boj/dp/9655.py)                                     | [문제](https://www.acmicpc.net/problem/9655)  | DP                 |
+| 14916 - 거스름돈                        | [링크](./boj/dp/14916.py)                                     | [문제](https://www.acmicpc.net/problem/14916)  | DP                 |
 
 
 
@@ -191,7 +192,7 @@
 | 11655 - ROT13                                  | [링크](./boj/data_structure/11655.py)                        | [문제](https://www.acmicpc.net/problem/11655) | string             |
 | 11656 - 접미사 배열                            | [링크](./boj/data_structure/11656.py)                        | [문제](https://www.acmicpc.net/problem/11656) | string             |
 | 8958 - OX퀴즈                                  | [링크](./boj/string/8958.py)                                 | [문제](https://www.acmicpc.net/problem/8958)  | String             |
-
+| 1316 - 그룹 단어 체커                                  | [링크](./boj/string/1316.py)                                 | [문제](https://www.acmicpc.net/problem/1316)  | String             |
 
 
 
