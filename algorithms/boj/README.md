@@ -40,8 +40,9 @@
 | 9205 - 맥주 마시면서 걸아가기 | [링크](./boj/dfs&bfs/9205.py) | [문제](https://www.acmicpc.net/problem/9205) | BFS  |
 | 13023 - ABCDE                                  | [링크](./boj/data_structure/13023.py)                        | [문제](https://www.acmicpc.net/problem/13023) | DFS                |
 | 14395 - 4연산                                  | [링크](./boj/dfs&bfs/14395.py)                               | [문제](https://www.acmicpc.net/problem/14395) | BFS                |
-
-
+| 19621 - 회의실 배정 2                                  | [링크](./boj/data_structure/19621.py)                        | [문제](https://www.acmicpc.net/problem/19621) | DFS                |
+| 12761 - 돌다리  | [링크](./boj/dfs&bfs/12761.py) | [문제](https://www.acmicpc.net/problem/12761) | BFS  |
+| 1600 - 말이 되고픈 원숭이  | [링크](./boj/dfs&bfs/1600.py) | [문제](https://www.acmicpc.net/problem/1600) | BFS  |
 
 
 
@@ -179,6 +180,8 @@
 | 2579 - 계단 오르기                             | [링크](./boj/dp/2579.py)                                     | [문제](https://www.acmicpc.net/problem/2579)  | DP                 |
 | 9655 - 돌 게임                        | [링크](./boj/dp/9655.py)                                     | [문제](https://www.acmicpc.net/problem/9655)  | DP                 |
 | 14916 - 거스름돈                        | [링크](./boj/dp/14916.py)                                     | [문제](https://www.acmicpc.net/problem/14916)  | DP                 |
+| 2156 - 포도주 시식                        | [링크](./boj/dp/2156.py)                                     | [문제](https://www.acmicpc.net/problem/2156)  | DP                 |
+| 1912 - 연속합                        | [링크](./boj/dp/1912.py)                                     | [문제](https://www.acmicpc.net/problem/1912)  | DP                 |
 
 
 
