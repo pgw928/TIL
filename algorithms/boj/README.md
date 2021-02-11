@@ -43,6 +43,8 @@
 | 19621 - 회의실 배정 2                                  | [링크](./boj/data_structure/19621.py)                        | [문제](https://www.acmicpc.net/problem/19621) | DFS                |
 | 12761 - 돌다리  | [링크](./boj/dfs&bfs/12761.py) | [문제](https://www.acmicpc.net/problem/12761) | BFS  |
 | 1600 - 말이 되고픈 원숭이  | [링크](./boj/dfs&bfs/1600.py) | [문제](https://www.acmicpc.net/problem/1600) | BFS  |
+| 2617 - 구슬 찾기  | [링크](./boj/dfs&bfs/2617.py) | [문제](https://www.acmicpc.net/problem/2617) | BFS  |
+| 11559 - Puyo Puyo  | [링크](./boj/dfs&bfs/11559.py) | [문제](https://www.acmicpc.net/problem/11559) | BFS  |
 
 
 
@@ -184,6 +186,7 @@
 | 2156 - 포도주 시식                        | [링크](./boj/dp/2156.py)                                     | [문제](https://www.acmicpc.net/problem/2156)  | DP                 |
 | 1912 - 연속합                        | [링크](./boj/dp/1912.py)                                     | [문제](https://www.acmicpc.net/problem/1912)  | DP                 |
 | 11055 - 가장 큰 증가 부분 수열      | [링크](./boj/dp/11055.py)                                     | [문제](https://www.acmicpc.net/problem/11055)  | DP                 |
+| 10425 - 피보나치 인버스      | [링크](./boj/dp/10425.py)                                     | [문제](https://www.acmicpc.net/problem/10425)  | DP                 |
 
 
 
