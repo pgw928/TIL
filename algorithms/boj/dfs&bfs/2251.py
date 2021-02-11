@@ -1,34 +1,26 @@
 import sys
 from collections import deque
 
+m_a, m_b, m_c = map(int, sys.stdin.readline())
 
-max_A = 8
-max_B = 9
-max_C = 10
-visited = [-1]*(max_C+1)
+def bfs(start):
 
-# 전부 쏟아 부운다.
-# 하나가 다 찰때까지 부운다.
-def bfs(start_node):
     dq = deque()
-    dq.append(start_node)
-    result = [start_node[2]]
-    visited[start_node[2]] = 0
+    dq.append(start)
+    check = set()
     while dq:
-        a,b,c = dq.popleft()
+        a, b, c = dq.popleft()
+        candi = [(a, b),(a,c),(b,c),(b,a),(c,a),(c,b)]
+        max_val = [m_a, m_a, m_b, m_b, m_c, m_c]
         for i in range(6):
-            if i == 0:
-                if (max_A-a)>=c:
-                    a =+c
-                    c = 0
-                elif (max_A-a)<c:
-                    a = max_A
-                    c = c- max_A+a
-            elif i ==1:
-                if (max_A - a) >= c:
-                    a = +c
-                    c = 0
-                elif (max_A - a) < c:
-                    a = max_A
-                    c = c - max_A + a
+            x, y = candi[i]
+            if x < max_val[i] and y>0:
+                if (max_val[i]-x <= y) and (() not in check):
+                    dq.append((m_a , b, c-m_a))
+                    check.add(c-m_a)
+                elif (0 not in check):
+                    dq.append((a+c,b,0))
+                    check.add(0)
 
+
+bfs((0,0, m_c))

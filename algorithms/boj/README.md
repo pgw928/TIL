@@ -147,6 +147,7 @@
 | 3040 - 백설 공주와 일곱 난쟁이                 | [링크](./boj/bretue_force/3040.py)                           | [문제](https://www.acmicpc.net/problem/3040)  | brute_force       |
 | 15686 - 치킨 배달                              | [링크](./boj/bretue_force/15686.py)                          | [문제](https://www.acmicpc.net/problem/15686) | brute force       |
 | 14888 - 연산자 끼워넣기                        | [링크](./boj/brute_force/14888.py)                           | [문제](https://www.acmicpc.net/problem/14888) | Brute force        |
+| 1058 - 친구                        | [링크](./boj/brute_force/1058.py)                           | [문제](https://www.acmicpc.net/problem/1058) | Brute force        |
 
 
 
@@ -182,6 +183,7 @@
 | 14916 - 거스름돈                        | [링크](./boj/dp/14916.py)                                     | [문제](https://www.acmicpc.net/problem/14916)  | DP                 |
 | 2156 - 포도주 시식                        | [링크](./boj/dp/2156.py)                                     | [문제](https://www.acmicpc.net/problem/2156)  | DP                 |
 | 1912 - 연속합                        | [링크](./boj/dp/1912.py)                                     | [문제](https://www.acmicpc.net/problem/1912)  | DP                 |
+| 11055 - 가장 큰 증가 부분 수열      | [링크](./boj/dp/11055.py)                                     | [문제](https://www.acmicpc.net/problem/11055)  | DP                 |
 
 
 
@@ -197,7 +199,18 @@
 | 8958 - OX퀴즈                                  | [링크](./boj/string/8958.py)                                 | [문제](https://www.acmicpc.net/problem/8958)  | String             |
 | 1316 - 그룹 단어 체커                                  | [링크](./boj/string/1316.py)                                 | [문제](https://www.acmicpc.net/problem/1316)  | String             |
 
+## divide and conquer
+| 문제번호                                       | 풀이                                                         | 링크                                          | 비고               |
+| ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------ |
+| 2630 - 색종이 만들기                                   | [링크](./boj/divide_conquer/2630.py)                        | [문제](https://www.acmicpc.net/problem/2630) | divide and conquer           |
+| 1780 - 종이의 개수                                   | [링크](./boj/divide_conquer/1780.py)                        | [문제](https://www.acmicpc.net/problem/1780) | divide and conquer           |
+| 1074 - Z                                 | [링크](./boj/divide_conquer/1074.py)                        | [문제](https://www.acmicpc.net/problem/1074) | divide and conquer           |
 
+## 재귀
+| 문제번호                                       | 풀이                                                         | 링크                                          | 비고               |
+| ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------ |
+| 10994 - 별 찍기 - 19                                   | [링크](./boj/recursion/10994.py)                        | [문제](https://www.acmicpc.net/problem/10994) | recursion           |
+| 10997 - 별 찍기 - 22                                   | [링크](./boj/recursion/10997.py)                        | [문제](https://www.acmicpc.net/problem/10997) | recursion           |
 
 
 ## 기타 alg
