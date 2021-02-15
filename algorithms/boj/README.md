@@ -45,6 +45,8 @@
 | 1600 - 말이 되고픈 원숭이  | [링크](./boj/dfs&bfs/1600.py) | [문제](https://www.acmicpc.net/problem/1600) | BFS  |
 | 2617 - 구슬 찾기  | [링크](./boj/dfs&bfs/2617.py) | [문제](https://www.acmicpc.net/problem/2617) | BFS  |
 | 11559 - Puyo Puyo  | [링크](./boj/dfs&bfs/11559.py) | [문제](https://www.acmicpc.net/problem/11559) | BFS  |
+| 2194 - 유닛 이동시키기  | [링크](./boj/dfs&bfs/2194.py) | [문제](https://www.acmicpc.net/problem/2194) | BFS  |
+| 1743 - 음식물 피하기  | [링크](./boj/dfs&bfs/1743.py) | [문제](https://www.acmicpc.net/problem/1743) | DFS  |
 
 
 
@@ -119,6 +121,7 @@
 | 2108 - 통계학                                  | [링크](./boj/mAth/2108.py)                                   | [문제](https://www.acmicpc.net/problem/2108)  | 통계               |
 | 2231 - 분해합                                  | [링크](./boj/mAth/2231.py)                                   | [문제](https://www.acmicpc.net/problem/2231)  | math               |
 | 6219 - 소수의 자격                                  | [링크](./boj/mAth/6219.py)                                   | [문제](https://www.acmicpc.net/problem/6219)  | math               |
+| 2023 - 신기한 소수                                  | [링크](./boj/mAth/2023.py)                                   | [문제](https://www.acmicpc.net/problem/2023)  | math               |
 
 
 
@@ -130,6 +133,7 @@
 | 10815 - 숫자 카드                              | [링크](./boj/sorting/10815.py)                               | [문제](https://www.acmicpc.net/problem/10815) | sorting            |
 | 11650 - 좌표 정렬하기 | [링크](./boj/sorting/11650.py) | [문제](https://www.acmicpc.net/problem/11650) | sorting          |
 | 18870 - 좌표 압축     | [링크](./boj/sorting/18870.py) | [문제](https://www.acmicpc.net/problem/18870) | sorting, Counter |
+| 10989 - 수 정렬하기 3 (메모리 매우 작음)     | [링크](./boj/sorting/10989.py) | [문제](https://www.acmicpc.net/problem/10989) | sorting|
 
 
 
@@ -182,11 +186,15 @@
 | 11057 - 오르막수(dp 문제인데 그냥 수학으로 품) | [링크](./boj/dp/11057.py)                                    | [문제](https://www.acmicpc.net/problem/11057) | DP                 |
 | 2579 - 계단 오르기                             | [링크](./boj/dp/2579.py)                                     | [문제](https://www.acmicpc.net/problem/2579)  | DP                 |
 | 9655 - 돌 게임                        | [링크](./boj/dp/9655.py)                                     | [문제](https://www.acmicpc.net/problem/9655)  | DP                 |
+| 9656 - 돌 게임 2                        | [링크](./boj/dp/9656.py)                                     | [문제](https://www.acmicpc.net/problem/9656)  | DP                 |
+| 9657 - 돌 게임 3                        | [링크](./boj/dp/9657.py)                                     | [문제](https://www.acmicpc.net/problem/9657)  | DP                 |
 | 14916 - 거스름돈                        | [링크](./boj/dp/14916.py)                                     | [문제](https://www.acmicpc.net/problem/14916)  | DP                 |
 | 2156 - 포도주 시식                        | [링크](./boj/dp/2156.py)                                     | [문제](https://www.acmicpc.net/problem/2156)  | DP                 |
 | 1912 - 연속합                        | [링크](./boj/dp/1912.py)                                     | [문제](https://www.acmicpc.net/problem/1912)  | DP                 |
 | 11055 - 가장 큰 증가 부분 수열      | [링크](./boj/dp/11055.py)                                     | [문제](https://www.acmicpc.net/problem/11055)  | DP                 |
 | 10425 - 피보나치 인버스      | [링크](./boj/dp/10425.py)                                     | [문제](https://www.acmicpc.net/problem/10425)  | DP                 |
+| 10844 - 쉬운 계단 수 (중요, 참고)     | [링크](./boj/dp/10844.py)                                     | [문제](https://www.acmicpc.net/problem/10844)  | DP                 |
+| 2293 - 동전 1 (중요, 참고)     | [링크](./boj/dp/2293.py)                                     | [문제](https://www.acmicpc.net/problem/2293)  | DP                 |
 
 
 
@@ -214,6 +222,20 @@
 | ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------ |
 | 10994 - 별 찍기 - 19                                   | [링크](./boj/recursion/10994.py)                        | [문제](https://www.acmicpc.net/problem/10994) | recursion           |
 | 10997 - 별 찍기 - 22                                   | [링크](./boj/recursion/10997.py)                        | [문제](https://www.acmicpc.net/problem/10997) | recursion           |
+
+## backtracking
+| 문제번호                                       | 풀이                                                         | 링크                                          | 비고               |
+| ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------ |
+| 9663 - N-Queen                                   | [링크](./boj/backtracking/9663.py)                        | [문제](https://www.acmicpc.net/problem/9663) | backtracking           |
+| 15649 - N과 M(1)                                   | [링크](./boj/backtracking/15649.py)                        | [문제](https://www.acmicpc.net/problem/15649) | backtracking           |
+| 15650 - N과 M(2)                                   | [링크](./boj/backtracking/15650.py)                        | [문제](https://www.acmicpc.net/problem/15650) | backtracking           |
+| 15651 - N과 M(3)                                   | [링크](./boj/backtracking/15651.py)                        | [문제](https://www.acmicpc.net/problem/15651) | backtracking           |
+| 15652 - N과 M(4)                                   | [링크](./boj/backtracking/15652.py)                        | [문제](https://www.acmicpc.net/problem/15652) | backtracking           |
+| 15654 - N과 M(5)                                   | [링크](./boj/backtracking/15654.py)                        | [문제](https://www.acmicpc.net/problem/15654) | backtracking           |
+| 15655 - N과 M(6)                                   | [링크](./boj/backtracking/15655.py)                        | [문제](https://www.acmicpc.net/problem/15655) | backtracking           |
+| 15656 - N과 M(7)                                   | [링크](./boj/backtracking/15656.py)                        | [문제](https://www.acmicpc.net/problem/15656) | backtracking           |
+| 15657 - N과 M(8)                                   | [링크](./boj/backtracking/15657.py)                        | [문제](https://www.acmicpc.net/problem/15657) | backtracking           |
+
 
 
 ## 기타 alg
