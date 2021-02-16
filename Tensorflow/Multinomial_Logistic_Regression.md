@@ -69,7 +69,7 @@ train_test_split(x_data_norm, t_data, test_size=0.3, randorm_state=0)
 
 ```python
 keras_model = Sequential()
-keras_model.add(Flatten(input_size=(x_data_train_norm.shape[1],)))
+keras_model.add(Flatten(input_shape=(x_data_train_norm.shape[1],)))
 keras_model.add(Dense(10, activation='softmax'))
                 
 keras_model.compile(optimizer = SGD(learning_rate = 1e-2),

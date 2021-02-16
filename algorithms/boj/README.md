@@ -122,7 +122,7 @@
 | 2231 - 분해합                                  | [링크](./boj/mAth/2231.py)                                   | [문제](https://www.acmicpc.net/problem/2231)  | math               |
 | 6219 - 소수의 자격                                  | [링크](./boj/mAth/6219.py)                                   | [문제](https://www.acmicpc.net/problem/6219)  | math               |
 | 2023 - 신기한 소수                                  | [링크](./boj/mAth/2023.py)                                   | [문제](https://www.acmicpc.net/problem/2023)  | math               |
-
+| 10434 - 행복한 소수                                  | [링크](./boj/mAth/10434.py)                                   | [문제](https://www.acmicpc.net/problem/10434)  | math               |
 
 
 
@@ -243,6 +243,7 @@
 | ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------ |
 | 13116 - 30번                                   | [링크](./boj/data_structure/13116.py)                        | [문제](https://www.acmicpc.net/problem/13116) | 이진트리           |
 | 10951 - A+B-4                                  | [링크](./boj/etc/10951.py)                                   | [문제](https://www.acmicpc.net/problem/10951) | while ~ try ~ else |
-| 2739 - 구구단                                  | [링크](./boj/etc/2793.py)                                    | [문제](https://www.acmicpc.net/problem/2793)  | decorator 연습     |
+| 2739 - 구구단                                  | [링크](./boj/etc/2739.py)                                    | [문제](https://www.acmicpc.net/problem/2739)  | decorator 연습     |
 | 10372 - 랜선 자르기                            | [링크](./boj/binary_search/10372.py)                         | [문제](https://www.acmicpc.net/problem/10372) | binary search      |
+| 14503 - 로봇 청소기                       | [링크](./boj/etc/14503.py)                         | [문제](https://www.acmicpc.net/problem/14503) | simulation    |
 
