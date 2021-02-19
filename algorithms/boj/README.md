@@ -38,9 +38,9 @@
 | 1260 - DFS와 BFS                               | [링크](./boj/dfs&bfs/1260.py)                                | [문제](https://www.acmicpc.net/problem/1260)  | BFS and DFS        |
 | 11725 - 트리의 부모 찾기                       | [링크](./boj/dfs&bfs/11725.py)                               | [문제](https://www.acmicpc.net/problem/11725) | BFS                |
 | 9205 - 맥주 마시면서 걸아가기 | [링크](./boj/dfs&bfs/9205.py) | [문제](https://www.acmicpc.net/problem/9205) | BFS  |
-| 13023 - ABCDE                                  | [링크](./boj/data_structure/13023.py)                        | [문제](https://www.acmicpc.net/problem/13023) | DFS                |
+| 13023 - ABCDE                                  | [링크](./boj/dfs&bfs/13023.py)                        | [문제](https://www.acmicpc.net/problem/13023) | DFS                |
 | 14395 - 4연산                                  | [링크](./boj/dfs&bfs/14395.py)                               | [문제](https://www.acmicpc.net/problem/14395) | BFS                |
-| 19621 - 회의실 배정 2                                  | [링크](./boj/data_structure/19621.py)                        | [문제](https://www.acmicpc.net/problem/19621) | DFS                |
+| 19621 - 회의실 배정 2                                  | [링크](./boj/dfs&bfs/19621.py)                        | [문제](https://www.acmicpc.net/problem/19621) | DFS                |
 | 12761 - 돌다리  | [링크](./boj/dfs&bfs/12761.py) | [문제](https://www.acmicpc.net/problem/12761) | BFS  |
 | 1600 - 말이 되고픈 원숭이  | [링크](./boj/dfs&bfs/1600.py) | [문제](https://www.acmicpc.net/problem/1600) | BFS  |
 | 2617 - 구슬 찾기  | [링크](./boj/dfs&bfs/2617.py) | [문제](https://www.acmicpc.net/problem/2617) | BFS  |
@@ -69,6 +69,7 @@
 | 10799 - 쇠막대기                               | [링크](./boj/data_structure/10799.py)                        | [문제](https://www.acmicpc.net/problem/10799) | Stack              |
 | 1966 - 프린터 큐                               | [링크](./boj/data_structure/1966.py)                         | [문제](https://www.acmicpc.net/problem/1966)  | Queue              |
 | 3190 - 뱀                                      | [링크](./boj/data_structure/3190.py)                         | [문제](https://www.acmicpc.net/problem/3190)  | Queue              |
+| 5430 - AC                                      | [링크](./boj/data_structure/5430.py)                         | [문제](https://www.acmicpc.net/problem/5430)  | Deque              |
 
 
 
@@ -123,6 +124,7 @@
 | 6219 - 소수의 자격                                  | [링크](./boj/mAth/6219.py)                                   | [문제](https://www.acmicpc.net/problem/6219)  | math               |
 | 2023 - 신기한 소수                                  | [링크](./boj/mAth/2023.py)                                   | [문제](https://www.acmicpc.net/problem/2023)  | math               |
 | 10434 - 행복한 소수                                  | [링크](./boj/mAth/10434.py)                                   | [문제](https://www.acmicpc.net/problem/10434)  | math               |
+| 2669 - 직사각형 네개의 합집합의 면적 구하기| [링크](./boj/mAth/2669.py)                                   | [문제](https://www.acmicpc.net/problem/2669)  | math               |
 
 
 
@@ -241,9 +243,12 @@
 ## 기타 alg
 | 문제번호                                       | 풀이                                                         | 링크                                          | 비고               |
 | ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------ |
-| 13116 - 30번                                   | [링크](./boj/data_structure/13116.py)                        | [문제](https://www.acmicpc.net/problem/13116) | 이진트리           |
-| 10951 - A+B-4                                  | [링크](./boj/etc/10951.py)                                   | [문제](https://www.acmicpc.net/problem/10951) | while ~ try ~ else |
-| 2739 - 구구단                                  | [링크](./boj/etc/2739.py)                                    | [문제](https://www.acmicpc.net/problem/2739)  | decorator 연습     |
-| 10372 - 랜선 자르기                            | [링크](./boj/binary_search/10372.py)                         | [문제](https://www.acmicpc.net/problem/10372) | binary search      |
-| 14503 - 로봇 청소기                       | [링크](./boj/etc/14503.py)                         | [문제](https://www.acmicpc.net/problem/14503) | simulation    |
+| 13116 - 30번                         | [링크](./boj/data_structure/13116.py)                        | [문제](https://www.acmicpc.net/problem/13116) | 이진트리           |
+| 10951 - A+B-4                        | [링크](./boj/etc/10951.py)                                   | [문제](https://www.acmicpc.net/problem/10951) | while ~ try ~ else |
+| 2739 - 구구단                         | [링크](./boj/etc/2739.py)                                    | [문제](https://www.acmicpc.net/problem/2739)  | decorator 연습     |
+| 10372 - 랜선 자르기                   | [링크](./boj/binary_search/10372.py)                         | [문제](https://www.acmicpc.net/problem/10372) | binary search      |
+| 14503 - 로봇 청소기                   | [링크](./boj/etc/14503.py)                         | [문제](https://www.acmicpc.net/problem/14503) | simulation    |
+| 1475 - 방 번호                       | [링크](./boj/etc/1475.py)                         | [문제](https://www.acmicpc.net/problem/1475) | simulation    |
+| 3079 - 입국심사                      | [링크](./boj/binary_search/3079.py)                         | [문제](https://www.acmicpc.net/problem/3079) | binary search      |
+| 7453 - 합이 0인 네 정수(Pypy3)               | [링크](./boj/binary_search/7453.py)                         | [문제](https://www.acmicpc.net/problem/7453) | binary search      |
 
