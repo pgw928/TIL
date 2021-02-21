@@ -125,6 +125,7 @@
 | 2023 - 신기한 소수                                  | [링크](./boj/mAth/2023.py)                                   | [문제](https://www.acmicpc.net/problem/2023)  | math               |
 | 10434 - 행복한 소수                                  | [링크](./boj/mAth/10434.py)                                   | [문제](https://www.acmicpc.net/problem/10434)  | math               |
 | 2669 - 직사각형 네개의 합집합의 면적 구하기| [링크](./boj/mAth/2669.py)                                   | [문제](https://www.acmicpc.net/problem/2669)  | math               |
+| 2004 - 조합 0의 개수 (factorial 소인수 분해 중요)  | [링크](./boj/mAth/2004.py)    | [문제](https://www.acmicpc.net/problem/2004)  | math               |
 
 
 
@@ -197,6 +198,7 @@
 | 10425 - 피보나치 인버스      | [링크](./boj/dp/10425.py)                                     | [문제](https://www.acmicpc.net/problem/10425)  | DP                 |
 | 10844 - 쉬운 계단 수 (중요, 참고)     | [링크](./boj/dp/10844.py)                                     | [문제](https://www.acmicpc.net/problem/10844)  | DP                 |
 | 2293 - 동전 1 (중요, 참고)     | [링크](./boj/dp/2293.py)                                     | [문제](https://www.acmicpc.net/problem/2293)  | DP                 |
+| 14501 - 퇴사                 | [링크](./boj/dp/14501.py)                                     | [문제](https://www.acmicpc.net/problem/14501)  | DP                 |
 
 
 

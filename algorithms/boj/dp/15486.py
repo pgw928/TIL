@@ -3,13 +3,16 @@ import sys
 input = sys.stdin.readline
 n = int(input())
 A = [list(map(int, input().split())) for _ in range(n)]
-
+M = [0]*(n+1)
 for i in range(n-1,-1 ,-1):
     a, b = A[i]
-    if a+i>=n+1:
+
+    if i + a> n:
         A[i][1] = 0
-    elif a+i<n+1:
-        # A[i][1] += max([A[j][1] for j in range(a+i,n)], default=0)
-        A[i][1] += A[i+a-1][1]
-    print(A)
-print(max([A[j][1] for j in range(n)]))
+        M[i] = M[i+1]
+
+    elif i + a <= n:
+        A[i][1] += M[i+a]
+        M[i] = max(A[i][1], M[i+1])
+
+print(M[0])
