@@ -47,6 +47,7 @@
 | 11559 - Puyo Puyo  | [링크](./boj/dfs&bfs/11559.py) | [문제](https://www.acmicpc.net/problem/11559) | BFS  |
 | 2194 - 유닛 이동시키기  | [링크](./boj/dfs&bfs/2194.py) | [문제](https://www.acmicpc.net/problem/2194) | BFS  |
 | 1743 - 음식물 피하기  | [링크](./boj/dfs&bfs/1743.py) | [문제](https://www.acmicpc.net/problem/1743) | DFS  |
+| 11403 - 경로 찾기  | [링크](./boj/dfs&bfs/11403.py) | [문제](https://www.acmicpc.net/problem/11403) | BFS  |
 
 
 
@@ -70,6 +71,7 @@
 | 1966 - 프린터 큐                               | [링크](./boj/data_structure/1966.py)                         | [문제](https://www.acmicpc.net/problem/1966)  | Queue              |
 | 3190 - 뱀                                      | [링크](./boj/data_structure/3190.py)                         | [문제](https://www.acmicpc.net/problem/3190)  | Queue              |
 | 5430 - AC                                      | [링크](./boj/data_structure/5430.py)                         | [문제](https://www.acmicpc.net/problem/5430)  | Deque              |
+| 4949 - 균형잡힌 세상           | [링크](./boj/data_structure/4949.py)                         | [문제](https://www.acmicpc.net/problem/4949)  | stack              |
 
 
 
@@ -90,7 +92,6 @@
 ## heap
 | 문제번호                                       | 풀이                                                         | 링크                                          | 비고               |
 | ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------ |
-| 9465 - 스티커                                  | [링크](./boj/dp/9465.py)                                     | [문제](https://www.acmicpc.net/problem/9465)  | heap               |
 | 1927 - 최소 힙                                 | [링크](./boj/data_structure/1927.py)                         | [문제](https://www.acmicpc.net/problem/1927)  | heap               |
 | 11279 - 최대 힙                                | [링크](./boj/data_structure/11279.py)                        | [문제](https://www.acmicpc.net/problem/11279) | heap               |
 
@@ -199,6 +200,8 @@
 | 10844 - 쉬운 계단 수 (중요, 참고)     | [링크](./boj/dp/10844.py)                                     | [문제](https://www.acmicpc.net/problem/10844)  | DP                 |
 | 2293 - 동전 1 (중요, 참고)     | [링크](./boj/dp/2293.py)                                     | [문제](https://www.acmicpc.net/problem/2293)  | DP                 |
 | 14501 - 퇴사                 | [링크](./boj/dp/14501.py)                                     | [문제](https://www.acmicpc.net/problem/14501)  | DP                 |
+| 9465 - 스티커                                  | [링크](./boj/dp/9465.py)                                     | [문제](https://www.acmicpc.net/problem/9465)  | DP      |
+| 12865 - 평범한 배낭(kanpsack 문제)     | [링크](./boj/dp/12865.py)                         | [문제](https://www.acmicpc.net/problem/12865)  | DP               |
 
 
 
@@ -253,4 +256,5 @@
 | 1475 - 방 번호                       | [링크](./boj/etc/1475.py)                         | [문제](https://www.acmicpc.net/problem/1475) | simulation    |
 | 3079 - 입국심사                      | [링크](./boj/binary_search/3079.py)                         | [문제](https://www.acmicpc.net/problem/3079) | binary search      |
 | 7453 - 합이 0인 네 정수(Pypy3)               | [링크](./boj/binary_search/7453.py)                         | [문제](https://www.acmicpc.net/problem/7453) | binary search      |
+| 14499 - 주사위 굴리기               | [링크](./boj/etc/14499.py)                         | [문제](https://www.acmicpc.net/problem/14499) | simulation      |
 
