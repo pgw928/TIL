@@ -72,6 +72,7 @@
 | 3190 - 뱀                                      | [링크](./boj/data_structure/3190.py)                         | [문제](https://www.acmicpc.net/problem/3190)  | Queue              |
 | 5430 - AC                                      | [링크](./boj/data_structure/5430.py)                         | [문제](https://www.acmicpc.net/problem/5430)  | Deque              |
 | 4949 - 균형잡힌 세상           | [링크](./boj/data_structure/4949.py)                         | [문제](https://www.acmicpc.net/problem/4949)  | stack              |
+| 1991 - 트리 순회(참고)           | [링크](./boj/data_structure/1991.py)                         | [문제](https://www.acmicpc.net/problem/1991)  | tree              |
 
 
 
