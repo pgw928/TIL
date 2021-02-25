@@ -48,6 +48,8 @@
 | 2194 - 유닛 이동시키기  | [링크](./boj/dfs&bfs/2194.py) | [문제](https://www.acmicpc.net/problem/2194) | BFS  |
 | 1743 - 음식물 피하기  | [링크](./boj/dfs&bfs/1743.py) | [문제](https://www.acmicpc.net/problem/1743) | DFS  |
 | 11403 - 경로 찾기  | [링크](./boj/dfs&bfs/11403.py) | [문제](https://www.acmicpc.net/problem/11403) | BFS  |
+| 1068 - 트리  | [링크](./boj/dfs&bfs/1068.py) | [문제](https://www.acmicpc.net/problem/1068) | BFS  |
+| 1967 - 트리의 지름  | [링크](./boj/dfs&bfs/1967.py) | [문제](https://www.acmicpc.net/problem/1967) | BFS , [참고](./boj/dfs&bfs/1967.jpg) |
 
 
 
@@ -128,6 +130,7 @@
 | 10434 - 행복한 소수                                  | [링크](./boj/mAth/10434.py)                                   | [문제](https://www.acmicpc.net/problem/10434)  | math               |
 | 2669 - 직사각형 네개의 합집합의 면적 구하기| [링크](./boj/mAth/2669.py)                                   | [문제](https://www.acmicpc.net/problem/2669)  | math               |
 | 2004 - 조합 0의 개수 (factorial 소인수 분해 중요)  | [링크](./boj/mAth/2004.py)    | [문제](https://www.acmicpc.net/problem/2004)  | math               |
+| 1016 - 제곱 ㄴㄴ수                                  | [링크](./boj/mAth/1016.py)           | [문제](https://www.acmicpc.net/problem/1016)  | 에라토스테네스의 체   |
 
 
 
