@@ -50,6 +50,7 @@
 | 11403 - 경로 찾기  | [링크](./boj/dfs&bfs/11403.py) | [문제](https://www.acmicpc.net/problem/11403) | BFS  |
 | 1068 - 트리  | [링크](./boj/dfs&bfs/1068.py) | [문제](https://www.acmicpc.net/problem/1068) | BFS  |
 | 1967 - 트리의 지름  | [링크](./boj/dfs&bfs/1967.py) | [문제](https://www.acmicpc.net/problem/1967) | BFS , [참고](./boj/dfs&bfs/1967.jpg) |
+| 12851 - 숨바꼭질 2  | [링크](./boj/dfs&bfs/12851.py) | [문제](https://www.acmicpc.net/problem/12851)  | BFS                |
 
 
 
@@ -131,6 +132,8 @@
 | 2669 - 직사각형 네개의 합집합의 면적 구하기| [링크](./boj/mAth/2669.py)                                   | [문제](https://www.acmicpc.net/problem/2669)  | math               |
 | 2004 - 조합 0의 개수 (factorial 소인수 분해 중요)  | [링크](./boj/mAth/2004.py)    | [문제](https://www.acmicpc.net/problem/2004)  | math               |
 | 1016 - 제곱 ㄴㄴ수                                  | [링크](./boj/mAth/1016.py)           | [문제](https://www.acmicpc.net/problem/1016)  | 에라토스테네스의 체   |
+| 1011 - Fly me to the Alpha Centauri            | [링크](./boj/mAth/1011.py)    | [문제](https://www.acmicpc.net/problem/1011)  | 수열   |
+| 10164 - 격자상의 경로  | [링크](./boj/mAth/10164.py)           | [문제](https://www.acmicpc.net/problem/10164)  | 같은것이 있는 수열(원래는 dp)|
 
 
 
@@ -233,6 +236,7 @@
 | ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------ |
 | 10994 - 별 찍기 - 19                                   | [링크](./boj/recursion/10994.py)                        | [문제](https://www.acmicpc.net/problem/10994) | recursion           |
 | 10997 - 별 찍기 - 22                                   | [링크](./boj/recursion/10997.py)                        | [문제](https://www.acmicpc.net/problem/10997) | recursion           |
+| 2447 - 별 찍기 - 10                                   | [링크](./boj/recursion/2447.py)                        | [문제](https://www.acmicpc.net/problem/2447) | recursion           |
 
 ## backtracking
 | 문제번호                                       | 풀이                                                         | 링크                                          | 비고               |
