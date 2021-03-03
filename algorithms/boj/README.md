@@ -51,7 +51,8 @@
 | 1068 - 트리  | [링크](./boj/dfs&bfs/1068.py) | [문제](https://www.acmicpc.net/problem/1068) | BFS  |
 | 1967 - 트리의 지름  | [링크](./boj/dfs&bfs/1967.py) | [문제](https://www.acmicpc.net/problem/1967) | BFS , [참고](./boj/dfs&bfs/1967.jpg) |
 | 12851 - 숨바꼭질 2  | [링크](./boj/dfs&bfs/12851.py) | [문제](https://www.acmicpc.net/problem/12851)  | BFS                |
-
+| 1707 - 이분 그래프  | [링크](./boj/dfs&bfs/1707.py) | [문제](https://www.acmicpc.net/problem/1707)  | BFS                |
+| 2589 - 보물섬  | [링크](./boj/dfs&bfs/2589.py) | [문제](https://www.acmicpc.net/problem/2589)  | BFS                |
 
 
 ## Data Structure
@@ -98,6 +99,7 @@
 | ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------ |
 | 1927 - 최소 힙                                 | [링크](./boj/data_structure/1927.py)                         | [문제](https://www.acmicpc.net/problem/1927)  | heap               |
 | 11279 - 최대 힙                                | [링크](./boj/data_structure/11279.py)                        | [문제](https://www.acmicpc.net/problem/11279) | heap               |
+| 11286 - 절댓값 힙| [링크](./boj/data_structure/11286.py)| [문제](https://www.acmicpc.net/problem/11286) | heap               |
 
 
 
@@ -165,6 +167,7 @@
 | 15686 - 치킨 배달                              | [링크](./boj/bretue_force/15686.py)                          | [문제](https://www.acmicpc.net/problem/15686) | brute force       |
 | 14888 - 연산자 끼워넣기                        | [링크](./boj/brute_force/14888.py)                           | [문제](https://www.acmicpc.net/problem/14888) | Brute force        |
 | 1058 - 친구                        | [링크](./boj/brute_force/1058.py)                           | [문제](https://www.acmicpc.net/problem/1058) | Brute force        |
+| 18111 - 마인크래프트| [링크](./boj/brute_force/18111.py)| [문제](https://www.acmicpc.net/problem/18111) | Brute force        |
 
 
 
