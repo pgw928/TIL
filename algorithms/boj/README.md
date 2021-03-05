@@ -53,6 +53,8 @@
 | 12851 - 숨바꼭질 2  | [링크](./boj/dfs&bfs/12851.py) | [문제](https://www.acmicpc.net/problem/12851)  | BFS                |
 | 1707 - 이분 그래프  | [링크](./boj/dfs&bfs/1707.py) | [문제](https://www.acmicpc.net/problem/1707)  | BFS                |
 | 2589 - 보물섬  | [링크](./boj/dfs&bfs/2589.py) | [문제](https://www.acmicpc.net/problem/2589)  | BFS                |
+| 15658 - 연산자 끼워넣기(2)  | [링크](./boj/dfs&bfs/15658.py) | [문제](https://www.acmicpc.net/problem/15658)  | DFS                |
+| 1987 - 알파벳  | [링크](./boj/dfs&bfs/1987.py) | [문제](https://www.acmicpc.net/problem/1987)  | DFS |
 
 
 ## Data Structure
@@ -180,6 +182,7 @@
 | 2470 - 두 용액                                 | [링크](./boj/two_pointer/2470.py)                            | [문제](https://www.acmicpc.net/problem/2470)  | two pointer        |
 | 11728 - 배열 합치기                            | [링크](./boj/two_pointer/11728.py)                           | [문제](https://www.acmicpc.net/problem/11728) | two pointer        |
 | 1940 - 주몽                                    | [링크](./boj/two_pointer/1940.py)                            | [문제](https://www.acmicpc.net/problem/1940)  | two pointer        |
+| 10025 - 게으른 백곰 | [링크](./boj/two_pointer/10025.py)| [문제](https://www.acmicpc.net/problem/10025)  | two pointer        |
 
 
 
@@ -240,6 +243,8 @@
 | 10994 - 별 찍기 - 19                                   | [링크](./boj/recursion/10994.py)                        | [문제](https://www.acmicpc.net/problem/10994) | recursion           |
 | 10997 - 별 찍기 - 22                                   | [링크](./boj/recursion/10997.py)                        | [문제](https://www.acmicpc.net/problem/10997) | recursion           |
 | 2447 - 별 찍기 - 10                                   | [링크](./boj/recursion/2447.py)                        | [문제](https://www.acmicpc.net/problem/2447) | recursion           |
+| 1992 - 쿼드트리| [링크](./boj/recursion/1992.py)| [문제](https://www.acmicpc.net/problem/1992) | recursion|
+
 
 ## backtracking
 | 문제번호                                       | 풀이                                                         | 링크                                          | 비고               |
