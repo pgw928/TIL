@@ -55,6 +55,8 @@
 | 2589 - 보물섬  | [링크](./boj/dfs&bfs/2589.py) | [문제](https://www.acmicpc.net/problem/2589)  | BFS                |
 | 15658 - 연산자 끼워넣기(2)  | [링크](./boj/dfs&bfs/15658.py) | [문제](https://www.acmicpc.net/problem/15658)  | DFS                |
 | 1987 - 알파벳  | [링크](./boj/dfs&bfs/1987.py) | [문제](https://www.acmicpc.net/problem/1987)  | DFS |
+| 16234 - 인구이동  | [링크](./boj/dfs&bfs/16234.py) | [문제](https://www.acmicpc.net/problem/16234)  | BFS |
+| 2638 - 치즈  | [링크](./boj/dfs&bfs/2638.py) | [문제](https://www.acmicpc.net/problem/2638)  | BFS |
 
 
 ## Data Structure
