@@ -75,6 +75,8 @@
 
 * [python encoding decoding](./python/encoding_decoding.md) # 나중에 더 자세히 다루어야 할듯
 
+* [Padding methods](./python/padding_method.md)
+
   
 
 ### 3. Numpy
