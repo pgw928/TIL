@@ -217,6 +217,9 @@
 | 14501 - 퇴사                 | [링크](./boj/dp/14501.py)                                     | [문제](https://www.acmicpc.net/problem/14501)  | DP                 |
 | 9465 - 스티커                                  | [링크](./boj/dp/9465.py)                                     | [문제](https://www.acmicpc.net/problem/9465)  | DP      |
 | 12865 - 평범한 배낭(kanpsack 문제)     | [링크](./boj/dp/12865.py)                         | [문제](https://www.acmicpc.net/problem/12865)  | DP               |
+| 17070 - 파이프 옮기기 1| [링크](./boj/dp/17070.py)| [문제](https://www.acmicpc.net/problem/17070)  | DP      |
+| 17069 - 파이프 옮기기 2| [링크](./boj/dp/17069.py)| [문제](https://www.acmicpc.net/problem/17069)  | DP      |
+
 
 
 
