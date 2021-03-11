@@ -77,6 +77,8 @@
 
 * [Padding methods](./python/padding_method.md)
 
+* [pickle 및 glob](./python/glob_pickle.md)
+
   
 
 ### 3. Numpy
