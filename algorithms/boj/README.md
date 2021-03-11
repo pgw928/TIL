@@ -57,7 +57,7 @@
 | 1987 - 알파벳  | [링크](./boj/dfs&bfs/1987.py) | [문제](https://www.acmicpc.net/problem/1987)  | DFS |
 | 16234 - 인구이동  | [링크](./boj/dfs&bfs/16234.py) | [문제](https://www.acmicpc.net/problem/16234)  | BFS |
 | 2638 - 치즈  | [링크](./boj/dfs&bfs/2638.py) | [문제](https://www.acmicpc.net/problem/2638)  | BFS |
-
+| 3055 - 탈출  | [링크](./boj/dfs&bfs/3055.py) | [문제](https://www.acmicpc.net/problem/3055)  | BFS |
 
 ## Data Structure
 
@@ -116,6 +116,7 @@
 | 11047 - 동전 0                                 | [링크](./boj/greedy/11047.py)                                | [문제](https://www.acmicpc.net/problem/11047) | greedy             |
 | 11399 - ATM                                    | [링크](./boj/greedy/11399.py)                                | [문제](https://www.acmicpc.net/problem/11399) | greedy             |
 | 1946 - 신입사원                                | [링크1](./boj/greedy/1946.py), [링크2](./boj/greedy/1946-(1).py) | [문제](https://www.acmicpc.net/problem/1946)  | greedy alg         |
+| 13305 - 주유소 | [링크](./boj/greedy/13305.py) | [문제](https://www.acmicpc.net/problem/13305)  | greedy alg         |
 
 
 
@@ -185,6 +186,8 @@
 | 11728 - 배열 합치기                            | [링크](./boj/two_pointer/11728.py)                           | [문제](https://www.acmicpc.net/problem/11728) | two pointer        |
 | 1940 - 주몽                                    | [링크](./boj/two_pointer/1940.py)                            | [문제](https://www.acmicpc.net/problem/1940)  | two pointer        |
 | 10025 - 게으른 백곰 | [링크](./boj/two_pointer/10025.py)| [문제](https://www.acmicpc.net/problem/10025)  | two pointer        |
+| 6159 - 코스튬 파티 | [링크](./boj/two_pointer/6159.py)| [문제](https://www.acmicpc.net/problem/6159)  | two pointer        |
+| 2003 - 수들의 합 2 | [링크](./boj/two_pointer/2003.py)| [문제](https://www.acmicpc.net/problem/2003)  | two pointer        |
 
 
 
@@ -219,6 +222,8 @@
 | 12865 - 평범한 배낭(kanpsack 문제)     | [링크](./boj/dp/12865.py)                         | [문제](https://www.acmicpc.net/problem/12865)  | DP               |
 | 17070 - 파이프 옮기기 1| [링크](./boj/dp/17070.py)| [문제](https://www.acmicpc.net/problem/17070)  | DP      |
 | 17069 - 파이프 옮기기 2| [링크](./boj/dp/17069.py)| [문제](https://www.acmicpc.net/problem/17069)  | DP      |
+| 9251 - LCS| [링크](./boj/dp/9251.py)| [문제](https://www.acmicpc.net/problem/9251)  | DP      |
+| 9252 - LCS2| [링크](./boj/dp/9252.py)| [문제](https://www.acmicpc.net/problem/9252)  | DP      |
 
 
 
@@ -278,4 +283,6 @@
 | 3079 - 입국심사                      | [링크](./boj/binary_search/3079.py)                         | [문제](https://www.acmicpc.net/problem/3079) | binary search      |
 | 7453 - 합이 0인 네 정수(Pypy3)               | [링크](./boj/binary_search/7453.py)                         | [문제](https://www.acmicpc.net/problem/7453) | binary search      |
 | 14499 - 주사위 굴리기               | [링크](./boj/etc/14499.py)                         | [문제](https://www.acmicpc.net/problem/14499) | simulation      |
+| 2110 - 공유기 설치(구글링)                   | [링크](./boj/binary_search/2110.py)| [문제](https://www.acmicpc.net/problem/2110) | binary search      |
+
 
