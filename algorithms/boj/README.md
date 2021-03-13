@@ -58,6 +58,8 @@
 | 16234 - 인구이동  | [링크](./boj/dfs&bfs/16234.py) | [문제](https://www.acmicpc.net/problem/16234)  | BFS |
 | 2638 - 치즈  | [링크](./boj/dfs&bfs/2638.py) | [문제](https://www.acmicpc.net/problem/2638)  | BFS |
 | 3055 - 탈출  | [링크](./boj/dfs&bfs/3055.py) | [문제](https://www.acmicpc.net/problem/3055)  | BFS |
+| 2251 - 물통  | [링크](./boj/dfs&bfs/2251.py) | [문제](https://www.acmicpc.net/problem/2251)  | BFS |
+
 
 ## Data Structure
 
@@ -224,6 +226,8 @@
 | 17069 - 파이프 옮기기 2| [링크](./boj/dp/17069.py)| [문제](https://www.acmicpc.net/problem/17069)  | DP      |
 | 9251 - LCS| [링크](./boj/dp/9251.py)| [문제](https://www.acmicpc.net/problem/9251)  | DP      |
 | 9252 - LCS2| [링크](./boj/dp/9252.py)| [문제](https://www.acmicpc.net/problem/9252)  | DP      |
+| 1958 - LCS3| [링크](./boj/dp/1958.py)| [문제](https://www.acmicpc.net/problem/1958)  | DP      |
+| 1535 - 안녕(kanpsack 문제) | [링크](./boj/dp/1535.py)| [문제](https://www.acmicpc.net/problem/1535)| DP|
 
 
 

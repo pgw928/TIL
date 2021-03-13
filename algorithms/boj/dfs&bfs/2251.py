@@ -1,26 +1,34 @@
 import sys
 from collections import deque
+bottles = tuple(map(int, sys.stdin.readline().split()))
 
-m_a, m_b, m_c = map(int, sys.stdin.readline())
+poss = {0:[1,2], 1:[0,2], 2:[0,1]}
 
-def bfs(start):
-
-    dq = deque()
-    dq.append(start)
-    check = set()
+def bfs():
+    a, b, c = 0, 0, bottles[-1]
+    dq, check = deque(), []
+    dq.append([a, b, c])
+    check.append([a,b,c])
     while dq:
-        a, b, c = dq.popleft()
-        candi = [(a, b),(a,c),(b,c),(b,a),(c,a),(c,b)]
-        max_val = [m_a, m_a, m_b, m_b, m_c, m_c]
-        for i in range(6):
-            x, y = candi[i]
-            if x < max_val[i] and y>0:
-                if (max_val[i]-x <= y) and (() not in check):
-                    dq.append((m_a , b, c-m_a))
-                    check.add(c-m_a)
-                elif (0 not in check):
-                    dq.append((a+c,b,0))
-                    check.add(0)
+        curr = dq.popleft()
+        for idx, x in enumerate(curr):
+            if x > 0:
+                for n_idx in poss[idx]:
+                    tmp = curr.copy()
+                    able = bottles[n_idx] - curr[n_idx]
+                    if x <= able:
+                        tmp[idx] = 0
+                        tmp[n_idx] = curr[n_idx] + x
+                        if tmp not in check:
+                            dq.append(tmp)
+                            check.append(tmp)
+                    else:
+                        tmp[idx] = x-able
+                        tmp[n_idx] = bottles[n_idx]
+                        if tmp not in check:
+                            dq.append(tmp)
+                            check.append(tmp)
+    print(check)
+    return ' '.join(tuple(map(str, sorted(list(set([z for x,y,z in check if x==0]))))))
 
-
-bfs((0,0, m_c))
+print(bfs())
