@@ -59,8 +59,8 @@
 | 2638 - 치즈  | [링크](./boj/dfs&bfs/2638.py) | [문제](https://www.acmicpc.net/problem/2638)  | BFS |
 | 3055 - 탈출  | [링크](./boj/dfs&bfs/3055.py) | [문제](https://www.acmicpc.net/problem/3055)  | BFS |
 | 2251 - 물통  | [링크](./boj/dfs&bfs/2251.py) | [문제](https://www.acmicpc.net/problem/2251)  | BFS |
-
-
+| 13459 - 구슬 탈출 | [링크](./boj/dfs&bfs/13459.py) | [문제](https://www.acmicpc.net/problem/13459)  | BFS |
+| 15644 - 구슬 탈출 3| [링크](./boj/dfs&bfs/15644.py) | [문제](https://www.acmicpc.net/problem/15644)  | BFS |
 ## Data Structure
 
 | 문제번호                                       | 풀이                                                         | 링크                                          | 비고               |
@@ -154,6 +154,7 @@
 | 11650 - 좌표 정렬하기 | [링크](./boj/sorting/11650.py) | [문제](https://www.acmicpc.net/problem/11650) | sorting          |
 | 18870 - 좌표 압축     | [링크](./boj/sorting/18870.py) | [문제](https://www.acmicpc.net/problem/18870) | sorting, Counter |
 | 10989 - 수 정렬하기 3 (메모리 매우 작음)     | [링크](./boj/sorting/10989.py) | [문제](https://www.acmicpc.net/problem/10989) | sorting|
+| 1931 - 회의실 배정(구글링, dp라고 생각하고 실패)| [링크](./boj/sorting/1931.py)| [문제](https://www.acmicpc.net/problem/1931) | sorting  |
 
 
 
@@ -228,6 +229,7 @@
 | 9252 - LCS2| [링크](./boj/dp/9252.py)| [문제](https://www.acmicpc.net/problem/9252)  | DP      |
 | 1958 - LCS3| [링크](./boj/dp/1958.py)| [문제](https://www.acmicpc.net/problem/1958)  | DP      |
 | 1535 - 안녕(kanpsack 문제) | [링크](./boj/dp/1535.py)| [문제](https://www.acmicpc.net/problem/1535)| DP|
+| 1915 - 가장 큰 정사각형(구글링) | [링크](./boj/dp/1915.py)| [문제](https://www.acmicpc.net/problem/1915)| DP|
 
 
 
