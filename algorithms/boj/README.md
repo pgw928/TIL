@@ -83,6 +83,8 @@
 | 5430 - AC                                      | [링크](./boj/data_structure/5430.py)                         | [문제](https://www.acmicpc.net/problem/5430)  | Deque              |
 | 4949 - 균형잡힌 세상           | [링크](./boj/data_structure/4949.py)                         | [문제](https://www.acmicpc.net/problem/4949)  | stack              |
 | 1991 - 트리 순회(참고)           | [링크](./boj/data_structure/1991.py)                         | [문제](https://www.acmicpc.net/problem/1991)  | tree              |
+| 17141 - 연구소 2| [링크](./boj/dfs&bfs/17141.py) | [문제](https://www.acmicpc.net/problem/17141) | BFS|
+| 17142 - 연구소 3| [링크](./boj/dfs&bfs/17142.py) | [문제](https://www.acmicpc.net/problem/17142) | BFS|
 
 
 
@@ -230,6 +232,7 @@
 | 1958 - LCS3| [링크](./boj/dp/1958.py)| [문제](https://www.acmicpc.net/problem/1958)  | DP      |
 | 1535 - 안녕(kanpsack 문제) | [링크](./boj/dp/1535.py)| [문제](https://www.acmicpc.net/problem/1535)| DP|
 | 1915 - 가장 큰 정사각형(구글링) | [링크](./boj/dp/1915.py)| [문제](https://www.acmicpc.net/problem/1915)| DP|
+| 2133 - 타일 채우기 | [링크](./boj/dp/2133.py)| [문제](https://www.acmicpc.net/problem/2133)| DP|
 
 
 
@@ -290,5 +293,6 @@
 | 7453 - 합이 0인 네 정수(Pypy3)               | [링크](./boj/binary_search/7453.py)                         | [문제](https://www.acmicpc.net/problem/7453) | binary search      |
 | 14499 - 주사위 굴리기               | [링크](./boj/etc/14499.py)                         | [문제](https://www.acmicpc.net/problem/14499) | simulation      |
 | 2110 - 공유기 설치(구글링)                   | [링크](./boj/binary_search/2110.py)| [문제](https://www.acmicpc.net/problem/2110) | binary search      |
+| 17144 - 미세먼지 안녕!(Pypy3)| [링크](./boj/etc/17144.py)| [문제](https://www.acmicpc.net/problem/17144) | simulation      |
 
 
