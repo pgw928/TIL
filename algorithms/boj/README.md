@@ -61,8 +61,15 @@
 | 2251 - 물통  | [링크](./boj/dfs&bfs/2251.py) | [문제](https://www.acmicpc.net/problem/2251)  | BFS |
 | 13459 - 구슬 탈출 | [링크](./boj/dfs&bfs/13459.py) | [문제](https://www.acmicpc.net/problem/13459)  | BFS |
 | 15644 - 구슬 탈출 3| [링크](./boj/dfs&bfs/15644.py) | [문제](https://www.acmicpc.net/problem/15644)  | BFS |
-## Data Structure
+| 9019 - DSLR| [링크](./boj/dfs&bfs/9019.py) | [문제](https://www.acmicpc.net/problem/9019)  | BFS |
+| 17141 - 연구소 2| [링크](./boj/dfs&bfs/17141.py) | [문제](https://www.acmicpc.net/problem/17141) | BFS|
+| 17142 - 연구소 3| [링크](./boj/dfs&bfs/17142.py) | [문제](https://www.acmicpc.net/problem/17142) | BFS|
+| 1325 - 효율적인 해킹| [링크](./boj/dfs&bfs/1325.py) | [문제](https://www.acmicpc.net/problem/1325) | BFS|
+| 17071 - 숨바꼭질 5(게시판 보고 해결)| [링크](./boj/dfs&bfs/17071.py) | [문제](https://www.acmicpc.net/problem/17071) | BFS|
 
+
+
+## Data Structure
 | 문제번호                                       | 풀이                                                         | 링크                                          | 비고               |
 | ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------ |
 | 9012 - 괄호 1                                  | [링크](./boj/data_structure/9012.py)                         | [문제](https://www.acmicpc.net/problem/9012)  | Stack              |
@@ -83,8 +90,6 @@
 | 5430 - AC                                      | [링크](./boj/data_structure/5430.py)                         | [문제](https://www.acmicpc.net/problem/5430)  | Deque              |
 | 4949 - 균형잡힌 세상           | [링크](./boj/data_structure/4949.py)                         | [문제](https://www.acmicpc.net/problem/4949)  | stack              |
 | 1991 - 트리 순회(참고)           | [링크](./boj/data_structure/1991.py)                         | [문제](https://www.acmicpc.net/problem/1991)  | tree              |
-| 17141 - 연구소 2| [링크](./boj/dfs&bfs/17141.py) | [문제](https://www.acmicpc.net/problem/17141) | BFS|
-| 17142 - 연구소 3| [링크](./boj/dfs&bfs/17142.py) | [문제](https://www.acmicpc.net/problem/17142) | BFS|
 
 
 
@@ -157,6 +162,7 @@
 | 18870 - 좌표 압축     | [링크](./boj/sorting/18870.py) | [문제](https://www.acmicpc.net/problem/18870) | sorting, Counter |
 | 10989 - 수 정렬하기 3 (메모리 매우 작음)     | [링크](./boj/sorting/10989.py) | [문제](https://www.acmicpc.net/problem/10989) | sorting|
 | 1931 - 회의실 배정(구글링, dp라고 생각하고 실패)| [링크](./boj/sorting/1931.py)| [문제](https://www.acmicpc.net/problem/1931) | sorting  |
+| 2075 - 두 수의 합| [링크](./boj/sorting/2075.py)| [문제](https://www.acmicpc.net/problem/2075)  | sorting, 우선순위큐            |
 
 
 
@@ -239,7 +245,6 @@
 
 
 ## String
-
 | 문제번호                                       | 풀이                                                         | 링크                                          | 비고               |
 | ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ------------------ |
 | 9093 - 단어 뒤집기                             | [링크](./boj/data_structure/9093.py)                         | [문제](https://www.acmicpc.net/problem/9093)  | string             |
@@ -248,6 +253,7 @@
 | 11656 - 접미사 배열                            | [링크](./boj/data_structure/11656.py)                        | [문제](https://www.acmicpc.net/problem/11656) | string             |
 | 8958 - OX퀴즈                                  | [링크](./boj/string/8958.py)                                 | [문제](https://www.acmicpc.net/problem/8958)  | String             |
 | 1316 - 그룹 단어 체커                                  | [링크](./boj/string/1316.py)                                 | [문제](https://www.acmicpc.net/problem/1316)  | String             |
+
 
 ## divide and conquer
 | 문제번호                                       | 풀이                                                         | 링크                                          | 비고               |
