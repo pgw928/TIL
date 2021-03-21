@@ -66,6 +66,7 @@
 | 17142 - 연구소 3| [링크](./boj/dfs&bfs/17142.py) | [문제](https://www.acmicpc.net/problem/17142) | BFS|
 | 1325 - 효율적인 해킹| [링크](./boj/dfs&bfs/1325.py) | [문제](https://www.acmicpc.net/problem/1325) | BFS|
 | 17071 - 숨바꼭질 5(게시판 보고 해결)| [링크](./boj/dfs&bfs/17071.py) | [문제](https://www.acmicpc.net/problem/17071) | BFS|
+| 1261 - 알고스팟| [링크](./boj/dfs&bfs/1261.py) | [문제](https://www.acmicpc.net/problem/1261) | BFS로 풀었지만 다익스트라 나중에 시도|
 
 
 
@@ -183,8 +184,8 @@
 | 15686 - 치킨 배달                              | [링크](./boj/bretue_force/15686.py)                          | [문제](https://www.acmicpc.net/problem/15686) | brute force       |
 | 14888 - 연산자 끼워넣기                        | [링크](./boj/brute_force/14888.py)                           | [문제](https://www.acmicpc.net/problem/14888) | Brute force        |
 | 1058 - 친구                        | [링크](./boj/brute_force/1058.py)                           | [문제](https://www.acmicpc.net/problem/1058) | Brute force        |
-| 18111 - 마인크래프트| [링크](./boj/brute_force/18111.py)| [문제](https://www.acmicpc.net/problem/18111) | Brute force        |
-
+| 18111 - 마인크래프트| [링크](./boj/brute_force/18111.py)| [문제](https://www.acmicpc.net/problem/18111) | Brute force|
+| 17135 - 캐슬 디펜스| [링크](./boj/brute_force/17135.py)| [문제](https://www.acmicpc.net/problem/17135) | Brute force, 구현, 나중에 bfs풀이도 시도해야 할듯|
 
 
 
@@ -239,6 +240,7 @@
 | 1535 - 안녕(kanpsack 문제) | [링크](./boj/dp/1535.py)| [문제](https://www.acmicpc.net/problem/1535)| DP|
 | 1915 - 가장 큰 정사각형(구글링) | [링크](./boj/dp/1915.py)| [문제](https://www.acmicpc.net/problem/1915)| DP|
 | 2133 - 타일 채우기 | [링크](./boj/dp/2133.py)| [문제](https://www.acmicpc.net/problem/2133)| DP|
+| 14925 - 목장 건설하기(1915와 유사) | [링크](./boj/dp/14925.py)| [문제](https://www.acmicpc.net/problem/14925)| DP|
 
 
 
