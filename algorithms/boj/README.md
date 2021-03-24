@@ -67,7 +67,11 @@
 | 1325 - 효율적인 해킹| [링크](./boj/dfs&bfs/1325.py) | [문제](https://www.acmicpc.net/problem/1325) | BFS|
 | 17071 - 숨바꼭질 5(게시판 보고 해결)| [링크](./boj/dfs&bfs/17071.py) | [문제](https://www.acmicpc.net/problem/17071) | BFS|
 | 1261 - 알고스팟| [링크](./boj/dfs&bfs/1261.py) | [문제](https://www.acmicpc.net/problem/1261) | BFS로 풀었지만 다익스트라 나중에 시도|
-
+| 2665 - 미로만들기(1261 같은문제)| [링크](./boj/dfs&bfs/2665.py) | [문제](https://www.acmicpc.net/problem/2665) | BFS로 풀었지만 다익스트라 나중에 시도|
+| 6593 - 상범 빌딩| [링크](./boj/dfs&bfs/6593.py) | [문제](https://www.acmicpc.net/problem/6593) | BFS|
+| 14442 - 벽 부수고 이동하기 2| [링크](./boj/dfs&bfs/14442.py) | [문제](https://www.acmicpc.net/problem/14442) | BFS|
+| 16927 - 배열 돌리기 2| [링크](./boj/dfs&bfs/16927.py)| [문제](https://www.acmicpc.net/problem/16927) | DFS      |
+| 16933 - 벽 부수고 이동하기 3| [링크](./boj/dfs&bfs/16933.py)| [문제](https://www.acmicpc.net/problem/16933) | BFS      |
 
 
 ## Data Structure
@@ -302,5 +306,7 @@
 | 14499 - 주사위 굴리기               | [링크](./boj/etc/14499.py)                         | [문제](https://www.acmicpc.net/problem/14499) | simulation      |
 | 2110 - 공유기 설치(구글링)                   | [링크](./boj/binary_search/2110.py)| [문제](https://www.acmicpc.net/problem/2110) | binary search      |
 | 17144 - 미세먼지 안녕!(Pypy3)| [링크](./boj/etc/17144.py)| [문제](https://www.acmicpc.net/problem/17144) | simulation      |
+| 16926 - 배열 돌리기 1(Pypy3)| [링크](./boj/etc/16926.py)| [문제](https://www.acmicpc.net/problem/16926) | simulation      |
+| 17406 - 배열 돌리기 4(Pypy3)| [링크](./boj/etc/17406.py)| [문제](https://www.acmicpc.net/problem/17406) | simulation      |
 
 
