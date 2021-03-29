@@ -72,6 +72,11 @@
 | 14442 - 벽 부수고 이동하기 2| [링크](./boj/dfs&bfs/14442.py) | [문제](https://www.acmicpc.net/problem/14442) | BFS|
 | 16927 - 배열 돌리기 2| [링크](./boj/dfs&bfs/16927.py)| [문제](https://www.acmicpc.net/problem/16927) | DFS      |
 | 16933 - 벽 부수고 이동하기 3| [링크](./boj/dfs&bfs/16933.py)| [문제](https://www.acmicpc.net/problem/16933) | BFS      |
+| 16637 - 괄호 추가하기(구글링)| [링크](./boj/dfs&bfs/16637.py)| [문제](https://www.acmicpc.net/problem/16637) | DFS      |
+| 16638 - 괄호 추가하기 2| [링크](./boj/dfs&bfs/16638.py)| [문제](https://www.acmicpc.net/problem/16638) | DFS      |
+| 2636 - 치즈| [링크](./boj/dfs&bfs/2636.py)| [문제](https://www.acmicpc.net/problem/2636) | BFS |
+| 12101 - 1,2,3 더하기 2 | [링크](./boj/dfs&bfs/12101.py)| [문제](https://www.acmicpc.net/problem/12101)| DFS|
+| 17471 - 게리맨더링 | [링크](./boj/dfs&bfs/17471.py)| [문제](https://www.acmicpc.net/problem/17471)| BFS + Brute force|
 
 
 ## Data Structure
@@ -155,6 +160,7 @@
 | 1016 - 제곱 ㄴㄴ수                                  | [링크](./boj/mAth/1016.py)           | [문제](https://www.acmicpc.net/problem/1016)  | 에라토스테네스의 체   |
 | 1011 - Fly me to the Alpha Centauri            | [링크](./boj/mAth/1011.py)    | [문제](https://www.acmicpc.net/problem/1011)  | 수열   |
 | 10164 - 격자상의 경로  | [링크](./boj/mAth/10164.py)           | [문제](https://www.acmicpc.net/problem/10164)  | 같은것이 있는 수열(원래는 dp)|
+| 11758 - CCW  | [링크](./boj/mAth/11758.py)| [문제](https://www.acmicpc.net/problem/11758)  | 기하학|
 
 
 
@@ -190,6 +196,8 @@
 | 1058 - 친구                        | [링크](./boj/brute_force/1058.py)                           | [문제](https://www.acmicpc.net/problem/1058) | Brute force        |
 | 18111 - 마인크래프트| [링크](./boj/brute_force/18111.py)| [문제](https://www.acmicpc.net/problem/18111) | Brute force|
 | 17135 - 캐슬 디펜스| [링크](./boj/brute_force/17135.py)| [문제](https://www.acmicpc.net/problem/17135) | Brute force, 구현, 나중에 bfs풀이도 시도해야 할듯|
+| 1107 - 리모컨(Pypy3)| [링크](./boj/brute_force/1107.py)| [문제](https://www.acmicpc.net/problem/1107) | Brute force |
+| 1759 - 암호 만들기| [링크](./boj/brute_force/1759.py)| [문제](https://www.acmicpc.net/problem/1759) | Brute force |
 
 
 
@@ -218,7 +226,7 @@
 | 1463 - 1로 만들기                              | [링크](./boj/dp/1463.py)                                     | [문제](https://www.acmicpc.net/problem/1463)  | DP                 |
 | 2193 - 이친수                                  | [링크](./boj/dp/2193.py)                                     | [문제](https://www.acmicpc.net/problem/2193)  | DP                 |
 | 11053 - 가장 긴 증가하는 부분 수열(참고)       | [링크](./boj/dp/11053.py)                                    | [문제](https://www.acmicpc.net/problem/11053) | DP                 |
-| 9095 - 1, 2, 3 더하기                          | [링크1](./boj/brute_force/9095.py), [링크2](./boj/brute_force/9095-(1).py) | [문제](https://www.acmicpc.net/problem/9095)  | DP,  Recursion     |
+| 9095 - 1, 2, 3 더하기  | [링크](./boj/dp/9095.py)| [문제](https://www.acmicpc.net/problem/9095)  | DP  |
 | 11726 - 2xn 타일링                             | [링크](./boj/dp/11726.py)                                    | [문제](https://www.acmicpc.net/problem/11726) | DP                 |
 | 11727 - 2xn 타일링 2                           | [링크](./boj/dp/11727.py)                                    | [문제](https://www.acmicpc.net/problem/11727) | DP                 |
 | 11057 - 오르막수(dp 문제인데 그냥 수학으로 품) | [링크](./boj/dp/11057.py)                                    | [문제](https://www.acmicpc.net/problem/11057) | DP                 |
@@ -245,6 +253,9 @@
 | 1915 - 가장 큰 정사각형(구글링) | [링크](./boj/dp/1915.py)| [문제](https://www.acmicpc.net/problem/1915)| DP|
 | 2133 - 타일 채우기 | [링크](./boj/dp/2133.py)| [문제](https://www.acmicpc.net/problem/2133)| DP|
 | 14925 - 목장 건설하기(1915와 유사) | [링크](./boj/dp/14925.py)| [문제](https://www.acmicpc.net/problem/14925)| DP|
+| 5557 - 1학년(구글링) | [링크](./boj/dp/5557.py)| [문제](https://www.acmicpc.net/problem/5557)| DP|
+| 14226 - 이모티콘 | [링크](./boj/dp/14226.py)| [문제](https://www.acmicpc.net/problem/14226)| DP+BFS|
+| 15990 - 1, 2, 3 더하기 5| [링크1](./boj/dp/15990.py), [링크2](./boj/dp/15990.py) | [문제](https://www.acmicpc.net/problem/15990)  | DP  |
 
 
 
@@ -308,5 +319,6 @@
 | 17144 - 미세먼지 안녕!(Pypy3)| [링크](./boj/etc/17144.py)| [문제](https://www.acmicpc.net/problem/17144) | simulation      |
 | 16926 - 배열 돌리기 1(Pypy3)| [링크](./boj/etc/16926.py)| [문제](https://www.acmicpc.net/problem/16926) | simulation      |
 | 17406 - 배열 돌리기 4(Pypy3)| [링크](./boj/etc/17406.py)| [문제](https://www.acmicpc.net/problem/17406) | simulation      |
+| 2290 - LCD Test| [링크](./boj/etc/2290.py)| [문제](https://www.acmicpc.net/problem/2290) | simulation      |
 
 
