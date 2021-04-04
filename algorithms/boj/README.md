@@ -77,6 +77,14 @@
 | 2636 - 치즈| [링크](./boj/dfs&bfs/2636.py)| [문제](https://www.acmicpc.net/problem/2636) | BFS |
 | 12101 - 1,2,3 더하기 2 | [링크](./boj/dfs&bfs/12101.py)| [문제](https://www.acmicpc.net/problem/12101)| DFS|
 | 17471 - 게리맨더링 | [링크](./boj/dfs&bfs/17471.py)| [문제](https://www.acmicpc.net/problem/17471)| BFS + Brute force|
+| 12886 - 돌 그룹 | [링크](./boj/dfs&bfs/12886.py)| [문제](https://www.acmicpc.net/problem/12886)| BFS|
+| 5427 - 불 | [링크](./boj/dfs&bfs/5427.py)| [문제](https://www.acmicpc.net/problem/5427)| BFS|
+| 4179 - 불! | [링크](./boj/dfs&bfs/4179.py)| [문제](https://www.acmicpc.net/problem/4179)| BFS|
+| 17265 - 나의 인생에는 수학과 함께 | [링크](./boj/dfs&bfs/17265.py)| [문제](https://www.acmicpc.net/problem/17265)| BFS|
+| 2146 - 다리 만들기 | [링크](./boj/dfs&bfs/2146.py)| [문제](https://www.acmicpc.net/problem/2146)| BFS|
+| 1976 - 여행 가자 | [링크](./boj/dfs&bfs/1976.py)| [문제](https://www.acmicpc.net/problem/1976)| BFS|
+| 17836 - 공주님을 구해라! | [링크](./boj/dfs&bfs/17836.py)| [문제](https://www.acmicpc.net/problem/17836)| BFS|
+| 1726 - 로봇 | [링크](./boj/dfs&bfs/1726.py)| [문제](https://www.acmicpc.net/problem/1726)| BFS(전진이 다양할때)|
 
 
 ## Data Structure
@@ -123,6 +131,7 @@
 | 1927 - 최소 힙                                 | [링크](./boj/data_structure/1927.py)                         | [문제](https://www.acmicpc.net/problem/1927)  | heap               |
 | 11279 - 최대 힙                                | [링크](./boj/data_structure/11279.py)                        | [문제](https://www.acmicpc.net/problem/11279) | heap               |
 | 11286 - 절댓값 힙| [링크](./boj/data_structure/11286.py)| [문제](https://www.acmicpc.net/problem/11286) | heap               |
+| 1655 - 가운데를 말해요| [링크](./boj/data_structure/1655.py)| [문제](https://www.acmicpc.net/problem/1655) | 우선순위 큐               |
 
 
 
@@ -198,6 +207,7 @@
 | 17135 - 캐슬 디펜스| [링크](./boj/brute_force/17135.py)| [문제](https://www.acmicpc.net/problem/17135) | Brute force, 구현, 나중에 bfs풀이도 시도해야 할듯|
 | 1107 - 리모컨(Pypy3)| [링크](./boj/brute_force/1107.py)| [문제](https://www.acmicpc.net/problem/1107) | Brute force |
 | 1759 - 암호 만들기| [링크](./boj/brute_force/1759.py)| [문제](https://www.acmicpc.net/problem/1759) | Brute force |
+| 14889 - 스타트와 링크| [링크](./boj/brute_force/14889.py)| [문제](https://www.acmicpc.net/problem/14889) | Brute force |
 
 
 
@@ -256,6 +266,10 @@
 | 5557 - 1학년(구글링) | [링크](./boj/dp/5557.py)| [문제](https://www.acmicpc.net/problem/5557)| DP|
 | 14226 - 이모티콘 | [링크](./boj/dp/14226.py)| [문제](https://www.acmicpc.net/problem/14226)| DP+BFS|
 | 15990 - 1, 2, 3 더하기 5| [링크1](./boj/dp/15990.py), [링크2](./boj/dp/15990.py) | [문제](https://www.acmicpc.net/problem/15990)  | DP  |
+| 2225 - 합분해| [링크](./boj/dp/2225.py)| [문제](https://www.acmicpc.net/problem/2225) | DP  |
+| 1890 - 점프| [링크](./boj/dp/1890.py)| [문제](https://www.acmicpc.net/problem/1890)  | DP  |
+| 1309 - 동물원| [링크](./boj/dp/1309.py)| [문제](https://www.acmicpc.net/problem/1309)  | DP  |
+| 2094 - 내려가기| [링크](./boj/dp/2094.py)| [문제](https://www.acmicpc.net/problem/2094)  | DP  |
 
 
 
@@ -320,5 +334,6 @@
 | 16926 - 배열 돌리기 1(Pypy3)| [링크](./boj/etc/16926.py)| [문제](https://www.acmicpc.net/problem/16926) | simulation      |
 | 17406 - 배열 돌리기 4(Pypy3)| [링크](./boj/etc/17406.py)| [문제](https://www.acmicpc.net/problem/17406) | simulation      |
 | 2290 - LCD Test| [링크](./boj/etc/2290.py)| [문제](https://www.acmicpc.net/problem/2290) | simulation      |
+| 14891 - 톱니바퀴| [링크](./boj/etc/14891.py)| [문제](https://www.acmicpc.net/problem/14891) | simulation      |
 
 
