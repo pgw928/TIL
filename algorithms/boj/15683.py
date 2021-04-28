@@ -16,8 +16,8 @@ for i in range(n):
             cctv4.append((i,j))
         elif graph[i][j]==5:
             cctv5.append((i,j))
-dy, dx = [-1, 0, 1, 0], [0, 1, 0, -1]
 
+dy, dx = [-1, 0, 1, 0], [0, 1, 0, -1]
 def find_direction(i, j, g):
     counts = {0: 0, 1: 0, 2: 0, 3: 0}
     for k in range(4):

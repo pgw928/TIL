@@ -12,7 +12,7 @@ def move(shark):
         v, d, s = shark[(b, a)]
         t = v
         while t:
-            if d==1:  # 위로
+            if d==1:
                 if t//(2*(r-1)) > 0:
                     t%=(2*(r-1))
                 if t < b-1:

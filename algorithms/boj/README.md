@@ -85,6 +85,15 @@
 | 1976 - 여행 가자 | [링크](./boj/dfs&bfs/1976.py)| [문제](https://www.acmicpc.net/problem/1976)| BFS|
 | 17836 - 공주님을 구해라! | [링크](./boj/dfs&bfs/17836.py)| [문제](https://www.acmicpc.net/problem/17836)| BFS|
 | 1726 - 로봇 | [링크](./boj/dfs&bfs/1726.py)| [문제](https://www.acmicpc.net/problem/1726)| BFS(전진이 다양할때)|
+| 14923 - 미로 탈출 | [링크](./boj/dfs&bfs/14923.py)| [문제](https://www.acmicpc.net/problem/14923)| BFS|
+| 1039 - 교환 | [링크](./boj/dfs&bfs/1039.py)| [문제](https://www.acmicpc.net/problem/1039)| BFS|
+| 1939 - 중량제한 | [링크](./boj/dfs&bfs/1939.py)| [문제](https://www.acmicpc.net/problem/1939)| BFS+Binary search: 힌트 없었으면 못 풀었을듯|
+| 16197 - 두 동전 | [링크](./boj/dfs&bfs/16197.py)| [문제](https://www.acmicpc.net/problem/16197)| BFS|
+| 16397 - 탈출 | [링크](./boj/dfs&bfs/16397.py)| [문제](https://www.acmicpc.net/problem/16397)| BFS|
+| 16947 - 서울 지하철 2호선 | [링크](./boj/dfs&bfs/16947.py)| [문제](https://www.acmicpc.net/problem/16947)| BFS+DFS|
+| 4485 - 녹색 옷 입은 애가 젤다지? | [링크](./boj/dfs&bfs/4485.py)| [문제](https://www.acmicpc.net/problem/4485)| BFS+DP|
+| 1525 - 퍼즐 | [링크](./boj/dfs&bfs/1525.py)| [문제](https://www.acmicpc.net/problem/1525)| BFS(아이디어 구글링)|
+| 17136 - 색종이 붙이기 | [링크](./boj/dfs&bfs/17136.py)| [문제](https://www.acmicpc.net/problem/17136)| DFS|
 
 
 ## Data Structure
@@ -270,6 +279,7 @@
 | 1890 - 점프| [링크](./boj/dp/1890.py)| [문제](https://www.acmicpc.net/problem/1890)  | DP  |
 | 1309 - 동물원| [링크](./boj/dp/1309.py)| [문제](https://www.acmicpc.net/problem/1309)  | DP  |
 | 2094 - 내려가기| [링크](./boj/dp/2094.py)| [문제](https://www.acmicpc.net/problem/2094)  | DP  |
+| 1699 - 제곱수의 합| [링크](./boj/dp/1699.py)| [문제](https://www.acmicpc.net/problem/1699)  | DP  |
 
 
 
@@ -335,5 +345,14 @@
 | 17406 - 배열 돌리기 4(Pypy3)| [링크](./boj/etc/17406.py)| [문제](https://www.acmicpc.net/problem/17406) | simulation      |
 | 2290 - LCD Test| [링크](./boj/etc/2290.py)| [문제](https://www.acmicpc.net/problem/2290) | simulation      |
 | 14891 - 톱니바퀴| [링크](./boj/etc/14891.py)| [문제](https://www.acmicpc.net/problem/14891) | simulation      |
-
-
+| 17143 - 낚시왕| [링크](./boj/etc/17143.py)| [문제](https://www.acmicpc.net/problem/17143) | simulation      |
+| 16918 - 봄버맨| [링크](./boj/etc/16918.py)| [문제](https://www.acmicpc.net/problem/16918) | simulation      |
+| 12100 - 2048(EASY)| [링크](./boj/etc/12100.py)| [문제](https://www.acmicpc.net/problem/12100) | simulation      |
+| 14890 - 경사로| [링크](./boj/etc/14890.py)| [문제](https://www.acmicpc.net/problem/14890) | simulation      |
+| 15684 - 사다리 조작| [링크](./boj/etc/15684.py)| [문제](https://www.acmicpc.net/problem/15684) | simulation      |
+| 15685 - 드래곤 커브| [링크](./boj/etc/15685.py)| [문제](https://www.acmicpc.net/problem/15685) | simulation      |
+|  2343 - 기타 레슨| [링크](./boj/etc/2110.py)| [문제](https://www.acmicpc.net/problem/ 2343) | binary search      |
+|  17779 - 게리맨더링2| [링크](./boj/etc/17779.py)| [문제](https://www.acmicpc.net/problem/ 17779) | simulation      |
+|  17780 - 새로운 게임| [링크](./boj/etc/17780.py)| [문제](https://www.acmicpc.net/problem/ 17780) | simulation      |
+|  17837 - 새로운 게임 2| [링크](./boj/etc/17837.py)| [문제](https://www.acmicpc.net/problem/ 17837) | simulation      |
+|  17281 - ⚾| [링크](./boj/etc/17281.py)| [문제](https://www.acmicpc.net/problem/ 17281) | simulation      |
