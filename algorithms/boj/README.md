@@ -356,3 +356,4 @@
 |  17780 - 새로운 게임| [링크](./boj/etc/17780.py)| [문제](https://www.acmicpc.net/problem/ 17780) | simulation      |
 |  17837 - 새로운 게임 2| [링크](./boj/etc/17837.py)| [문제](https://www.acmicpc.net/problem/ 17837) | simulation      |
 |  17281 - ⚾| [링크](./boj/etc/17281.py)| [문제](https://www.acmicpc.net/problem/ 17281) | simulation      |
+|  13901 - ⚾| [링크](./boj/etc/13901.py)| [문제](https://www.acmicpc.net/problem/ 13901) | simulation      |
