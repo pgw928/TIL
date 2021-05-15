@@ -270,11 +270,12 @@
 
 
 
-### 13. DBMS 
+### 13. PostgreSQL
 
-* ~~[Mysql]()~~
+* [ORDER BY, DISTINCT, DISTINCT ON(col), LIMIT n OFFSET m](./postgresql/p1.md)
+* [IN 연산자, BETWEEN 연산자, LIKE 연산자](./postgresql/p2.md)
 
-  
+* [실습예제1]('./postgresql/ex1.md')
 
 ### 14. Markdown
 
@@ -292,14 +293,6 @@
 * [LabelImg](./Tool/LabelImg.md)
 
 
-
-#### 16. 앞으로 해야하거나 정리해야 할것들
-
-1. 포트폴리오
-2. Kaggle과 수행평가들
-3. 공모전
-4. 논문
-5. ~~앨리스~~
 
 
 
