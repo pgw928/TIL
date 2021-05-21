@@ -241,7 +241,7 @@
 
 ### 10. 통계
 
-* [성능평가 지표](./statistics/Evaluation_Metrics)
+* [성능평가 지표](./statistics/Evaluation_Metrics.md)
 
 
 
