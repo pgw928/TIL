@@ -263,32 +263,67 @@
 
 
 
-### 12. Django
+### 12. PostgreSQL
+
+* [ORDER BY, DISTINCT, DISTINCT ON(col), LIMIT n OFFSET m](./postgresql/p1.md)
+
+* [IN 연산자, BETWEEN 연산자, LIKE 연산자](./postgresql/p2.md)
+
+* [실습예제1]('./postgresql/ex1.md)
+
+* [INNER JOIN, LEFT JOIN, OUTER JOIN, SELF JOIN](./postgresql/p3.md)
+
+* [OUTER JOIN, CROSS JOIN](./postgresql/p4.md)
+
+* [GROUP BY, GROUPING SETS,  ROLL UP, CUBE](./postgresql/p5.md)
+
+* [분석함수(AVG, ROW_NUBER, RANK, DENSE_RANK, FIRST_VALUE, LAST_VALUE, LAG, LEAD)](./postgresql/p6.md)
+
+* [실습예제2]('./postgresql/ex2.md)
+
+* [서브쿼리(중첩 서브쿼리, 인라인 뷰, 스칼라 서브쿼리)](./postgresql/p7.md)
+
+* [서브쿼리(ANY, ALL, EXISTS)](./postgresql/p8.md)
+
+* [실습예제3]('./postgresql/ex3.md)
+
+* [INSERT](./postgresql/p9.md)
+
+* [UPDATE](./postgresql/p10.md)
+
+  
+
+
+
+### 13. 주식 관련 데이터 분석
+
+* [KRX 전체 종목분석(1)](./finance_data/1.md)
+  * df.nunique() , pd.to_datetime(),  df.dtypes 
+  * df['date'].dt.year, df['date'].dt.month, df['date'].dt.day
+  * 빈도수 시각화(value_counts(), countplot())
+
+
+
+### 14. Django
+
 * [Datetime](./django/DateField.md)
 
 * [objects.create()](./django/objects_create.md)
 
 
 
-### 13. PostgreSQL
-
-* [ORDER BY, DISTINCT, DISTINCT ON(col), LIMIT n OFFSET m](./postgresql/p1.md)
-* [IN 연산자, BETWEEN 연산자, LIKE 연산자](./postgresql/p2.md)
-
-* [실습예제1]('./postgresql/ex1.md')
-
-### 14. Markdown
+### 15. Markdown
 
 * [Markdown 기초](./markdown/markdown.md)
 * Typora 수식 : `ctrl`  +  `shift` + `M` , Latex과 문법 거의 비슷
 
 　
 
-### 15. Object detection
+### 16. Object detection
 
 * [yolo annotation 코드](./object_detection/make_annotation.ipynb)
 
-### 15. TOOL
+### 17. TOOL
 
 * [LabelImg](./Tool/LabelImg.md)
 
