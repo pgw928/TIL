@@ -134,11 +134,10 @@
 
 
 
-###  5. matplotlib.pyplot
+###  5. 시각화
 
-* [scatter, plot](./matplotlib/scatter)
-
-　
+* [scatter](./visualization/scatter)
+* [결측치 시각화(seaborn, missingno)](./visualization/missing_value.md)
 
 ### 6.<u> Machine Learning</u>
 * [AI, ML, DL 분류](./machine_learning/definition.md)
