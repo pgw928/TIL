@@ -130,7 +130,7 @@
 * [결측치 다루기](./pandas/nan_value.md)
 * [duplication](./pandas/duplication.md)
 
-###### (추가해야 할 사항)  pandas.map
+* [날짜 다루기](./datetime.md)
 
 
 
