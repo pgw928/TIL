@@ -130,7 +130,8 @@
 * [결측치 다루기](./pandas/nan_value.md)
 * [duplication](./pandas/duplication.md)
 
-* [날짜 다루기](./datetime.md)
+* [날짜 다루기](./pandas/datetime.md)
+* [reset_index](./pandas/reset_index.md)
 
 
 
