@@ -266,32 +266,20 @@
 ### 12. PostgreSQL
 
 * [ORDER BY, DISTINCT, DISTINCT ON(col), LIMIT n OFFSET m](./postgresql/p1.md)
-
 * [IN 연산자, BETWEEN 연산자, LIKE 연산자](./postgresql/p2.md)
-
 * [실습예제1]('./postgresql/ex1.md)
-
 * [INNER JOIN, LEFT JOIN, OUTER JOIN, SELF JOIN](./postgresql/p3.md)
-
 * [OUTER JOIN, CROSS JOIN](./postgresql/p4.md)
-
 * [GROUP BY, GROUPING SETS,  ROLL UP, CUBE](./postgresql/p5.md)
-
 * [분석함수(AVG, ROW_NUBER, RANK, DENSE_RANK, FIRST_VALUE, LAST_VALUE, LAG, LEAD)](./postgresql/p6.md)
-
 * [실습예제2]('./postgresql/ex2.md)
-
 * [서브쿼리(중첩 서브쿼리, 인라인 뷰, 스칼라 서브쿼리)](./postgresql/p7.md)
-
 * [서브쿼리(ANY, ALL, EXISTS)](./postgresql/p8.md)
-
 * [실습예제3]('./postgresql/ex3.md)
-
 * [INSERT](./postgresql/p9.md)
-
-* [UPDATE](./postgresql/p10.md)
-
-  
+* [UPDATE, UPDATE JOIN](./postgresql/p10.md)
+* [DELETE, DELETE JOIN](./postgresql/p11.md)
+* [UPSERT](./postgresql/p12.md)
 
 
 
