@@ -286,6 +286,10 @@
 * [DELETE, DELETE JOIN](./postgresql/p11.md)
 * [UPSERT](./postgresql/p12.md)
 
+* [EXPORT](./postgresql/p13.md)
+
+* [IMPORT](./postgresql/p14.md)
+
 
 
 ### 13. 주식 관련 데이터 분석
