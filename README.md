@@ -299,7 +299,7 @@
   * df['date'].dt.year, df['date'].dt.month, df['date'].dt.day
   * 빈도수 시각화(value_counts(), countplot())
 
-
+* [KRX 전체 종목분석(2)](./finance_data/2.md) - 미완성
 
 ### 14. Django
 
