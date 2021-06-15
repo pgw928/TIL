@@ -133,6 +133,8 @@
 * [날짜 다루기](./pandas/datetime.md)
 * [reset_index](./pandas/reset_index.md)
 
+* [pivot_table](./pandas/pivot_table.md)
+
 
 
 ###  5. 시각화
@@ -294,12 +296,16 @@
 
 ### 13. 주식 관련 데이터 분석
 
-* [KRX 전체 종목분석(1)](./finance_data/1.md)
+* [KRX 전체 종목분석(1)](./finance_data/1_1.md)
   * df.nunique() , pd.to_datetime(),  df.dtypes 
   * df['date'].dt.year, df['date'].dt.month, df['date'].dt.day
   * 빈도수 시각화(value_counts(), countplot())
-
-* [KRX 전체 종목분석(2)](./finance_data/2.md) - 미완성
+* [KRX 전체 종목분석(2)](./finance_data/1_2.md)
+  * sns.countplot
+  * plt.crosstab
+  * dataframe.plot(subplots=True), dataframe.plot.bar()
+  
+  
 
 ### 14. Django
 
