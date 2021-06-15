@@ -79,6 +79,8 @@
 
 * [pickle 및 glob](./python/glob_pickle.md)
 
+* [closure](./python/closure.md)
+
   
 
 ### 3. Numpy
