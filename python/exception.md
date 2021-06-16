@@ -151,7 +151,7 @@
         except ValueError:
             print('점수의 형식이 잘못되었습니다.')
         except IndexError:
-        print('index 범위를 벗어났습니다.')
+            print('index 범위를 벗어났습니다.')
         print('작업완료')
         
         # 점수의 형식이 잘못되었습니다.
