@@ -33,7 +33,7 @@
         # <class 'list'>
         
         for c in city:
-        print(c, end = ', ')
+            print(c, end = ', ')
         
         # seoul, osan, suwon,
         ```
