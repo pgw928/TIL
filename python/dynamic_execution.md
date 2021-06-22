@@ -22,19 +22,17 @@
         result = eval("2+3*4")
         print(result)
         # 14
-    a = 2
-        print(eval('a+3'))
         
+        a = 2
+        print(eval('a+3'))        
         # 5
         
         city = eval("['seoul', 'osan', 'suwon']")
         print(type(city))
-        
         # <class 'list'>
         
         for c in city:
-        print(c, end = ', ')
-        
+            print(c, end = ', ')   
         # seoul, osan, suwon,
         ```
         
