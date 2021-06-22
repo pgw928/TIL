@@ -55,4 +55,53 @@
     px.bar(df_1, x=df_1.columns, y='GOOG')
     ```
 
-    
+    ![image-20210622131324479](markdown-images/image-20210622131324479.png)
+
+* line plot
+
+  * 구글 수익률 그래프
+
+    ```python
+    px.line(df_1, x=df_1.index, y='GOOG')
+    ```
+
+    ![image-20210622131543148](markdown-images/image-20210622131543148.png)
+
+* area plot
+
+  * 모든종목 subplot으로 표현하기
+
+    ```python
+    px.area(df_1, facet_col='company', facet_col_wrap=2)
+    ```
+
+    ![image-20210622132322294](markdown-images/image-20210622132322294.png)
+
+* scatter plot
+
+  * 구글, 애플 수익 관계
+
+    ```python
+    px.scatter(df_1, x='GOOG', y='AAPL', marginal_x='box', marginal_y='violin')
+    ```
+
+    ![image-20210622140317338](markdown-images/image-20210622140317338.png)
+
+*  ### FinanceDataReader 데이터 로드하기
+
+  ```python
+  import FinanceDataReader as fdr
+  amd = fdr.DataReader('AMD', '2015', '2021')
+  amd.head()
+  ```
+
+  ![image-20210622135610259](markdown-images/image-20210622135610259.png)
+
+* histogram plot
+
+  ```python
+  px.histogram(amd, x='Change', marginal='violin')
+  ```
+
+  ![image-20210622135849670](markdown-images/image-20210622135849670.png)
+
