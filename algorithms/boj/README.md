@@ -351,9 +351,10 @@
 | 14890 - 경사로| [링크](./etc/14890.py)| [문제](https://www.acmicpc.net/problem/14890) | simulation      |
 | 15684 - 사다리 조작| [링크](./etc/15684.py)| [문제](https://www.acmicpc.net/problem/15684) | simulation      |
 | 15685 - 드래곤 커브| [링크](./etc/15685.py)| [문제](https://www.acmicpc.net/problem/15685) | simulation      |
-|  2343 - 기타 레슨| [링크](./etc/2110.py)| [문제](https://www.acmicpc.net/problem/ 2343) | binary search      |
-|  17779 - 게리맨더링2| [링크](./etc/17779.py)| [문제](https://www.acmicpc.net/problem/ 17779) | simulation      |
-|  17780 - 새로운 게임| [링크](./etc/17780.py)| [문제](https://www.acmicpc.net/problem/ 17780) | simulation      |
-|  17837 - 새로운 게임 2| [링크](./etc/17837.py)| [문제](https://www.acmicpc.net/problem/ 17837) | simulation      |
-|  17281 - ⚾| [링크](./etc/17281.py)| [문제](https://www.acmicpc.net/problem/ 17281) | simulation      |
-|  13901 - ⚾| [링크](./etc/13901.py)| [문제](https://www.acmicpc.net/problem/ 13901) | simulation      |
+|  2343 - 기타 레슨| [링크](./etc/2110.py)| [문제](https://www.acmicpc.net/problem/2343) | binary search      |
+|  17779 - 게리맨더링2| [링크](./etc/17779.py)| [문제](https://www.acmicpc.net/problem/17779) | simulation      |
+|  17780 - 새로운 게임| [링크](./etc/17780.py)| [문제](https://www.acmicpc.net/problem/17780) | simulation      |
+|  17837 - 새로운 게임 2| [링크](./etc/17837.py)| [문제](https://www.acmicpc.net/problem/17837) | simulation      |
+|  17281 - ⚾| [링크](./etc/17281.py)| [문제](https://www.acmicpc.net/problem/17281) | simulation      |
+| 13901 - 로봇 | [링크](./etc/13901.py)| [문제](https://www.acmicpc.net/problem/13901) | simulation      |
+
