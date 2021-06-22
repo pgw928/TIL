@@ -141,11 +141,13 @@
 
 ###  5. 시각화
 
-* [scatter](./visualization/scatter)
+* [matplotlib scatter](./visualization/scatter)
 
 * [결측치 시각화(seaborn, missingno)](./visualization/missing_value.md)
 
 * [상관분석 시각화](./visualization/correlation.md)
+
+* [plotly](./visualization/plotly.md)
 
   
 
