@@ -316,6 +316,8 @@
 
 * [Naver openapi 이미지 수집](./crawl/naver_openapi.md)
 
+* [DC 갤러리 댓글 수집](./crawl/dc_comment.md)
+
 
 
 ### 15. Django
