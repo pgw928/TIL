@@ -308,11 +308,12 @@
   * sns.countplot
   * plt.crosstab
   * dataframe.plot(subplots=True), dataframe.plot.bar()
-  
 
 
 
 ### 14. 크롤링
+
+* [Naver 뉴스 기사 수집](./crawl/naver_news.md)
 
 * [Naver openapi 이미지 수집](./crawl/naver_openapi.md)
 
