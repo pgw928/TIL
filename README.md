@@ -316,7 +316,9 @@
 * [Naver openapi 이미지 수집](./crawl/naver_openapi.md)
 * [DC 갤러리 댓글 수집](./crawl/dc_comment.md)
 * [네이트판 훈훈한 이야기 크롤링 연습](./crawl/nate_pan.md)
-* [Selenium(특징, 환경 세팅)](./crawl/selenium1.md)
+* [Selenium1(특징, 환경 세팅)](./crawl/selenium1.md)
+
+* [Selenium2(전체 코드 설명, 완성 코드)](./crawl/selenium2.md)
 
 
 
