@@ -205,7 +205,20 @@
 
 
 
-### 7. <u>Tensorflow</u>
+* [boosting(미완성)](./machine_learning/Boosting.md)
+* 
+
+
+### 7. <u>Scikit-learn</u>
+
+* [k-최근접 이웃 알고리즘(분류)(K-Nearest Neighbor)](./sklearn/knn.md)
+
+
+
+
+
+
+### 8. <u>Tensorflow</u>
 
 * [Tensorflow1.5 기초](./machine_learning/tensorflow_basic.md)
 
@@ -222,7 +235,7 @@
   
 
 
-### 8. <u>Deep Learning</u>
+### 9. <u>Deep Learning</u>
 
 * [퍼셉트론(Perceptron)](./DL/Perceptron.md)
 * [XOR 학습(TF1)](./DL/XOR_TF1.md)
@@ -244,13 +257,13 @@
 
 
 
-### 9. OpenCV
+### 10. OpenCV
 
 * [YOLO](./opencv/yolo.md)
 
 
 
-### 10. 통계
+### 11. 통계
 
 * [성능평가 지표](./statistics/Evaluation_Metrics.md)
 
@@ -259,7 +272,7 @@
 　
 
 
-### 11. Algorithms
+### 12. Algorithms
 
 * [Elice](./algorithms/)
 * [programmers](./algorithms/)
@@ -274,7 +287,7 @@
 
 
 
-### 12. PostgreSQL
+### 13. PostgreSQL
 
 * [ORDER BY, DISTINCT, DISTINCT ON(col), LIMIT n OFFSET m](./postgresql/p1.md)
 * [IN 연산자, BETWEEN 연산자, LIKE 연산자](./postgresql/p2.md)
@@ -298,7 +311,7 @@
 
 
 
-### 13. 주식 관련 데이터 분석
+### 14. 주식 관련 데이터 분석
 
 * [KRX 전체 종목분석(1)](./finance_data/1_1.md)
   * df.nunique() , pd.to_datetime(),  df.dtypes 
@@ -311,7 +324,7 @@
 
 
 
-### 14. 크롤링
+### 15. 크롤링
 
 * [Naver openapi 이미지 수집](./crawl/naver_openapi.md)
 * [DC 갤러리 댓글 수집](./crawl/dc_comment.md)
@@ -322,7 +335,7 @@
 
 
 
-### 15. Django
+### 16. Django
 
 * [Datetime](./django/DateField.md)
 
@@ -330,20 +343,20 @@
 
 
 
-### 16. Markdown
+### 17. Markdown
 
 * [Markdown 기초](./markdown/markdown.md)
 * Typora 수식 : `ctrl`  +  `shift` + `M` , Latex과 문법 거의 비슷
 
 　
 
-### 17. Object detection
+### 18. Object detection
 
 * [yolo annotation 코드](./object_detection/make_annotation.ipynb)
 
 
 
-### 18. TOOL
+### 19. TOOL
 
 * [LabelImg](./Tool/LabelImg.md)
 
