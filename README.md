@@ -364,6 +364,25 @@
 
 
 
+### 20. R
+
+* [패키지 설치 및 로드](./R/r1.md)
+* [ifelse](./R/r2.md)
+* [데이터 파악 방법](./R/r3.md)
+
+* [rename](./R/r4.md)
+* [행추출(filter)](./R/r5.md)
+
+* [변수추출(select)](./R/r6.md)
+* [행, 변수 추출](./R/r7.md)
+* [정렬하기(arrange)](./R/r8.md)
+
+* [파생변수 추가(mutate)](./R/r9.md)
+
+* [집단별 요약하기(summarise, group_by)](./R/r10.md)
+
+* [데이터 결합하기(left_join, bind_rows)](./R/r11.md)
+
 
 
 ## 참고문헌
