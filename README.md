@@ -212,8 +212,13 @@
 ### 7. <u>Scikit-learn</u>
 
 * [k-최근접 이웃 알고리즘(분류)(K-Nearest Neighbor)](./sklearn/knn.md)
+* [pipeline(1)(make_pipeline)](./sklearn/pipeline1.md)
 
+* [pipeline(2)(Pipeline)](./sklearn/pipeline2.md)
 
+* [GridSearchCV](./GridSearchCV.md)
+
+* [ColumnTransformer](./sklearn/ColumnTransformer.md)
 
 
 
