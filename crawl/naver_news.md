@@ -48,7 +48,7 @@
 * #### 크롤링 코드
 
   ```python
-  ef fcrawl_news(i, keyword, output_file_name):
+  def fcrawl_news(i, keyword, output_file_name):
       page_num = (i - 1) * 10 + 1
   
       url = f'https://search.naver.com/search.naver?where=news&sm=tab_pge&query={keyword}&sort=1&photo=0&field=0&pd=3&ds=2021.01.01&de=2021.04.30&mynews=0&office_type=0&office_section_code=0&news_office_checked=&nso=so:dd,p:from20210101to20210430,a:all&start={page_num}'
