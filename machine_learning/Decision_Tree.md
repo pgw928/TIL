@@ -79,7 +79,7 @@
      
         * **예제**
      
-      ![image-20201021204933573](markdown-images/image-20201021204933573.png)
+![image-20201021204933573](markdown-images/image-20201021204933573.png)
 
 ![image-20201021212722620](markdown-images/image-20201021212722620.png)     
 
