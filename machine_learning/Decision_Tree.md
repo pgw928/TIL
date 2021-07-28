@@ -66,7 +66,7 @@
 
        여기서 ![image-20201021204234731](markdown-images/image-20201021204234731.png)는 ***A***영역에 속하는 데이터의 비율을 나타낸다.
 
-       * **예제 **
+       * **예제**
 
      ​                  ![image-20201021205120530](markdown-images/image-20201021205120530.png)
 
@@ -79,7 +79,7 @@
      
         * **예제**
      
-      ![image-20201021204933573](markdown-images/image-20201021204933573.png)
+![image-20201021204933573](markdown-images/image-20201021204933573.png)
 
 ![image-20201021212722620](markdown-images/image-20201021212722620.png)     
 
