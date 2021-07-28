@@ -137,6 +137,8 @@
 
 * [pivot_table](./pandas/pivot_table.md)
 
+* [get_dummies, factorize, replace](./pandas/encoding.md)
+
 
 
 ###  5. 시각화
@@ -206,7 +208,8 @@
 
 
 * [boosting(미완성)](./machine_learning/Boosting.md)
-* 
+
+  
 
 
 ### 7. <u>Scikit-learn</u>
@@ -216,9 +219,14 @@
 
 * [pipeline(2)(Pipeline)](./sklearn/pipeline2.md)
 
-* [GridSearchCV](./GridSearchCV.md)
+* [GridSearchCV](./sklearn/GridSearchCV.md)
 
 * [ColumnTransformer](./sklearn/ColumnTransformer.md)
+
+* [Ridge 회귀](./sklearn/Ridge.md)
+* [Lasso 회귀](./sklearn/Lasso.md)
+
+* [ElasticNet](./sklearn/ElasticNet.md)
 
 
 
@@ -272,7 +280,7 @@
 
 * [성능평가 지표](./statistics/Evaluation_Metrics.md)
 
-
+* 
 
 　
 
