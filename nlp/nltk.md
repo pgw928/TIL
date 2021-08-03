@@ -2,7 +2,7 @@
 
 > 자연어 처리를 위한 위한 텍스트를 단위별로 나누는 라이브러리에 대해서 알아본다.
 
-### 
+
 
 ### NLTK(Natural Language Toolkit)
 
