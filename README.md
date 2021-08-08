@@ -139,6 +139,8 @@
 
 * [get_dummies, factorize, replace](./pandas/encoding.md)
 
+* [get_dummies(조금 더 자세히)](./pandas/get_dummies.md)
+
 
 
 ###  5. 시각화
@@ -216,17 +218,13 @@
 
 * [k-최근접 이웃 알고리즘(분류)(K-Nearest Neighbor)](./sklearn/knn.md)
 * [pipeline(1)(make_pipeline)](./sklearn/pipeline1.md)
-
 * [pipeline(2)(Pipeline)](./sklearn/pipeline2.md)
-
 * [GridSearchCV](./sklearn/GridSearchCV.md)
-
 * [ColumnTransformer](./sklearn/ColumnTransformer.md)
-
 * [Ridge 회귀](./sklearn/Ridge.md)
 * [Lasso 회귀](./sklearn/Lasso.md)
-
 * [ElasticNet](./sklearn/ElasticNet.md)
+* [KFold, StratifiedKFold](./sklearn/KFold.md)
 
 
 
