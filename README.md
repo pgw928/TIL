@@ -214,7 +214,7 @@
   
 
 
-### 7. <u>Scikit-learn</u>
+### 7. <u>Scikit-learn 및 기타</u>
 
 * [k-최근접 이웃 알고리즘(분류)(K-Nearest Neighbor)](./sklearn/knn.md)
 * [pipeline(1)(make_pipeline)](./sklearn/pipeline1.md)
@@ -225,6 +225,7 @@
 * [Lasso 회귀](./sklearn/Lasso.md)
 * [ElasticNet](./sklearn/ElasticNet.md)
 * [KFold, StratifiedKFold](./sklearn/KFold.md)
+* [PCA, T-SNE, UMAP(코드 사용법)](./sklearn/dim_reduction.md)
 
 
 
