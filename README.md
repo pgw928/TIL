@@ -225,7 +225,7 @@
 * [PCA, T-SNE, UMAP(코드 사용법)](./sklearn/dim_reduction.md)
 * [Target Encoding](./sklearn/Target_Encoding.md)
 * [Pycaret(모델 1가지)(1)](./sklearn/Pycaret1.md)
-* [Pycaret[모델 blending](2)](./sklearn/Pycaret2.md)
+* [Pycaret(모델 blending)(2)](./sklearn/Pycaret2.md)
 
 
 
