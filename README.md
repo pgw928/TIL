@@ -131,15 +131,12 @@
 * [Concatenation](./pandas/Concatenation.md)
 * [결측치 다루기](./pandas/nan_value.md)
 * [duplication](./pandas/duplication.md)
-
 * [날짜 다루기](./pandas/datetime.md)
 * [reset_index](./pandas/reset_index.md)
-
 * [pivot_table](./pandas/pivot_table.md)
-
 * [get_dummies, factorize, replace](./pandas/encoding.md)
-
 * [get_dummies(조금 더 자세히)](./pandas/get_dummies.md)
+* [pandas_profileReport](./pandas/pandas_profileReport.md)
 
 
 
@@ -227,6 +224,8 @@
 * [KFold, StratifiedKFold](./sklearn/KFold.md)
 * [PCA, T-SNE, UMAP(코드 사용법)](./sklearn/dim_reduction.md)
 * [Target Encoding](./sklearn/Target_Encoding.md)
+* [Pycaret(모델 1가지)(1)](./sklearn/Pycaret1.md)
+* [Pycaret[모델 blending](2)](./sklearn/Pycaret2.md)
 
 
 
