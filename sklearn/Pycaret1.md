@@ -177,7 +177,7 @@
 
       ![image-20210810183046794](markdown-images/image-20210810183046794.png)
 
-  * test set 예측(1) : 결과인 `class`와 `raw_score=True`를 설정시 확률까지 기존 `test`에 컬럼ㅇ로 추가되어  `DataFrame`을 생성해준다.
+  * test set 예측 : 결과인 `class`와 `raw_score=True`를 설정시 확률까지 기존 `test`에 컬럼ㅇ로 추가되어  `DataFrame`을 생성해준다.
 
     ```python
     final_lgbm = finalize_model(tuned_lightgbm_optuna)
@@ -186,96 +186,4 @@
     ```
 
     ![image-20210810222456816](markdown-images/image-20210810222456816.png)
-    
-  * test set예측(2) :`sklearn`의  `pipeline`형식으로 바꾸어 `predict_proba` 메소드를 사용할 수 있다.
-  
-    * 파이프라인 불러오기
-  
-      ```python
-      prep_pipe = get_config('prep_pipe')
-      type(prep_pipe) # sklearn.pipeline.Pipeline
-      ```
-  
-      ```python
-      prep_pipe
-      ## 결과
-      Pipeline(memory=None,
-               steps=[('dtypes',
-                       DataTypes_Auto_infer(categorical_features=[],
-                                            display_types=False, features_todrop=[],
-                                            id_columns=['index'],
-                                            ml_usecase='classification',
-                                            numerical_features=[], target='credit',
-                                            time_features=[])),
-                      ('imputer',
-                       Simple_Imputer(categorical_strategy='not_available',
-                                      fill_value_categorical=None,
-                                      fill_value_numerical=None,
-                                      numer...
-                      ('scaling', 'passthrough'), ('P_transform', 'passthrough'),
-                      ('binn', 'passthrough'), ('rem_outliers', 'passthrough'),
-                      ('cluster_all', 'passthrough'),
-                      ('dummy', Dummify(target='credit')),
-                      ('fix_perfect', Remove_100(target='credit')),
-                      ('clean_names', Clean_Colum_Names()),
-                      ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
-                      ('dfs', 'passthrough'), ('pca', 'passthrough')],
-               verbose=False)
-      ```
-  
-    * 파이프라인에 위에서 만들어진 모델 추가
-  
-      ```python
-      prep_pipe.steps.append(['trained_model', voting_tune_optuna])
-      prep_pipe
-      ## 결과
-      Pipeline(memory=None,
-               steps=[('dtypes',
-                       DataTypes_Auto_infer(categorical_features=[],
-                                            display_types=False, features_todrop=[],
-                                            id_columns=['index'],
-                                            ml_usecase='classification',
-                                            numerical_features=[], target='credit',
-                                            time_features=[])),
-                      ('imputer',
-                       Simple_Imputer(categorical_strategy='not_available',
-                                      fill_value_categorical=None,
-                                      fill_value_numerical=None,
-                                      numer...
-                                                                var_smoothing=1e-09)),
-                                                    ('lda',
-                                                     LinearDiscriminantAnalysis(n_components=None,
-                                                                                priors=None,
-                                                                                shrinkage=None,
-                                                                                solver='svd',
-                                                                                store_covariance=False,
-                                                                                tol=0.0001))],
-                                        flatten_transform=True, n_jobs=-1,
-                                        verbose=False, voting='soft',
-                                        weights=[0.8935957404176336,
-                                                 0.2966272856190533,
-                                                 0.5839363934433777,
-                                                 0.6254688659302372,
-                                                 0.12890313666331554,
-                                                 0.09569782255345581])]],
-               verbose=False)
-      ```
-  
-    * test set 예측
-  
-      ```python
-      prep_pipe.predict_proba(test)
-      ## 결과
-      array([[0.08422577, 0.10594238, 0.80983186],
-             [0.12410099, 0.15575107, 0.72014793],
-             [0.10716005, 0.20692658, 0.68591336],
-             ...,
-             [0.08977594, 0.19165872, 0.71856534],
-             [0.11115337, 0.16746082, 0.72138581],
-             [0.05171066, 0.23571267, 0.71257667]])
-      ```
-  
-      
-  
-    
 
