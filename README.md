@@ -226,6 +226,9 @@
 * [ElasticNet](./sklearn/ElasticNet.md)
 * [KFold, StratifiedKFold](./sklearn/KFold.md)
 * [PCA, T-SNE, UMAP(코드 사용법)](./sklearn/dim_reduction.md)
+* [Target Encoding](./sklearn/Target_Encoding.md)
+
+
 
 
 
